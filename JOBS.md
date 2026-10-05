@@ -2,7 +2,7 @@
 
 Automated candidate listings. Every listing requires review of the employer’s requirements.
 
-Listing snapshot: 2026-10-05T17:50:22+00:00. See [coverage](COVERAGE.md) and the latest Actions run for live check timestamps.
+Listing snapshot: 2026-10-05T17:50:54+00:00. See [coverage](COVERAGE.md) and the latest Actions run for live check timestamps.
 
 | Employer | Role | Location | Eligibility | Employment | Status | First seen | Employer published | Tracker published |
 |---|---|---|---|---|---|---|---|---|

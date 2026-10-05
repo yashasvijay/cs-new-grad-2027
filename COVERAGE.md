@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-10-05T17:49:28+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|
@@ -346,7 +346,7 @@ Snapshot: 2026-10-05T17:49:28+00:00. Planned employers are not monitored. Curren
 | MSCI | planned | not checked | True |
 | Nasdaq, Inc. | planned | not checked | True |
 | NetApp | planned | not checked | True |
-| Netflix | planned | failed | True |
+| Netflix | planned | not checked | True |
 | Newmont | planned | not checked | True |
 | News Corp (Class A) | planned | not checked | True |
 | News Corp (Class B) | planned | not checked | True |

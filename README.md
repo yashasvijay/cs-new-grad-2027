@@ -1,6 +1,6 @@
 <div align="center">
 
-# CS New Grad · 2027
+# yashasvijay - CS New Grad · 2027
 
 **U.S. new-grad roles and company events. Direct links. Clear status.**
 

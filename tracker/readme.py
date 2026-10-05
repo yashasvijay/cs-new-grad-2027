@@ -1,5 +1,36 @@
 from tracker.run import cell
 from tracker.sections import annotate
+from html import escape
+import re
+
+
+STATES = dict(zip(
+    'Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming|District of Columbia'.split('|'),
+    'AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC'.split()))
+
+
+def normalize_location(location):
+    original = location.strip()
+    campus = re.match(r'^US-([A-Z]{2})-([A-Z][A-Z -]+)-[A-Z]+\d+(?:\s*~|$)', original)
+    if campus and campus[1] in STATES.values():
+        return f'{campus[2].title()}, {campus[1]}'
+    parts = [part.strip() for part in original.split(',')]
+    if parts[-1].lower() in ('us', 'usa', 'united states', 'united states of america'):
+        parts = parts[:-1]
+    if len(parts) >= 2:
+        city, state = parts[-2:]
+        state = STATES.get(state, state)
+        if state in STATES.values() and re.fullmatch(r"[A-Za-z][A-Za-z .'-]*", city):
+            return f'{city}, {state}'
+    return original
+
+
+def location_cell(location):
+    locations = [normalize_location(part) for part in (location or '').split(';') if part.strip()]
+    locations = [escape(part, quote=False).replace('|', '&#124;').replace('\r', ' ').replace('\n', ' ') for part in locations]
+    if len(locations) < 3:
+        return '; '.join(locations)
+    return f'<details><summary>{len(locations)} locations</summary>' + '<br>'.join(locations) + '</details>'
 
 
 def render(view, now):
@@ -47,7 +78,7 @@ def render(view, now):
                 note = '; '.join(reason_notes + ([note] if note and not duplicate_reuse_note else []))
             notes = cell(note)
             marker = '🔒 ' if j['status'] == 'closed' else ''
-            lines.append(f"<tr><td><strong>{cell(j['employer'])}</strong></td><td>{marker}{cell(j['title'])}{' ⚠️' if j['employment'].startswith('full-time unverified') else ''}{' 📝' if j.get('verification_mode') == 'manual' else ''} </td><td>{cell(j['location'])}</td><td>{notes}</td><td width=100 nowrap>{button(j)}</td><td>{date}</td></tr>")
+            lines.append(f"<tr><td><strong>{cell(j['employer'])}</strong></td><td>{marker}{cell(j['title'])}{' ⚠️' if j['employment'].startswith('full-time unverified') else ''}{' 📝' if j.get('verification_mode') == 'manual' else ''} </td><td>{location_cell(j['location'])}</td><td>{notes}</td><td width=100 nowrap>{button(j)}</td><td>{date}</td></tr>")
         lines += ['</tbody></table>', '']
         if not jobs:
             lines += ['', 'No listings in this group yet.']

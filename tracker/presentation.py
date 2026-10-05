@@ -29,7 +29,8 @@ def button(job):
     closed = job['status'] == 'closed'
     label = '🔒 Closed — original posting' if closed else ('Apply' if job['status'].startswith('open') else 'Review original posting')
     asset = 'closed.svg' if closed else ('apply.svg' if job['status'].startswith('open') else 'review.svg')
-    return f'<a href="{escape(job["url"], quote=True)}"><img src="assets/{asset}" width="118" alt="{label}"></a>'
+    width = 148 if asset == "apply.svg" else 118
+    return f'<a href="{escape(job["url"], quote=True)}"><img src="assets/{asset}" width="{width}" alt="{label}"></a>'
 
 
 def decorate_links(text):

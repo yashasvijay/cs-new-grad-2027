@@ -19,12 +19,13 @@ def render(view, now):
     groups = [('Open roles', open_jobs), ('Verification pending', [j for j in view['jobs'] if not j['status'].startswith('open') and j['status'] != 'closed']), ('Closed roles', [j for j in view['jobs'] if j['status'] == 'closed'])]
     lines += ['**Order:** open roles first, then verification pending, then 🔒 closed roles. Each group is newest employer release first; unknown release dates follow dated postings. Publication dates can reflect republication.', '']
     for heading, jobs in groups:
-        lines += [f'## {heading}', '', '| Company | Role | Location | Eligibility / notes | Apply | Released |', '|---|---|---|---|:---:|---|']
+        lines += [f'## {heading}', '', '<table>', '<thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Eligibility / notes</th><th width="176">Apply</th><th>Released</th></tr></thead>', '<tbody>']
         for j in release_order(jobs):
             date = (j.get('employer_published_at') or j.get('employer_posted_at') or '')[:10] or ('Release unknown<br>First seen ' + j['first_seen_at'][:10])
             notes = cell(j.get('eligibility_note') or j['eligibility'])
             marker = '🔒 ' if j['status'] == 'closed' else ''
-            lines.append(f"| **{cell(j['employer'])}** | {marker}{cell(j['title'])}{' ⚠️' if j['employment'].startswith('full-time unverified') else ''}{' 📝' if j.get('verification_mode') == 'manual' else ''} | {cell(j['location'])} | {notes} | {button(j)} | {date} |")
+            lines.append(f"<tr><td><strong>{cell(j['employer'])}</strong></td><td>{marker}{cell(j['title'])}{' ⚠️' if j['employment'].startswith('full-time unverified') else ''}{' 📝' if j.get('verification_mode') == 'manual' else ''} </td><td>{cell(j['location'])}</td><td>{notes}</td><td width=176 nowrap>{button(j)}</td><td>{date}</td></tr>")
+        lines += ['</tbody></table>', '']
         if not jobs:
             lines += ['', 'No listings in this group yet.']
         lines += ['']

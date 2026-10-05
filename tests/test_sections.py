@@ -1,6 +1,7 @@
 import copy
 from collections import Counter
 import json
+import re
 from pathlib import Path
 import unittest
 
@@ -82,15 +83,34 @@ class SectionTests(unittest.TestCase):
         self.assertIn('<details><summary>Show ', secondary)
         self.assertRegex(secondary, r'</summary>\n\n<table>')
         self.assertIn('</tbody></table>\n\n</details>', secondary)
-        self.assertIn('# yashasvijay - C.S. New Grad', text)
+        self.assertIn('# yashasvijay - 2027 CS New Grad Tracker', text)
         self.assertIn('width="100" height="32"', text)
         self.assertLess(text.index('## Company events'), text.index('## Coverage'))
-        intro = text.split('# yashasvijay - C.S. New Grad', 1)[1].split('</div>', 1)[0]
-        self.assertIn('Screenshot placeholder', intro)
-        self.assertIn('Site link placeholder', intro)
+        intro = text.split('# yashasvijay - 2027 CS New Grad Tracker', 1)[1].split('</div>', 1)[0]
+        self.assertIn('<!-- SCREENSHOT:', intro)
+        self.assertIn('<!-- SITE LINK:', intro)
+        self.assertNotIn('> Screenshot placeholder', text)
+        self.assertNotIn('> Site link placeholder', text)
         self.assertNotIn('badge.svg', intro)
         self.assertNotIn('Read before applying', intro)
         self.assertIn("Listings are sourced from public employer career pages and remain the property of their respective employers. The MIT license covers this repository's code, not the listings.", text)
+
+    def test_navigation_and_prominent_eligibility_warning(self):
+        view = json.loads(Path('data/listings.json').read_text())
+        text = render(view, view['snapshot_at'])
+        nav = next(line for line in text.splitlines() if 'alt="2027 roles"' in line)
+        links = re.findall(r'href="([^"]+)"', nav)
+        self.assertEqual(len(links), 6)
+        for link in links:
+            path, anchor = link.split('#', 1)
+            target = Path(path).read_text() if path else text
+            headings = re.findall(r'^#{1,6} (.+)$', target, re.MULTILINE)
+            slugs = [re.sub(r'[^\w -]', '', heading.lower()).replace(' ', '-') for heading in headings]
+            self.assertIn(anchor, slugs, link)
+        warning = '**“2027 mentioned” is a screening signal, not a guarantee of eligibility.**'
+        self.assertIn(warning, text)
+        self.assertLess(text.index('</div>'), text.index(warning))
+        self.assertLess(text.index(warning), text.index('## Open roles'))
 
 
 if __name__ == '__main__':

@@ -39,13 +39,16 @@ def render(view, now):
     confirmed = [j for j in jobs if j['listing_section'] == 'new_grad_2027']
     general = [j for j in jobs if j['listing_section'] == 'general_early_career']
     secondary = [j for j in jobs if j['listing_section'] == 'secondary']
-    lines = ['<div align="center">', '', '# yashasvijay - C.S. New Grad', '',
+    lines = ['<div align="center">', '', '# yashasvijay - 2027 CS New Grad Tracker', '',
              'Full-time U.S. CS roles for the 2027 graduating class.<br>',
              'Jobs are sourced from public employer career pages.<br>',
              'Company events include virtual, in-person, and hybrid formats.', '',
-             '> Screenshot placeholder — a preview will be added after the site is built.', '',
-             '> Site link placeholder — the tracker link will be added after Phase 2.', '',
-             '</div>', '', '---', '']
+             '<!-- SCREENSHOT: add a preview after the site is built -->', '',
+             '<!-- SITE LINK: add after Phase 2 -->', '',
+             '</div>', '',
+             '**“2027 mentioned” is a screening signal, not a guarantee of eligibility.** Check the employer’s requirements before applying.', '',
+             '[2027 roles](#2027-new-grad-roles) · [General early career](#general-early-career--swe--sde-i) · [Company events](#company-events) · [Coverage](#coverage) · [Methodology](docs/METHODOLOGY.md#how-the-tracker-works) · [Secondary listings](#secondary-listings)', '',
+             '---', '']
     from tracker.presentation import release_order, listing_order, button
     groups = [('2027 new-grad roles', confirmed), ('General early career · SWE / SDE I', general), ('Secondary listings', secondary)]
     lines += ['## Open roles', '', '### 2027 new-grad roles', '', 'These postings mention 2027 graduation or start dates. Review the employer’s exact requirements.', '']

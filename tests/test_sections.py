@@ -101,6 +101,7 @@ class SectionTests(unittest.TestCase):
         nav = next(line for line in text.splitlines() if 'alt="2027 roles"' in line)
         links = re.findall(r'href="([^"]+)"', nav)
         self.assertEqual(len(links), 6)
+        self.assertNotIn(' · ', nav)
         for link in links:
             path, anchor = link.split('#', 1)
             target = Path(path).read_text() if path else text
@@ -111,6 +112,20 @@ class SectionTests(unittest.TestCase):
         self.assertIn(warning, text)
         self.assertLess(text.index('</div>'), text.index(warning))
         self.assertLess(text.index(warning), text.index('## Open roles'))
+
+    def test_legend_placement_and_row_symbols(self):
+        view = json.loads(Path('data/listings.json').read_text())
+        text = render(view, view['snapshot_at'])
+        legend = '⚠️ full-time status unverified · 📝 manual employer-page check (expires after 48 hours)'
+        self.assertIn(legend + '\n\n<table>', text)
+        coverage = text.split('## Coverage', 1)[1].split('## Contribute', 1)[0]
+        self.assertIn(legend, coverage)
+        for employment, mode in [('full-time', None), ('full-time unverified', None), ('full-time', 'manual'), ('full-time unverified', 'manual')]:
+            row = dict(view['jobs'][0], title='Legend test role', employment=employment, verification_mode=mode)
+            rendered = render(dict(view, jobs=[row]), view['snapshot_at'])
+            title_cell = rendered.split('Legend test role', 1)[1].split('</td>', 1)[0]
+            self.assertEqual('⚠️' in title_cell, employment.startswith('full-time unverified'))
+            self.assertEqual('📝' in title_cell, mode == 'manual')
 
 
 if __name__ == '__main__':

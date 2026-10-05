@@ -39,6 +39,7 @@ def render(view, now):
     confirmed = [j for j in jobs if j['listing_section'] == 'new_grad_2027']
     general = [j for j in jobs if j['listing_section'] == 'general_early_career']
     secondary = [j for j in jobs if j['listing_section'] == 'secondary']
+    legend = '⚠️ full-time status unverified · 📝 manual employer-page check (expires after 48 hours)'
     lines = ['<div align="center">', '', '# yashasvijay - 2027 CS New Grad Tracker', '',
              'Full-time U.S. CS roles for the 2027 graduating class.<br>',
              'Jobs are sourced from public employer career pages.<br>',
@@ -47,11 +48,11 @@ def render(view, now):
              '<!-- SITE LINK: add after Phase 2 -->', '',
              '</div>', '',
              '**“2027 mentioned” is a screening signal, not a guarantee of eligibility.** Check the employer’s requirements before applying.', '',
-             '[2027 roles](#2027-new-grad-roles) · [General early career](#general-early-career--swe--sde-i) · [Company events](#company-events) · [Coverage](#coverage) · [Methodology](docs/METHODOLOGY.md#how-the-tracker-works) · [Secondary listings](#secondary-listings)', '',
+             '[2027 roles](#2027-new-grad-roles) [General early career](#general-early-career--swe--sde-i) [Company events](#company-events) [Coverage](#coverage) [Methodology](docs/METHODOLOGY.md#how-the-tracker-works) [Secondary listings](#secondary-listings)', '',
              '---', '']
     from tracker.presentation import release_order, listing_order, button
     groups = [('2027 new-grad roles', confirmed), ('General early career · SWE / SDE I', general), ('Secondary listings', secondary)]
-    lines += ['## Open roles', '', '### 2027 new-grad roles', '', 'These postings mention 2027 graduation or start dates. Review the employer’s exact requirements.', '']
+    lines += ['## Open roles', '', '### 2027 new-grad roles', '', 'These postings mention 2027 graduation or start dates. Review the employer’s exact requirements.', '', legend, '']
     for heading, jobs in groups:
         level = '##' if heading == 'Secondary listings' else '###'
         heading_lines = [] if heading == '2027 new-grad roles' else [f'{level} {heading}', '']
@@ -92,7 +93,7 @@ def render(view, now):
     lines += ['## Company events', '', 'Virtual, in-person, and hybrid events from company organizers. Event dates are separate from job release dates. Check registration, cost, and eligibility before attending.', '', '| Company | Event | Dates | Format | Location | Cost | Link |', '|---|---|---|---|---|---|:---:|']
     lines += upcoming_rows(now)
     lines += ['', '[Full event list and history](EVENTS.md) · [Event data](data/events.json)', '']
-    lines += ['## Coverage', '',
+    lines += ['## Coverage', '', legend, '',
               f'{len(view["coverage"])} employers in the inventory; {monitored} have had a successful source check. Inventory entries do not imply complete monitoring.', '',
               '[Employer coverage and failures](COVERAGE.md) · [Methodology and status definitions](docs/METHODOLOGY.md)', '',
               '## Contribute', '',

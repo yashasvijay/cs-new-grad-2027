@@ -64,6 +64,13 @@ class TrackerTests(unittest.TestCase):
             self.assertTrue(refreshed['status'].startswith('open'))
             self.assertEqual(refreshed['first_seen_at'], '2026-10-05T10:00:00+00:00')
 
+    def test_publication_cutoff(self):
+        for title in ['Software Engineer, New Grad 2027', 'Software Engineer I']:
+            self.assertIsNone(classify(job(title=title, employer_published_at='2025-12-31T23:59:59Z', employer_updated_at='2026-10-05')))
+            self.assertIsNotNone(classify(job(title=title, employer_published_at='2026-01-01')))
+        self.assertIsNone(classify(job(_recovered=True, employer_posted_at='2024-07-01')))
+        self.assertIsNotNone(classify(job(employer_published_at=None)))
+
     def test_eligibility(self):
         self.assertIsNotNone(classify(job()))
         for changes in [dict(location='Remote'), dict(countries=['Canada']), dict(title='Senior Software Engineer, New Grad'), dict(employment_type='Intern'), dict(description='Full-time graduating in 2026'), dict(description='New grad. 3+ years of experience required'), dict(title='Software Engineer, New Grad (Dec 2026)', description='Graduate in December 2026 and start full time by January 2027')]:

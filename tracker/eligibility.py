@@ -1,4 +1,5 @@
 import re
+from datetime import date
 
 US = re.compile(r'\b(?:united states|usa|u\.s\.|san francisco|new york|seattle|boston|austin|palo alto|mountain view|menlo park|sunnyvale|san jose|los angeles|chicago|washington,? dc)\b|,\s*(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)\b', re.I)
 CS = re.compile(r'\b(?:software|site reliability|firmware|ai engineer|ai research scientist|machine learning|data scien|data engineer|computer|cyber|security engineer|cloud engineer|systems engineer|research engineer|applied scientist|developer)')
@@ -6,6 +7,13 @@ ENTRY = re.compile(r'\b(?:new (?:college )?grad(?:uate)?|recent grad(?:uate)?|un
 
 
 def classify(job):
+    published = job.get('employer_published_at') or job.get('employer_posted_at')
+    if published:
+        try:
+            if date.fromisoformat(published[:10]) < date(2026, 1, 1):
+                return None
+        except (TypeError, ValueError):
+            pass
     if job.get('_recovered'):
         return {k: job[k] for k in ('eligibility', 'employment', 'evidence', 'review_required')}
     title = job['title'].lower()

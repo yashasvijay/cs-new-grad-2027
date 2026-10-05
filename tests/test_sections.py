@@ -109,6 +109,10 @@ class SectionTests(unittest.TestCase):
             slugs = [re.sub(r'[^\w -]', '', heading.lower()).replace(' ', '-') for heading in headings]
             self.assertIn(anchor, slugs, link)
         warning = '**“2027 mentioned” is a screening signal, not a guarantee of eligibility.**'
+        centered = re.findall(r'<div align="center">\n\n(.*?)\n\n</div>', text, re.DOTALL)
+        block = next(block for block in centered if nav in block)
+        self.assertIn(warning, block)
+        self.assertEqual(re.findall(r'href="([^"]+)"', block), links)
         self.assertIn(warning, text)
         self.assertLess(text.index('</div>'), text.index(warning))
         self.assertLess(text.index(warning), text.index('## Open roles'))

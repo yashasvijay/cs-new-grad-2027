@@ -46,10 +46,10 @@ def render(view, now):
              'Company events include virtual, in-person, and hybrid formats.', '',
              '<!-- SCREENSHOT: add a preview after the site is built -->', '',
              '<!-- SITE LINK: add after Phase 2 -->', '',
-             '</div>', '',
+             '</div>', '', '<div align="center">', '',
              '**“2027 mentioned” is a screening signal, not a guarantee of eligibility.** Check the employer’s requirements before applying.', '',
              '[2027 roles](#2027-new-grad-roles) [General early career](#general-early-career--swe--sde-i) [Company events](#company-events) [Coverage](#coverage) [Methodology](docs/METHODOLOGY.md#how-the-tracker-works) [Secondary listings](#secondary-listings)', '',
-             '---', '']
+             '</div>', '', '---', '']
     from tracker.presentation import release_order, listing_order, button
     groups = [('2027 new-grad roles', confirmed), ('General early career · SWE / SDE I', general), ('Secondary listings', secondary)]
     lines += ['## Open roles', '', '### 2027 new-grad roles', '', 'These postings mention 2027 graduation or start dates. Review the employer’s exact requirements.', '', legend, '']

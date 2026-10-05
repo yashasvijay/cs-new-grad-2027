@@ -12,9 +12,13 @@ Company events include virtual, in-person, and hybrid formats.
 
 </div>
 
+<div align="center">
+
 **“2027 mentioned” is a screening signal, not a guarantee of eligibility.** Check the employer’s requirements before applying.
 
 <a href="#2027-new-grad-roles"><img src="https://img.shields.io/badge/2027%20roles-334155?style=for-the-badge" alt="2027 roles"></a> <a href="#general-early-career--swe--sde-i"><img src="https://img.shields.io/badge/General%20early%20career-334155?style=for-the-badge" alt="General early career"></a> <a href="#company-events"><img src="https://img.shields.io/badge/Company%20events-334155?style=for-the-badge" alt="Company events"></a> <a href="#coverage"><img src="https://img.shields.io/badge/Coverage-334155?style=for-the-badge" alt="Coverage"></a> <a href="docs/METHODOLOGY.md#how-the-tracker-works"><img src="https://img.shields.io/badge/Methodology-334155?style=for-the-badge" alt="Methodology"></a> <a href="#secondary-listings"><img src="https://img.shields.io/badge/Secondary%20listings-334155?style=for-the-badge" alt="Secondary listings"></a>
+
+</div>
 
 ---
 

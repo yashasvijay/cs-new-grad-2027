@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 import json
 from pathlib import Path
 
-from tracker.adapters import endpoint, fetch, normalize
+from tracker.adapters import endpoint, fetch, normalize, fetch_source
 from tracker.eligibility import classify
 from tracker.engine import public_view, reconcile
 
@@ -45,15 +45,19 @@ def main():
     configured = [e for e in employers if e.get('source')]
     def check(employer):
         try:
-            payload = json.loads((args.fixtures / (employer['id'] + '.json')).read_text()) if args.fixtures else fetch(endpoint(employer['source']))
-            return employer, normalize(employer['source'], payload), None
+            jobs = normalize(employer['source'], json.loads((args.fixtures / (employer['id'] + '.json')).read_text())) if args.fixtures else fetch_source(employer['source'])
+            return employer, jobs, None
         except Exception as error:
             return employer, [], str(error)
     with ThreadPoolExecutor(max_workers=4) as pool:
         for employer, jobs, error in pool.map(check, configured):
             reconcile(state, employer, jobs, now, error)
             print(f"{employer['name']}: {'FAILED ' + error if error else str(len(jobs)) + ' source jobs'}")
+    from tracker.manual import seed
+    seed(state)
     view = public_view(state, employers, now, classify)
+    from tracker.events import render as render_events
+    (args.output / 'EVENTS.md').write_text(render_events(Path('data/events.json'), now))
     destination = args.output / 'data/listings.json'
     previous = json.loads(destination.read_text()) if destination.exists() else None
     comparable = {k: v for k, v in (previous or {}).items() if k != 'snapshot_at'}

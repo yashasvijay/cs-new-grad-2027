@@ -1,5 +1,8 @@
 import copy
 import unittest
+import json
+import tempfile
+from pathlib import Path
 from tracker.adapters import normalize
 from tracker.eligibility import classify
 from tracker.engine import reconcile, public_view
@@ -12,6 +15,25 @@ def job(**changes):
 
 
 class TrackerTests(unittest.TestCase):
+    def test_manual_expiry_and_reverification(self):
+        from tracker.manual import seed
+        employer = {'id':'e', 'name':'Employer'}
+        manual = job(employer_id='e', employer='Employer', manual_verified_at='2026-10-05T10:00:00+00:00')
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / 'manual.json'
+            path.write_text(json.dumps({'jobs':[manual]}))
+            state = {'jobs':{}, 'health':{}}
+            seed(state, path)
+            view = public_view(state, [employer], '2026-10-07T11:00:00+00:00', classify)
+            self.assertTrue(view['jobs'][0]['status'].startswith('verification overdue'))
+            self.assertEqual(view['coverage'][0]['coverage'], 'planned')
+            manual['manual_verified_at'] = '2026-10-07T12:00:00+00:00'
+            path.write_text(json.dumps({'jobs':[manual]}))
+            seed(state, path)
+            refreshed = public_view(state, [employer], '2026-10-07T12:01:00+00:00', classify)['jobs'][0]
+            self.assertTrue(refreshed['status'].startswith('open'))
+            self.assertEqual(refreshed['first_seen_at'], '2026-10-05T10:00:00+00:00')
+
     def test_eligibility(self):
         self.assertIsNotNone(classify(job()))
         for changes in [dict(location='Remote'), dict(countries=['Canada']), dict(title='Senior Software Engineer, New Grad'), dict(employment_type='Intern'), dict(description='Full-time graduating in 2026'), dict(description='New grad. 3+ years of experience required'), dict(title='Software Engineer, New Grad (Dec 2026)', description='Graduate in December 2026 and start full time by January 2027')]:

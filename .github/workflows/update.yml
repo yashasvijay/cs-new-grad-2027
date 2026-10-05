@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['tracker/**', 'tests/**', 'data/employers.json', '.github/workflows/update.yml']
+    paths: ['tracker/**', 'tests/**', 'data/employers.json', 'data/manual-backfill.json', 'data/events.json', '.github/workflows/update.yml']
 permissions:
   contents: write
 concurrency:
@@ -43,7 +43,7 @@ jobs:
           retention-days: 2
       - name: Publish relevant listing and health changes
         run: |
-          git add README.md JOBS.md COVERAGE.md data/listings.json
+          git add README.md JOBS.md COVERAGE.md EVENTS.md data/listings.json
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

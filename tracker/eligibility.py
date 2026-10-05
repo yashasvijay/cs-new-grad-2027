@@ -1,8 +1,8 @@
 import re
 
 US = re.compile(r'\b(?:united states|usa|u\.s\.|san francisco|new york|seattle|boston|austin|palo alto|mountain view|menlo park|sunnyvale|san jose|los angeles|chicago|washington,? dc)\b|,\s*(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)\b', re.I)
-CS = re.compile(r'\b(?:software|machine learning|data scien|data engineer|computer|cyber|security engineer|cloud engineer|systems engineer|research engineer|applied scientist|developer)')
-ENTRY = re.compile(r'\b(?:new grad(?:uate)?|recent grad(?:uate)?|university grad(?:uate)?|entry[ -]level|early career|graduate engineer|engineer i)\b')
+CS = re.compile(r'\b(?:software|firmware|ai engineer|ai research scientist|machine learning|data scien|data engineer|computer|cyber|security engineer|cloud engineer|systems engineer|research engineer|applied scientist|developer)')
+ENTRY = re.compile(r'\b(?:new (?:college )?grad(?:uate)?|recent grad(?:uate)?|university grad(?:uate)?|entry[ -]level|early career|graduate engineer|engineer i)\b')
 
 
 def classify(job):
@@ -22,7 +22,7 @@ def classify(job):
     employment = job['employment_type'].lower().replace('-', '').replace(' ', '')
     if employment not in ('fulltime', 'unknown'):
         return None
-    if re.search(r'\b(intern(?:ship)?|contract(?:or)?|part[ -]time|temporary)\b', title):
+    if re.search(r'\b(intern(?:ship)?|co[ -]?op|contract(?:or)?|part[ -]time|temporary)\b', title):
         return None
     if re.search(r'\b(senior|sr\.?|staff|principal|director|manager|lead)\b', title):
         return None
@@ -32,6 +32,8 @@ def classify(job):
     graduation = re.search(r'(?:graduat\w*(?:(?!start|join|begin|full.time by)[^.;]){0,100}2027|2027[^.;]{0,60}graduat\w*)', text)
     if re.search(r'\b202[4-6]\b', title) and '2027' not in title and not graduation:
         return None
+    if '2027' in title and ENTRY.search(title):
+        graduation = re.search(r'.+', title)
     other_window = re.search(r'graduat\w*[^.;]{0,80}20(?:2[4-689]|3\d)', text)
     if other_window and not graduation:
         return None

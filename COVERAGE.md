@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-10-05T18:25:21+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|
@@ -24,8 +24,6 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Alliant Energy | planned | not checked | True |
 | Allstate | planned | not checked | True |
 | Alphabet Inc. | planned | not checked | True |
-| Alphabet Inc. (Class A) | planned | not checked | True |
-| Alphabet Inc. (Class C) | planned | not checked | True |
 | Altria | planned | not checked | True |
 | Amazon | planned | not checked | True |
 | Amcor | planned | not checked | True |
@@ -40,6 +38,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Amgen | planned | not checked | True |
 | Amphenol | planned | not checked | True |
 | Analog Devices | planned | not checked | True |
+| Anduril | monitored | healthy | False |
 | Anthropic | monitored | healthy | False |
 | Aon plc | planned | not checked | True |
 | APA Corporation | planned | not checked | True |
@@ -106,6 +105,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | CF Industries | planned | not checked | True |
 | Charles River Laboratories | planned | not checked | True |
 | Charles Schwab Corporation | planned | not checked | True |
+| Charta Health | monitored | healthy | False |
 | Charter Communications | planned | not checked | True |
 | Chevron Corporation | planned | not checked | True |
 | Chicago Trading Company | monitored | healthy | False |
@@ -119,6 +119,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Cisco | planned | not checked | True |
 | Citigroup | planned | not checked | True |
 | Citizens Financial Group | planned | not checked | True |
+| Clay | monitored | healthy | False |
 | Clorox | planned | not checked | True |
 | Cloudflare | monitored | healthy | False |
 | CME Group | planned | not checked | True |
@@ -130,12 +131,14 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Colgate-Palmolive | planned | not checked | True |
 | Comcast | planned | not checked | True |
 | Comfort Systems USA | planned | not checked | True |
+| Confido | monitored | healthy | False |
 | ConocoPhillips | planned | not checked | True |
 | Consolidated Edison | planned | not checked | True |
 | Constellation Brands | planned | not checked | True |
 | Constellation Energy | planned | not checked | True |
 | Cooper Companies (The) | planned | not checked | True |
 | Copart | planned | not checked | True |
+| Coram AI | monitored | healthy | False |
 | Corning Inc. | planned | not checked | True |
 | Corpay | planned | not checked | True |
 | Corteva | planned | not checked | True |
@@ -147,6 +150,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | CSX Corporation | planned | not checked | True |
 | Cummins | planned | not checked | True |
 | CVS Health | planned | not checked | True |
+| Cylake | monitored | healthy | False |
 | D. R. Horton | planned | not checked | True |
 | Danaher Corporation | planned | not checked | True |
 | Darden Restaurants | planned | not checked | True |
@@ -166,13 +170,14 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Dollar Tree | planned | not checked | True |
 | Dominion Energy | planned | not checked | True |
 | Domino's | planned | not checked | True |
-| DoorDash | planned | not checked | True |
+| DoorDash | monitored | healthy | False |
 | Dover Corporation | planned | not checked | True |
 | Dow Inc. | planned | not checked | True |
 | DTE Energy | planned | not checked | True |
 | Duke Energy | planned | not checked | True |
 | Duolingo | monitored | healthy | False |
 | DuPont | planned | not checked | True |
+| DV Trading | monitored | healthy | False |
 | Eaton Corporation | planned | not checked | True |
 | eBay Inc. | planned | not checked | True |
 | EchoStar | planned | not checked | True |
@@ -218,8 +223,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Ford Motor Company | planned | not checked | True |
 | Fortinet | planned | not checked | True |
 | Fortive | planned | not checked | True |
-| Fox Corporation (Class A) | planned | not checked | True |
-| Fox Corporation (Class B) | planned | not checked | True |
+| Fox Corporation | planned | not checked | True |
 | Franklin Resources | planned | not checked | True |
 | Freeport-McMoRan | planned | not checked | True |
 | Garmin | planned | not checked | True |
@@ -236,6 +240,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Gilead Sciences | planned | not checked | True |
 | Global Payments | planned | not checked | True |
 | Globe Life | planned | not checked | True |
+| Goaly | monitored | healthy | False |
 | GoDaddy | planned | not checked | True |
 | Goldman Sachs | planned | not checked | True |
 | Halliburton | planned | not checked | True |
@@ -259,6 +264,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Huntington Bancshares | planned | not checked | True |
 | Huntington Ingalls Industries | planned | not checked | True |
 | IBM | planned | not checked | True |
+| ID.me | monitored | healthy | False |
 | IDEX Corporation | planned | not checked | True |
 | Idexx Laboratories | planned | not checked | True |
 | Illinois Tool Works | planned | not checked | True |
@@ -277,6 +283,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Invitation Homes | planned | not checked | True |
 | IQVIA | planned | not checked | True |
 | Iron Mountain | planned | not checked | True |
+| IXL Learning | monitored | healthy | False |
 | J.B. Hunt | planned | not checked | True |
 | J.M. Smucker Company (The) | planned | not checked | True |
 | Jabil | planned | not checked | True |
@@ -347,12 +354,13 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Nasdaq, Inc. | planned | not checked | True |
 | NetApp | planned | not checked | True |
 | Netflix | planned | not checked | True |
+| Netic | monitored | healthy | False |
 | Newmont | planned | not checked | True |
-| News Corp (Class A) | planned | not checked | True |
-| News Corp (Class B) | planned | not checked | True |
+| News Corp | planned | not checked | True |
 | NextEra Energy | planned | not checked | True |
 | Nike, Inc. | planned | not checked | True |
 | NiSource | planned | not checked | True |
+| Nooks | monitored | healthy | False |
 | Nordson Corporation | planned | not checked | True |
 | Norfolk Southern | planned | not checked | True |
 | Northern Trust | planned | not checked | True |
@@ -361,6 +369,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Notion | monitored | healthy | False |
 | NRG Energy | planned | not checked | True |
 | Nucor | planned | not checked | True |
+| Nuro | monitored | healthy | False |
 | Nvidia | planned | not checked | True |
 | NVR, Inc. | planned | not checked | True |
 | NXP Semiconductors | planned | not checked | True |
@@ -371,6 +380,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | ON Semiconductor | planned | not checked | True |
 | Oneok | planned | not checked | True |
 | OpenAI | monitored | healthy | False |
+| Optiver | monitored | healthy | False |
 | Oracle Corporation | planned | not checked | True |
 | Otis Worldwide | planned | not checked | True |
 | Paccar | planned | not checked | True |
@@ -388,6 +398,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Philip Morris International | planned | not checked | True |
 | Phillips 66 | planned | not checked | True |
 | Pinnacle West Capital | planned | not checked | True |
+| Pinterest | monitored | healthy | False |
 | PNC Financial Services | planned | not checked | True |
 | PPG Industries | planned | not checked | True |
 | PPL Corporation | planned | not checked | True |
@@ -419,6 +430,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Revvity | planned | not checked | True |
 | Robinhood | monitored | healthy | False |
 | Robinhood Markets | planned | not checked | True |
+| Roblox | monitored | healthy | False |
 | Rockwell Automation | planned | not checked | True |
 | Rollins, Inc. | planned | not checked | True |
 | Roper Technologies | planned | not checked | True |
@@ -432,12 +444,15 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Scale AI | monitored | healthy | False |
 | Schlumberger | planned | not checked | True |
 | Seagate Technology | planned | not checked | True |
+| SeatGeek | monitored | healthy | False |
 | Sempra | planned | not checked | True |
-| ServiceNow | planned | not checked | True |
+| Sentry | monitored | healthy | False |
+| ServiceNow | monitored | healthy | False |
 | Sherwin-Williams | planned | not checked | True |
 | Sierra | monitored | healthy | False |
 | Simon Property Group | planned | not checked | True |
 | SimpliSafe | monitored | healthy | False |
+| SingleStore | monitored | healthy | False |
 | Skyworks Solutions | planned | not checked | True |
 | Smurfit Westrock | planned | not checked | True |
 | Snap-on | planned | not checked | True |
@@ -471,11 +486,13 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Thermo Fisher Scientific | planned | not checked | True |
 | TJX Companies | planned | not checked | True |
 | TKO Group Holdings | planned | not checked | True |
+| Together AI | monitored | healthy | False |
 | Tractor Supply | planned | not checked | True |
 | Trane Technologies | planned | not checked | True |
 | TransDigm Group | planned | not checked | True |
 | Travelers Companies (The) | planned | not checked | True |
 | Trimble Inc. | planned | not checked | True |
+| True Anomaly | monitored | healthy | False |
 | Truist Financial | planned | not checked | True |
 | Twitch | monitored | healthy | False |
 | Tyler Technologies | planned | not checked | True |
@@ -485,6 +502,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | UDR, Inc. | planned | not checked | True |
 | Ulta Beauty | planned | not checked | True |
 | Union Pacific Corporation | planned | not checked | True |
+| Uniswap Labs | monitored | healthy | False |
 | United Airlines Holdings | planned | not checked | True |
 | United Parcel Service | planned | not checked | True |
 | United Rentals | planned | not checked | True |
@@ -501,7 +519,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Vertiv | planned | not checked | True |
 | Viatris | planned | not checked | True |
 | Vici Properties | planned | not checked | True |
-| Visa Inc. | planned | not checked | True |
+| Visa Inc. | monitored | healthy | False |
 | Vistra Corp. | planned | not checked | True |
 | Vivmark Residential | planned | not checked | True |
 | Vulcan Materials Company | planned | not checked | True |
@@ -519,6 +537,8 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | West Pharmaceutical Services | planned | not checked | True |
 | Western Digital | planned | not checked | True |
 | Weyerhaeuser | planned | not checked | True |
+| Whatnot | configured | failed | True |
+| WHOOP | monitored | healthy | False |
 | Williams Companies | planned | not checked | True |
 | Williams-Sonoma, Inc. | planned | not checked | True |
 | Willis Towers Watson | planned | not checked | True |
@@ -528,5 +548,7 @@ Snapshot: 2026-10-05T17:50:54+00:00. Planned employers are not monitored. Curren
 | Xylem Inc. | planned | not checked | True |
 | Yum! Brands | planned | not checked | True |
 | Zebra Technologies | planned | not checked | True |
+| Zello | monitored | healthy | False |
 | Zimmer Biomet | planned | not checked | True |
+| ZipRecruiter | monitored | healthy | False |
 | Zoetis | planned | not checked | True |

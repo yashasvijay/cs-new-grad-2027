@@ -1,6 +1,6 @@
 # How the tracker works
 
-The starter polls public Greenhouse, Lever, and Ashby employer feeds. A listing must have a U.S. location signal, a CS role title, and a new-grad/early-career or 2027 graduation signal. Explicit internships, part-time/contract jobs, senior titles, incompatible graduation windows, and detected minimum experience above two years are excluded. Ambiguous remote geography is excluded. Unknown full-time status is flagged for review. These rules are conservative heuristics, not an eligibility determination; omissions and false positives remain possible.
+The starter polls public Greenhouse, Lever, Ashby, and SmartRecruiters employer feeds. A listing must have a U.S. location signal, a CS role title, and a new-grad/early-career or 2027 graduation signal. Explicit internships, part-time/contract jobs, senior titles, incompatible graduation windows, and detected minimum experience above two years are excluded. Ambiguous remote geography is excluded. Unknown full-time status is flagged for review. These rules are conservative heuristics, not an eligibility determination; omissions and false positives remain possible.
 
 ## Identity and history
 
@@ -21,7 +21,7 @@ Malformed responses and HTTP errors are failed checks, never an empty successful
 
 ## Zero-budget persistence and scheduling
 
-GitHub Actions requests a run every five minutes at minutes 2, 7, 12, and so on. GitHub may delay, drop, or disable schedules (including inactive public repositories); this is best-effort, not a delivery guarantee. Runs serialize through a concurrency group; pending runs can be replaced. Direct feeds have bounded retries/timeouts and four concurrent checks. No paid services or API keys are required.
+GitHub Actions requests a run every five minutes at minutes 2, 7, 12, and so on. GitHub may delay, drop, or disable schedules (including inactive public repositories); this is best-effort, not a delivery guarantee. Runs serialize through a concurrency group; pending runs can be replaced. SmartRecruiters uses validated pagination (up to 3,000 postings) and fetches details for early-career title candidates; an incomplete page set fails rather than closing jobs. Direct feeds have bounded retries/timeouts and four concurrent checks. No paid services or API keys are required.
 
 Full polling state is stored in Actions cache. Cache entries can be evicted, so this is not durable database storage. Published candidate identities, first-seen and publication timestamps are rebuilt from committed JSON if the cache disappears. Closure counters restart conservatively. Noncandidate detection history can be lost on eviction. The public listing/history in Git is durable; source-health artifacts retain per-run check details for two days. Cache capacity is limited and older snapshots are evicted. Only semantic listing/status changes create public commits.
 
@@ -36,3 +36,13 @@ python3 -m tracker.run
 ```
 
 `--fixtures DIRECTORY` loads `<employer-id>.json` responses for offline replay. `--state PATH` and `--output DIRECTORY` support isolated validation. Employer inventory configuration is in `data/employers.json`. Add only verified direct board slugs; do not label configured or planned employers as monitored before success.
+
+## Manual employer-page backfill
+
+`data/manual-backfill.json` contains public job facts independently checked on official employer pages when an API cannot be verified. These rows carry a manual marker and verification time; they do not increase monitored-employer coverage. After 48 hours they become overdue and leave the open README tables until reverified. Source failures do not extend their freshness. Whatnot’s current official 2027 role was checked on 2026-10-05, while its attempted Ashby API remains failed.
+
+## Company events and social discovery
+
+`data/events.json` contains manually verified organizer pages, event dates, format, cost notes, and verification timestamps. EVENTS.md moves completed events to its history on the next successful run. Event discovery is incomplete and is not a five-minute feed. Confirm the organizer schedule before registering.
+
+Public Instagram stories are discovery leads reviewed in local scheduled checks when browser access is available. Direct employer or organizer pages are required before publication. Expired stories and missed checks cannot be recovered reliably. Local reminders require an awake Mac and running Codex. No inbox contents, application outcomes, personal registration links, or story screenshots are published.

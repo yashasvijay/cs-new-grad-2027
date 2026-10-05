@@ -3,6 +3,7 @@
 ## Direct job feeds
 
 - [Greenhouse Job Board API](https://docs.greenhouse.io/job-board.html)
+- [SmartRecruiters Posting API](https://developers.smartrecruiters.com/docs/posting-api)
 - [Lever Postings API](https://github.com/lever/postings-api)
 - [Ashby public job posting API](https://developers.ashbyhq.com/docs/public-job-posting-api)
 - [GitHub schedule behavior](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)

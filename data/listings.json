@@ -1,6 +1,128 @@
 {
   "jobs": [
     {
+      "id": "R172083",
+      "requisition_id": "R172083",
+      "employer": "Adobe",
+      "employer_id": "adobe",
+      "title": "2027 University Graduate - Software Engineer",
+      "location": "San Jose; San Francisco; Austin; Seattle; Lehi; New York",
+      "employment_type": "Full time",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T18:23:52+00:00",
+      "first_seen_at": "2026-10-05T18:23:52+00:00",
+      "tracker_published_at": "2026-10-05T18:24:13+00:00",
+      "status": "open — manually verified",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083"
+      ],
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 university graduate - software engineer",
+      "review_required": true
+    },
+    {
+      "id": "5228868007",
+      "requisition_id": "13887",
+      "title": "2027 Early Career Flight Software Engineer",
+      "location": "Costa Mesa, California, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-02T15:33:53-04:00",
+      "employer_updated_at": "2026-09-24T15:54:51-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 early career flight software engineer",
+      "review_required": true
+    },
+    {
+      "id": "5236296007",
+      "requisition_id": "14203",
+      "title": "Systems Engineer, Space Emerging Talent",
+      "location": "Costa Mesa, California, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-25T14:39:38-04:00",
+      "employer_updated_at": "2026-09-25T14:39:38-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true
+    },
+    {
+      "id": "5246141007",
+      "requisition_id": "14586",
+      "title": "2027 Early Career Firmware Engineer",
+      "location": "Costa Mesa, California, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-22T14:27:15-04:00",
+      "employer_updated_at": "2026-09-24T15:54:51-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T18:00:01+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 early career firmware engineer",
+      "review_required": true
+    },
+    {
+      "id": "5162263007",
+      "requisition_id": "9367",
+      "title": "2027 Early Career Software Engineer ",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-06-11T12:31:23-04:00",
+      "employer_updated_at": "2026-09-26T03:01:49-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 early career software engineer ",
+      "review_required": true
+    },
+    {
       "id": "8035372",
       "requisition_id": "JR104015",
       "title": "Associate Application Engineer (2027 Graduates)",
@@ -69,7 +191,7 @@
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "graduating by december 2026 or summer 2027",
+      "evidence": "software integration engineer - new grad (2027)",
       "review_required": true
     },
     {
@@ -93,7 +215,7 @@
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "graduating by december 2026 or summer 2027",
+      "evidence": "research engineer - new grad (2027)",
       "review_required": true
     },
     {
@@ -117,7 +239,7 @@
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "graduating by december 2026 or summer 2027",
+      "evidence": "embedded software engineer - new grad (2027)",
       "review_required": true
     },
     {
@@ -141,7 +263,7 @@
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "graduating by december 2026 or summer 2027",
+      "evidence": "cybersecurity software engineer - new grad (2027)",
       "review_required": true
     },
     {
@@ -165,7 +287,7 @@
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "graduating december 2026 or by summer 2027",
+      "evidence": "software engineer - new grad (2027)",
       "review_required": true
     },
     {
@@ -190,6 +312,294 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
       "evidence": "graduate between december 2026-june 2027",
+      "review_required": true
+    },
+    {
+      "id": "16778e12-31cb-4ca1-a321-7f629a7cf273",
+      "requisition_id": null,
+      "title": "Early Career Software Engineer",
+      "location": "New York",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-01T12:40:29.510+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273"
+      ],
+      "employer": "Clay",
+      "employer_id": "clay",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true
+    },
+    {
+      "id": "1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
+      "requisition_id": null,
+      "title": "Software Engineer (2027 University Grad)",
+      "location": "Sunnyvale",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-06-22T22:42:20.268+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735"
+      ],
+      "employer": "Cylake",
+      "employer_id": "cylake",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer (2027 university grad)",
+      "review_required": true
+    },
+    {
+      "id": "8546367002",
+      "requisition_id": "CSQ327R177",
+      "title": "AI Engineer – Forward Deployed Engineering (AI FDE)",
+      "location": "United States",
+      "employment_type": "unknown",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-05-13T08:21:01-04:00",
+      "employer_updated_at": "2026-09-30T06:27:03-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
+      ],
+      "employer": "Databricks",
+      "employer_id": "databricks",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T18:00:01+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "new graduate",
+      "review_required": true
+    },
+    {
+      "id": "8163709",
+      "requisition_id": "P-111838",
+      "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-04T06:21:45-04:00",
+      "employer_updated_at": "2026-10-05T08:33:08-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+      ],
+      "employer": "DoorDash",
+      "employer_id": "doordash",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer i, entry-level (graduation date: fall 2026-summer 2027) - us",
+      "review_required": true
+    },
+    {
+      "id": "4719126005",
+      "requisition_id": "382",
+      "title": "2027 Graduate Software Engineer (DV Commodities)",
+      "location": "New York",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-10T18:22:11-04:00",
+      "employer_updated_at": "2026-08-10T18:25:15-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
+      ],
+      "employer": "DV Trading",
+      "employer_id": "dv-trading",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time unverified — review",
+      "evidence": "2027 graduate",
+      "review_required": true
+    },
+    {
+      "id": "ff6ec280-f5c6-4151-8bfd-e75ff8004c89",
+      "requisition_id": null,
+      "title": "Applied AI Engineer — Early Career",
+      "location": "Palo Alto, CA, USA",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/goaly/ff6ec280-f5c6-4151-8bfd-e75ff8004c89",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-08T23:17:51.375+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/goaly/ff6ec280-f5c6-4151-8bfd-e75ff8004c89"
+      ],
+      "employer": "Goaly",
+      "employer_id": "goaly",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T18:00:01+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true
+    },
+    {
+      "id": "ffc80152-df35-45d6-8c2c-36ea8b67eb37",
+      "requisition_id": null,
+      "title": "AI Research Scientist - Early Career (PHD/MS)",
+      "location": "Palo Alto, CA, USA",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-08T23:18:53.828+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37"
+      ],
+      "employer": "Goaly",
+      "employer_id": "goaly",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T18:00:01+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true
+    },
+    {
+      "id": "8765715002",
+      "requisition_id": "3677",
+      "title": "Software Engineer, New Grad",
+      "location": "San Mateo, CA",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-31T17:03:34-04:00",
+      "employer_updated_at": "2026-08-31T17:03:34-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8765715002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "8765745002",
+      "requisition_id": "3678",
+      "title": "Software Engineer, New Grad",
+      "location": "Raleigh, NC",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-31T17:03:46-04:00",
+      "employer_updated_at": "2026-08-31T17:03:46-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8765745002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+      "requisition_id": null,
+      "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
+      "location": "San Francisco",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-16T00:04:22.320+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3"
+      ],
+      "employer": "Netic",
+      "employer_id": "netic",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "full-stack software engineer (product) - new grad - 2026-2027",
+      "review_required": true
+    },
+    {
+      "id": "d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+      "requisition_id": null,
+      "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+      "location": "San Francisco",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-16T02:39:55.735+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
+      ],
+      "employer": "Netic",
+      "employer_id": "netic",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer (agent platform) - new grad - 2026-2027",
+      "review_required": true
+    },
+    {
+      "id": "311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-05T20:25:44.976+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
+      ],
+      "employer": "Nooks",
+      "employer_id": "nooks",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true
     },
     {
@@ -601,6 +1011,102 @@
       "review_required": true
     },
     {
+      "id": "8140389",
+      "requisition_id": "Evergreen - Data Scientist, Masters University Grad, 2027, USA",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "employment_type": "unknown",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-01T13:00:27-04:00",
+      "employer_updated_at": "2026-10-02T10:25:54-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.pinterestcareers.com/jobs/?gh_jid=8140389"
+      ],
+      "employer": "Pinterest",
+      "employer_id": "pinterest",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "university grad",
+      "review_required": true
+    },
+    {
+      "id": "8140219",
+      "requisition_id": "Evergreen - Machine Learning Engineer, IC13, Masters University Grad, 2027, USA",
+      "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "employment_type": "unknown",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-01T13:00:43-04:00",
+      "employer_updated_at": "2026-10-02T10:25:53-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.pinterestcareers.com/jobs/?gh_jid=8140219"
+      ],
+      "employer": "Pinterest",
+      "employer_id": "pinterest",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time unverified — review",
+      "evidence": "master's university grad machine learning engineer 2027 (usa)",
+      "review_required": true
+    },
+    {
+      "id": "8140363",
+      "requisition_id": "Evergreen - Machine Learning Engineer, IC14, PhD University Grad, 2027, USA",
+      "title": "PhD University Grad Machine Learning Engineer (USA) ",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "employment_type": "unknown",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-01T13:00:35-04:00",
+      "employer_updated_at": "2026-10-02T10:25:53-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.pinterestcareers.com/jobs/?gh_jid=8140363"
+      ],
+      "employer": "Pinterest",
+      "employer_id": "pinterest",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "university grad",
+      "review_required": true
+    },
+    {
+      "id": "7838591",
+      "requisition_id": "Evergreen - Software Engineer, IC13, University Grad, 2027, USA",
+      "title": "University Grad Software Engineer 2027 (USA)",
+      "location": "San Francisco, CA, US; Remote, US",
+      "employment_type": "unknown",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-01T13:03:43-04:00",
+      "employer_updated_at": "2026-10-02T10:25:17-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.pinterestcareers.com/jobs/?gh_jid=7838591"
+      ],
+      "employer": "Pinterest",
+      "employer_id": "pinterest",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "university grad software engineer 2027 (usa)",
+      "review_required": true
+    },
+    {
       "id": "cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
       "requisition_id": null,
       "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
@@ -645,7 +1151,31 @@
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "graduate (2027",
+      "evidence": "software engineer - new grad (2027)",
+      "review_required": true
+    },
+    {
+      "id": "8072244",
+      "requisition_id": "37483",
+      "title": "[2027] Software Engineer, Early Career",
+      "location": "San Mateo, CA, United States",
+      "employment_type": "unknown",
+      "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-05T12:03:38-04:00",
+      "employer_updated_at": "2026-10-05T02:38:31-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
+      ],
+      "employer": "Roblox",
+      "employer_id": "roblox",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "[2027] software engineer, early career",
       "review_required": true
     },
     {
@@ -697,6 +1227,54 @@
       "review_required": true
     },
     {
+      "id": "8227548",
+      "requisition_id": null,
+      "title": "Software Engineer - New Grad",
+      "location": "New York, New York",
+      "employment_type": "unknown",
+      "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-23T16:43:35-04:00",
+      "employer_updated_at": "2026-09-23T16:43:35-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://seatgeek.com/jobs/8227548?gh_jid=8227548"
+      ],
+      "employer": "SeatGeek",
+      "employer_id": "seatgeek",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time unverified — review",
+      "evidence": "graduates we are looking for the best and brightest spring/summer of 2027",
+      "review_required": true
+    },
+    {
+      "id": "744000153279380",
+      "requisition_id": "JB0076058",
+      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "Full-time",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
+      "source": "smartrecruiters",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-02T22:41:42.731Z",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true"
+      ],
+      "employer": "ServiceNow",
+      "employer_id": "servicenow",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
       "id": "149f368c-52d5-408f-ba26-ad888f318a00",
       "requisition_id": null,
       "title": "Software Engineer, Agent (New Grad 2027)",
@@ -715,9 +1293,9 @@
       "first_seen_at": "2026-10-05T17:48:27+00:00",
       "tracker_published_at": "2026-10-05T17:48:27+00:00",
       "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
+      "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "new grad",
+      "evidence": "software engineer, agent (new grad 2027)",
       "review_required": true
     },
     {
@@ -769,6 +1347,294 @@
       "review_required": true
     },
     {
+      "id": "8205389",
+      "requisition_id": "ENG00503",
+      "title": "Software Engineer-Helios-New Grad 2027",
+      "location": "United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205389",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-15T17:37:06-04:00",
+      "employer_updated_at": "2026-09-22T18:37:49-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/singlestore/jobs/8205389"
+      ],
+      "employer": "SingleStore",
+      "employer_id": "singlestore",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time unverified — review",
+      "evidence": "software engineer-helios-new grad 2027",
+      "review_required": true
+    },
+    {
+      "id": "8205427",
+      "requisition_id": "ENG00504",
+      "title": "Software Engineer-Engine-New Grad 2027",
+      "location": "United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205427",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-15T17:39:29-04:00",
+      "employer_updated_at": "2026-09-22T18:36:55-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
+      ],
+      "employer": "SingleStore",
+      "employer_id": "singlestore",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer-engine-new grad 2027",
+      "review_required": true
+    },
+    {
+      "id": "8220863",
+      "requisition_id": "ENG00505",
+      "title": "MIT-Software Engineer-New Grad |Engine|",
+      "location": "United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-21T13:36:07-04:00",
+      "employer_updated_at": "2026-09-22T18:38:45-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/singlestore/jobs/8220863"
+      ],
+      "employer": "SingleStore",
+      "employer_id": "singlestore",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "8220882",
+      "requisition_id": "ENG00506",
+      "title": "MIT-Software Engineer-New Grad |Helios|",
+      "location": "United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-21T13:42:05-04:00",
+      "employer_updated_at": "2026-09-25T13:35:38-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/singlestore/jobs/8220882"
+      ],
+      "employer": "SingleStore",
+      "employer_id": "singlestore",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "5211582007",
+      "requisition_id": "294",
+      "title": "Software Engineer, New Grad (2027)",
+      "location": "San Francisco",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-18T11:45:25-04:00",
+      "employer_updated_at": "2026-09-23T12:49:24-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/togetherai/jobs/5211582007"
+      ],
+      "employer": "Together AI",
+      "employer_id": "together-ai",
+      "first_seen_at": "2026-10-05T17:53:16+00:00",
+      "tracker_published_at": "2026-10-05T17:53:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, new grad (2027)",
+      "review_required": true
+    },
+    {
+      "id": "5092069007",
+      "requisition_id": "638",
+      "title": "Software Engineer I, Full Stack (New Grad)",
+      "location": "Denver, CO or Long Beach, CA ",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-03-27T14:34:33-04:00",
+      "employer_updated_at": "2026-08-25T18:05:20-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "5221555007",
+      "requisition_id": "920",
+      "title": "Software Engineer I, Spacecraft Simulation (New Grad)",
+      "location": "Denver, CO or Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-25T14:33:07-04:00",
+      "employer_updated_at": "2026-08-25T14:33:07-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "5221560007",
+      "requisition_id": "921",
+      "title": " Software Engineer I, Data Science (New Grad)",
+      "location": "Denver, CO or Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-25T14:35:15-04:00",
+      "employer_updated_at": "2026-08-25T14:35:15-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "5221572007",
+      "requisition_id": "922",
+      "title": "Flight Software Engineer I (Temp-to-hire)",
+      "location": "Denver, CO or Long Beach, CA ",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-25T14:31:43-04:00",
+      "employer_updated_at": "2026-10-01T11:46:21-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "5221970007",
+      "requisition_id": "924",
+      "title": "Software Engineer I, Perception (New Grad)",
+      "location": "Denver, CO or Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-25T18:01:01-04:00",
+      "employer_updated_at": "2026-08-25T18:08:00-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "5223279007",
+      "requisition_id": "925",
+      "title": "Data Engineer I",
+      "location": "Denver, CO or Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-26T19:28:11-04:00",
+      "employer_updated_at": "2026-08-26T19:28:11-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "5232802007",
+      "requisition_id": "940",
+      "title": "Software Engineer I, Elixir (New Grad)",
+      "location": "Denver, CO or Long Beach, CA ",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-08T16:58:36-04:00",
+      "employer_updated_at": "2026-09-11T15:01:40-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
       "id": "8700578002",
       "requisition_id": "R9253",
       "title": "Software Engineer I, Payments",
@@ -790,6 +1656,56 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "29bad846-de60-4be7-a222-69b97e044930",
+      "requisition_id": null,
+      "employer": "Whatnot",
+      "employer_id": "whatnot",
+      "title": "Software Engineer, 2027 New Grad",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA",
+      "employment_type": "FullTime",
+      "url": "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T18:00:52+00:00",
+      "first_seen_at": "2026-10-05T18:00:52+00:00",
+      "tracker_published_at": "2026-10-05T18:01:15+00:00",
+      "status": "open — manually verified",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930"
+      ],
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, 2027 new grad",
+      "review_required": true
+    },
+    {
+      "id": "8127108",
+      "requisition_id": "2312",
+      "title": "Software Engineer - New Grad",
+      "location": "Santa Monica, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-24T12:18:41-04:00",
+      "employer_updated_at": "2026-09-24T12:18:41-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108"
+      ],
+      "employer": "ZipRecruiter",
+      "employer_id": "ziprecruiter",
+      "first_seen_at": "2026-10-05T17:56:16+00:00",
+      "tracker_published_at": "2026-10-05T17:56:16+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduation date in 2027",
       "review_required": true
     }
   ],
@@ -975,24 +1891,6 @@
       "error": null
     },
     {
-      "id": "alphabet-inc-class-a",
-      "name": "Alphabet Inc. (Class A)",
-      "coverage": "planned",
-      "health": "not checked",
-      "verification_overdue": true,
-      "source": null,
-      "error": null
-    },
-    {
-      "id": "alphabet-inc-class-c",
-      "name": "Alphabet Inc. (Class C)",
-      "coverage": "planned",
-      "health": "not checked",
-      "verification_overdue": true,
-      "source": null,
-      "error": null
-    },
-    {
       "id": "altria",
       "name": "Altria",
       "coverage": "planned",
@@ -1116,6 +2014,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "anduril",
+      "name": "Anduril",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "andurilindustries",
+        "provenance": "https://job-boards.greenhouse.io/andurilindustries"
+      },
       "error": null
     },
     {
@@ -1725,6 +2636,19 @@
       "error": null
     },
     {
+      "id": "charta-health",
+      "name": "Charta Health",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "chartahealth",
+        "provenance": "https://jobs.ashbyhq.com/chartahealth"
+      },
+      "error": null
+    },
+    {
       "id": "charter-communications",
       "name": "Charter Communications",
       "coverage": "planned",
@@ -1846,6 +2770,19 @@
       "error": null
     },
     {
+      "id": "clay",
+      "name": "Clay",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "claylabs",
+        "provenance": "https://jobs.ashbyhq.com/claylabs"
+      },
+      "error": null
+    },
+    {
       "id": "clorox",
       "name": "Clorox",
       "coverage": "planned",
@@ -1949,6 +2886,19 @@
       "error": null
     },
     {
+      "id": "confido",
+      "name": "Confido",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "confido",
+        "provenance": "https://jobs.ashbyhq.com/confido"
+      },
+      "error": null
+    },
+    {
       "id": "conocophillips",
       "name": "ConocoPhillips",
       "coverage": "planned",
@@ -2000,6 +2950,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "coram-ai",
+      "name": "Coram AI",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "coram-ai",
+        "provenance": "https://jobs.ashbyhq.com/coram-ai"
+      },
       "error": null
     },
     {
@@ -2099,6 +3062,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "cylake",
+      "name": "Cylake",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "cylake-inc",
+        "provenance": "https://jobs.ashbyhq.com/cylake-inc"
+      },
       "error": null
     },
     {
@@ -2283,10 +3259,14 @@
     {
       "id": "doordash",
       "name": "DoorDash",
-      "coverage": "planned",
-      "health": "not checked",
-      "verification_overdue": true,
-      "source": null,
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "doordashusa",
+        "provenance": "https://job-boards.greenhouse.io/doordashusa"
+      },
       "error": null
     },
     {
@@ -2345,6 +3325,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "dv-trading",
+      "name": "DV Trading",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "dvtrading",
+        "provenance": "https://job-boards.greenhouse.io/dvtrading"
+      },
       "error": null
     },
     {
@@ -2758,16 +3751,7 @@
     },
     {
       "id": "fox-corporation-class-a",
-      "name": "Fox Corporation (Class A)",
-      "coverage": "planned",
-      "health": "not checked",
-      "verification_overdue": true,
-      "source": null,
-      "error": null
-    },
-    {
-      "id": "fox-corporation-class-b",
-      "name": "Fox Corporation (Class B)",
+      "name": "Fox Corporation",
       "coverage": "planned",
       "health": "not checked",
       "verification_overdue": true,
@@ -2916,6 +3900,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "goaly",
+      "name": "Goaly",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "goaly",
+        "provenance": "https://jobs.ashbyhq.com/goaly"
+      },
       "error": null
     },
     {
@@ -3126,6 +4123,19 @@
       "error": null
     },
     {
+      "id": "id-me",
+      "name": "ID.me",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "idme",
+        "provenance": "https://job-boards.greenhouse.io/idme"
+      },
+      "error": null
+    },
+    {
       "id": "idex-corporation",
       "name": "IDEX Corporation",
       "coverage": "planned",
@@ -3285,6 +4295,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "ixl-learning",
+      "name": "IXL Learning",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "ixllearning",
+        "provenance": "https://job-boards.greenhouse.io/ixllearning"
+      },
       "error": null
     },
     {
@@ -3922,6 +4945,19 @@
       "error": null
     },
     {
+      "id": "netic",
+      "name": "Netic",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "netic",
+        "provenance": "https://jobs.ashbyhq.com/netic"
+      },
+      "error": null
+    },
+    {
       "id": "newmont",
       "name": "Newmont",
       "coverage": "planned",
@@ -3932,16 +4968,7 @@
     },
     {
       "id": "news-corp-class-a",
-      "name": "News Corp (Class A)",
-      "coverage": "planned",
-      "health": "not checked",
-      "verification_overdue": true,
-      "source": null,
-      "error": null
-    },
-    {
-      "id": "news-corp-class-b",
-      "name": "News Corp (Class B)",
+      "name": "News Corp",
       "coverage": "planned",
       "health": "not checked",
       "verification_overdue": true,
@@ -3973,6 +5000,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "nooks",
+      "name": "Nooks",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "nooks",
+        "provenance": "https://jobs.ashbyhq.com/nooks"
+      },
       "error": null
     },
     {
@@ -4049,6 +5089,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "nuro",
+      "name": "Nuro",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "nuro",
+        "provenance": "https://job-boards.greenhouse.io/nuro"
+      },
       "error": null
     },
     {
@@ -4142,6 +5195,19 @@
         "adapter": "ashby",
         "board": "openai",
         "provenance": "https://jobs.ashbyhq.com/openai"
+      },
+      "error": null
+    },
+    {
+      "id": "optiver",
+      "name": "Optiver",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "optiverus",
+        "provenance": "https://job-boards.greenhouse.io/optiverus"
       },
       "error": null
     },
@@ -4300,6 +5366,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "pinterest",
+        "provenance": "https://job-boards.greenhouse.io/pinterest"
+      },
       "error": null
     },
     {
@@ -4598,6 +5677,19 @@
       "error": null
     },
     {
+      "id": "roblox",
+      "name": "Roblox",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "roblox",
+        "provenance": "https://job-boards.greenhouse.io/roblox"
+      },
+      "error": null
+    },
+    {
       "id": "rockwell-automation",
       "name": "Rockwell Automation",
       "coverage": "planned",
@@ -4719,6 +5811,19 @@
       "error": null
     },
     {
+      "id": "seatgeek",
+      "name": "SeatGeek",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "seatgeek",
+        "provenance": "https://job-boards.greenhouse.io/seatgeek"
+      },
+      "error": null
+    },
+    {
       "id": "sempra",
       "name": "Sempra",
       "coverage": "planned",
@@ -4728,12 +5833,30 @@
       "error": null
     },
     {
+      "id": "sentry",
+      "name": "Sentry",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "sentry",
+        "provenance": "https://jobs.ashbyhq.com/sentry"
+      },
+      "error": null
+    },
+    {
       "id": "servicenow",
       "name": "ServiceNow",
-      "coverage": "planned",
-      "health": "not checked",
-      "verification_overdue": true,
-      "source": null,
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "smartrecruiters",
+        "board": "ServiceNow",
+        "provenance": "https://careers.smartrecruiters.com/ServiceNow",
+        "scope": "public postings with early-career title signals"
+      },
       "error": null
     },
     {
@@ -4777,6 +5900,19 @@
         "adapter": "greenhouse",
         "board": "simplisafe",
         "provenance": "https://job-boards.greenhouse.io/simplisafe"
+      },
+      "error": null
+    },
+    {
+      "id": "singlestore",
+      "name": "SingleStore",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "singlestore",
+        "provenance": "https://job-boards.greenhouse.io/singlestore"
       },
       "error": null
     },
@@ -5082,6 +6218,19 @@
       "error": null
     },
     {
+      "id": "together-ai",
+      "name": "Together AI",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "togetherai",
+        "provenance": "https://job-boards.greenhouse.io/togetherai"
+      },
+      "error": null
+    },
+    {
       "id": "tractor-supply",
       "name": "Tractor Supply",
       "coverage": "planned",
@@ -5124,6 +6273,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "true-anomaly",
+      "name": "True Anomaly",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "trueanomalyinc",
+        "provenance": "https://job-boards.greenhouse.io/trueanomalyinc"
+      },
       "error": null
     },
     {
@@ -5209,6 +6371,19 @@
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "uniswap-labs",
+      "name": "Uniswap Labs",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "uniswap",
+        "provenance": "https://jobs.ashbyhq.com/uniswap"
+      },
       "error": null
     },
     {
@@ -5358,10 +6533,15 @@
     {
       "id": "visa-inc",
       "name": "Visa Inc.",
-      "coverage": "planned",
-      "health": "not checked",
-      "verification_overdue": true,
-      "source": null,
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "smartrecruiters",
+        "board": "Visa",
+        "provenance": "https://careers.smartrecruiters.com/Visa",
+        "scope": "public postings with early-career title signals"
+      },
       "error": null
     },
     {
@@ -5518,6 +6698,32 @@
       "error": null
     },
     {
+      "id": "whatnot",
+      "name": "Whatnot",
+      "coverage": "configured",
+      "health": "failed",
+      "verification_overdue": true,
+      "source": {
+        "adapter": "ashby",
+        "board": "whatnot",
+        "provenance": "https://jobs.ashbyhq.com/whatnot"
+      },
+      "error": "curl: (56) The requested URL returned error: 404\n"
+    },
+    {
+      "id": "whoop",
+      "name": "WHOOP",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "lever",
+        "board": "whoop",
+        "provenance": "https://jobs.lever.co/whoop"
+      },
+      "error": null
+    },
+    {
       "id": "williams-companies",
       "name": "Williams Companies",
       "coverage": "planned",
@@ -5599,12 +6805,38 @@
       "error": null
     },
     {
+      "id": "zello",
+      "name": "Zello",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "zello",
+        "provenance": "https://jobs.ashbyhq.com/zello"
+      },
+      "error": null
+    },
+    {
       "id": "zimmer-biomet",
       "name": "Zimmer Biomet",
       "coverage": "planned",
       "health": "not checked",
       "verification_overdue": true,
       "source": null,
+      "error": null
+    },
+    {
+      "id": "ziprecruiter",
+      "name": "ZipRecruiter",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "ziprecruiter",
+        "provenance": "https://job-boards.greenhouse.io/ziprecruiter"
+      },
       "error": null
     },
     {
@@ -5617,5 +6849,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-05T17:50:54+00:00"
+  "snapshot_at": "2026-10-05T18:25:21+00:00"
 }

@@ -45,6 +45,9 @@ def reconcile(state, employer, jobs, now, error=None):
 def public_view(state, employers, now, classify):
     listings = []
     for key, job in sorted(state.get('jobs', {}).items()):
+        if job.get('verification_mode') == 'manual' and job['status'] != 'closed':
+            expired = datetime.fromisoformat(now) - datetime.fromisoformat(job['manual_verified_at']) > timedelta(hours=48)
+            job['status'] = 'verification overdue — manually checked' if expired else 'open — manually verified'
         eligibility = classify(job)
         if not eligibility:
             continue

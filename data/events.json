@@ -1,0 +1,31 @@
+{
+  "note": "Manually curated public company events. Dates are event dates, not application deadlines. No recruiting or new-grad eligibility is implied. Check organizer registration, cost and schedule.",
+  "events": [
+    {
+      "id": "microsoft-ignite-2026",
+      "company": "Microsoft",
+      "name": "Microsoft Ignite 2026",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "format": "In person + online",
+      "location": "San Francisco, CA / online",
+      "category": "Developer conference",
+      "cost": "Check organizer; format-dependent",
+      "url": "https://ignite.microsoft.com/en-US/home",
+      "verified_at": "2026-10-05T18:23:52+00:00"
+    },
+    {
+      "id": "aws-reinvent-2026",
+      "company": "Amazon Web Services",
+      "name": "AWS re:Invent 2026",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "format": "In person",
+      "location": "Las Vegas, NV",
+      "category": "Developer conference",
+      "cost": "Paid; check organizer pricing",
+      "url": "https://aws.amazon.com/events/reinvent/",
+      "verified_at": "2026-10-05T18:23:52+00:00"
+    }
+  ]
+}

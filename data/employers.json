@@ -213,31 +213,12 @@
     {
       "id": "alphabet-inc",
       "name": "Alphabet Inc.",
-      "symbols": [],
-      "universe": "major technology / AI",
-      "inventory_source": "curated target employers",
-      "inventory_retrieved_at": "2026-10-05",
-      "source": null
-    },
-    {
-      "id": "alphabet-inc-class-a",
-      "name": "Alphabet Inc. (Class A)",
       "symbols": [
+        "GOOG",
         "GOOGL"
       ],
-      "universe": "S&P 500 candidate \u2014 official membership unverified",
-      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
-      "inventory_retrieved_at": "2026-10-05",
-      "source": null
-    },
-    {
-      "id": "alphabet-inc-class-c",
-      "name": "Alphabet Inc. (Class C)",
-      "symbols": [
-        "GOOG"
-      ],
-      "universe": "S&P 500 candidate \u2014 official membership unverified",
-      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
     },
@@ -394,6 +375,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "anduril",
+      "name": "Anduril",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "andurilindustries",
+        "provenance": "https://job-boards.greenhouse.io/andurilindustries"
+      }
     },
     {
       "id": "anthropic",
@@ -1128,6 +1122,19 @@
       "source": null
     },
     {
+      "id": "charta-health",
+      "name": "Charta Health",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "chartahealth",
+        "provenance": "https://jobs.ashbyhq.com/chartahealth"
+      }
+    },
+    {
       "id": "charter-communications",
       "name": "Charter Communications",
       "symbols": [
@@ -1273,6 +1280,19 @@
       "source": null
     },
     {
+      "id": "clay",
+      "name": "Clay",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "claylabs",
+        "provenance": "https://jobs.ashbyhq.com/claylabs"
+      }
+    },
+    {
       "id": "clorox",
       "name": "Clorox",
       "symbols": [
@@ -1396,6 +1416,19 @@
       "source": null
     },
     {
+      "id": "confido",
+      "name": "Confido",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "confido",
+        "provenance": "https://jobs.ashbyhq.com/confido"
+      }
+    },
+    {
       "id": "conocophillips",
       "name": "ConocoPhillips",
       "symbols": [
@@ -1460,6 +1493,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "coram-ai",
+      "name": "Coram AI",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "coram-ai",
+        "provenance": "https://jobs.ashbyhq.com/coram-ai"
+      }
     },
     {
       "id": "corning-inc",
@@ -1581,6 +1627,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "cylake",
+      "name": "Cylake",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "cylake-inc",
+        "provenance": "https://jobs.ashbyhq.com/cylake-inc"
+      }
     },
     {
       "id": "d-r-horton",
@@ -1804,7 +1863,11 @@
       "universe": "S&P 500 candidate \u2014 official membership unverified",
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
-      "source": null
+      "source": {
+        "adapter": "greenhouse",
+        "board": "doordashusa",
+        "provenance": "https://job-boards.greenhouse.io/doordashusa"
+      }
     },
     {
       "id": "dover-corporation",
@@ -1873,6 +1936,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "dv-trading",
+      "name": "DV Trading",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "dvtrading",
+        "provenance": "https://job-boards.greenhouse.io/dvtrading"
+      }
     },
     {
       "id": "eaton-corporation",
@@ -2373,20 +2449,10 @@
     },
     {
       "id": "fox-corporation-class-a",
-      "name": "Fox Corporation (Class A)",
+      "name": "Fox Corporation",
       "symbols": [
+        "FOX",
         "FOXA"
-      ],
-      "universe": "S&P 500 candidate \u2014 official membership unverified",
-      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
-      "inventory_retrieved_at": "2026-10-05",
-      "source": null
-    },
-    {
-      "id": "fox-corporation-class-b",
-      "name": "Fox Corporation (Class B)",
-      "symbols": [
-        "FOX"
       ],
       "universe": "S&P 500 candidate \u2014 official membership unverified",
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
@@ -2568,6 +2634,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "goaly",
+      "name": "Goaly",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "goaly",
+        "provenance": "https://jobs.ashbyhq.com/goaly"
+      }
     },
     {
       "id": "godaddy",
@@ -2823,6 +2902,19 @@
       "source": null
     },
     {
+      "id": "id-me",
+      "name": "ID.me",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "idme",
+        "provenance": "https://job-boards.greenhouse.io/idme"
+      }
+    },
+    {
       "id": "idex-corporation",
       "name": "IDEX Corporation",
       "symbols": [
@@ -3019,6 +3111,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "ixl-learning",
+      "name": "IXL Learning",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "ixllearning",
+        "provenance": "https://job-boards.greenhouse.io/ixllearning"
+      }
     },
     {
       "id": "j-b-hunt",
@@ -3792,6 +3897,19 @@
       "source_note": "Former Lever board returned 404 on 2026-10-05; replacement adapter planned."
     },
     {
+      "id": "netic",
+      "name": "Netic",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "netic",
+        "provenance": "https://jobs.ashbyhq.com/netic"
+      }
+    },
+    {
       "id": "newmont",
       "name": "Newmont",
       "symbols": [
@@ -3804,20 +3922,10 @@
     },
     {
       "id": "news-corp-class-a",
-      "name": "News Corp (Class A)",
+      "name": "News Corp",
       "symbols": [
+        "NWS",
         "NWSA"
-      ],
-      "universe": "S&P 500 candidate \u2014 official membership unverified",
-      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
-      "inventory_retrieved_at": "2026-10-05",
-      "source": null
-    },
-    {
-      "id": "news-corp-class-b",
-      "name": "News Corp (Class B)",
-      "symbols": [
-        "NWS"
       ],
       "universe": "S&P 500 candidate \u2014 official membership unverified",
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
@@ -3856,6 +3964,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "nooks",
+      "name": "Nooks",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "nooks",
+        "provenance": "https://jobs.ashbyhq.com/nooks"
+      }
     },
     {
       "id": "nordson-corporation",
@@ -3946,6 +4067,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "nuro",
+      "name": "Nuro",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "nuro",
+        "provenance": "https://job-boards.greenhouse.io/nuro"
+      }
     },
     {
       "id": "nvidia",
@@ -4057,6 +4191,19 @@
         "adapter": "ashby",
         "board": "openai",
         "provenance": "https://jobs.ashbyhq.com/openai"
+      }
+    },
+    {
+      "id": "optiver",
+      "name": "Optiver",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "optiverus",
+        "provenance": "https://job-boards.greenhouse.io/optiverus"
       }
     },
     {
@@ -4249,6 +4396,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "pinterest",
+        "provenance": "https://job-boards.greenhouse.io/pinterest"
+      }
     },
     {
       "id": "pnc-financial-services",
@@ -4600,6 +4760,19 @@
       "source": null
     },
     {
+      "id": "roblox",
+      "name": "Roblox",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "roblox",
+        "provenance": "https://job-boards.greenhouse.io/roblox"
+      }
+    },
+    {
       "id": "rockwell-automation",
       "name": "Rockwell Automation",
       "symbols": [
@@ -4745,6 +4918,19 @@
       "source": null
     },
     {
+      "id": "seatgeek",
+      "name": "SeatGeek",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "seatgeek",
+        "provenance": "https://job-boards.greenhouse.io/seatgeek"
+      }
+    },
+    {
       "id": "sempra",
       "name": "Sempra",
       "symbols": [
@@ -4756,6 +4942,19 @@
       "source": null
     },
     {
+      "id": "sentry",
+      "name": "Sentry",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "sentry",
+        "provenance": "https://jobs.ashbyhq.com/sentry"
+      }
+    },
+    {
       "id": "servicenow",
       "name": "ServiceNow",
       "symbols": [
@@ -4764,7 +4963,12 @@
       "universe": "S&P 500 candidate \u2014 official membership unverified",
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
-      "source": null
+      "source": {
+        "adapter": "smartrecruiters",
+        "board": "ServiceNow",
+        "provenance": "https://careers.smartrecruiters.com/ServiceNow",
+        "scope": "public postings with early-career title signals"
+      }
     },
     {
       "id": "sherwin-williams",
@@ -4812,6 +5016,19 @@
         "adapter": "greenhouse",
         "board": "simplisafe",
         "provenance": "https://job-boards.greenhouse.io/simplisafe"
+      }
+    },
+    {
+      "id": "singlestore",
+      "name": "SingleStore",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "singlestore",
+        "provenance": "https://job-boards.greenhouse.io/singlestore"
       }
     },
     {
@@ -5180,6 +5397,19 @@
       "source": null
     },
     {
+      "id": "together-ai",
+      "name": "Together AI",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "togetherai",
+        "provenance": "https://job-boards.greenhouse.io/togetherai"
+      }
+    },
+    {
       "id": "tractor-supply",
       "name": "Tractor Supply",
       "symbols": [
@@ -5233,6 +5463,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "true-anomaly",
+      "name": "True Anomaly",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "trueanomalyinc",
+        "provenance": "https://job-boards.greenhouse.io/trueanomalyinc"
+      }
     },
     {
       "id": "truist-financial",
@@ -5334,6 +5577,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "uniswap-labs",
+      "name": "Uniswap Labs",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "uniswap",
+        "provenance": "https://jobs.ashbyhq.com/uniswap"
+      }
     },
     {
       "id": "united-airlines-holdings",
@@ -5520,7 +5776,12 @@
       "universe": "S&P 500 candidate \u2014 official membership unverified",
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
-      "source": null
+      "source": {
+        "adapter": "smartrecruiters",
+        "board": "Visa",
+        "provenance": "https://careers.smartrecruiters.com/Visa",
+        "scope": "public postings with early-career title signals"
+      }
     },
     {
       "id": "vistra-corp",
@@ -5710,6 +5971,32 @@
       "source": null
     },
     {
+      "id": "whatnot",
+      "name": "Whatnot",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "whatnot",
+        "provenance": "https://jobs.ashbyhq.com/whatnot"
+      }
+    },
+    {
+      "id": "whoop",
+      "name": "WHOOP",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "lever",
+        "board": "whoop",
+        "provenance": "https://jobs.lever.co/whoop"
+      }
+    },
+    {
       "id": "williams-companies",
       "name": "Williams Companies",
       "symbols": [
@@ -5809,6 +6096,19 @@
       "source": null
     },
     {
+      "id": "zello",
+      "name": "Zello",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers boards",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "zello",
+        "provenance": "https://jobs.ashbyhq.com/zello"
+      }
+    },
+    {
       "id": "zimmer-biomet",
       "name": "Zimmer Biomet",
       "symbols": [
@@ -5818,6 +6118,19 @@
       "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
       "inventory_retrieved_at": "2026-10-05",
       "source": null
+    },
+    {
+      "id": "ziprecruiter",
+      "name": "ZipRecruiter",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "curated public employer careers board",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "ziprecruiter",
+        "provenance": "https://job-boards.greenhouse.io/ziprecruiter"
+      }
     },
     {
       "id": "zoetis",

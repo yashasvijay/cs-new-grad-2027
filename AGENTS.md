@@ -1,0 +1,5 @@
+- Work in the phases below, ONE phase at a time. After each phase: run the existing tests, summarize what changed, and STOP for my approval.
+- Keep changes small and reviewable. No large rewrites, no new frameworks. Static site only (plain HTML/CSS/JS reading data/listings.json, hosted on GitHub Pages).
+- Do not break the existing scraper, workflow, or data format. If a schema change is needed, make it additive and update tests.
+- Never invent job data, dates, or sponsorship info. If unknown, leave the field null/unknown.
+- Personal application data must stay local in the user's browser (localStorage). Nothing is sent to a server.

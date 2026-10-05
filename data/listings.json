@@ -22,7 +22,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "8011095003",
@@ -46,7 +48,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "8248317",
@@ -70,7 +74,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "744000153279380",
@@ -94,7 +100,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "1970393556982925",
@@ -120,7 +128,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "Manually reviewed entry-level requirements; 2027 eligibility unconfirmed",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "1970393557022395",
@@ -146,7 +156,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "Manually reviewed entry-level requirements; 2027 eligibility unconfirmed",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "1970393557004814",
@@ -172,7 +184,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "Manually reviewed entry-level requirements; 2027 eligibility unconfirmed",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "7838591",
@@ -196,7 +210,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "university grad software engineer 2027 (usa)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8140219",
@@ -220,7 +236,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
       "evidence": "master's university grad machine learning engineer 2027 (usa)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8140363",
@@ -244,7 +262,11 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "university grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "phd_only"
+      ]
     },
     {
       "id": "8140389",
@@ -268,7 +290,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "university grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "16778e12-31cb-4ca1-a321-7f629a7cf273",
@@ -292,7 +316,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "1970393556989020",
@@ -318,7 +344,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "Manually reviewed entry-level requirements; 2027 eligibility unconfirmed",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "cbd9078c4151100163be7e664bff0000",
@@ -342,7 +370,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "data engineer i, launch program 2027 – arlington, va, us",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
@@ -366,7 +396,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "5236296007",
@@ -390,7 +422,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "8127108",
@@ -414,7 +448,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduation date in 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "42e9b81dbabc1001a6d35cb7d7940000",
@@ -438,7 +474,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 university graduate - machine learning engineer",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "07a8ce9029511001a6cd688944cc0000",
@@ -462,7 +500,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 university graduate - software engineer",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "d5922f8f173b1001b544bf6399dc0000",
@@ -486,7 +526,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "site reliability engineer i, launch program 2027 – st. louis, mo, us",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8227548",
@@ -510,7 +552,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
       "evidence": "graduates we are looking for the best and brightest spring/summer of 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "4736426005",
@@ -534,7 +578,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduation date in fall 2026 or spring 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "5246141007",
@@ -558,7 +604,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 early career firmware engineer",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8220882",
@@ -582,7 +630,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "8220863",
@@ -606,7 +656,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "c98beb10e67d10006d1d873643100000",
@@ -630,7 +682,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 software engineer new college grad (bachelor's) - gloucester, ma",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "5211582007",
@@ -654,7 +708,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad (2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "1ec29cec-d18f-417d-adc6-31adda87c687",
@@ -678,7 +734,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 new graduate - software engineer",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8205427",
@@ -702,7 +760,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer-engine-new grad 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8205389",
@@ -726,7 +786,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
       "evidence": "software engineer-helios-new grad 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "b5e81eae-06f9-4798-8988-2d06ca936dbc",
@@ -750,7 +812,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer - new grad (2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "a3fef67948bb102c5acd7be30eff0000",
@@ -774,7 +838,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "918d7b33cbe8102c5abe5872ffe70000",
@@ -798,7 +864,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "ed49b5322e1d1007229f6590be820000",
@@ -822,7 +890,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "c734969e4317102c5a92d84557820000",
@@ -846,7 +916,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
@@ -870,7 +942,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "5232802007",
@@ -894,7 +968,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "7986505003",
@@ -918,7 +994,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "summer 2027 - data scientist (new grad) ",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "7980382003",
@@ -942,7 +1020,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "summer 2027- software development engineer - new grad ",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "4730836005",
@@ -966,7 +1046,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduation date in fall 2026 or spring 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8163709",
@@ -990,7 +1072,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer i, entry-level (graduation date: fall 2026-summer 2027) - us",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "5228868007",
@@ -1014,7 +1098,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 early career flight software engineer",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "a561fff8-aa38-4a5d-8b29-66c191f7328e",
@@ -1038,7 +1124,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "cybersecurity software engineer - new grad (2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "9fde8d03-9f47-44ac-bd14-53829722c06d",
@@ -1062,7 +1150,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduating between december 2026 and august 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8765745002",
@@ -1086,7 +1176,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "8765715002",
@@ -1110,7 +1202,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "149f368c-52d5-408f-ba26-ad888f318a00",
@@ -1134,7 +1228,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, agent (new grad 2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "77ca492c-4142-4931-beeb-e85d9d0ac443",
@@ -1158,7 +1254,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduating between december 2026 and june 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "5223279007",
@@ -1182,7 +1280,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "5221970007",
@@ -1206,7 +1306,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "db008474-d93e-41a7-939e-8d5825eb0d0f",
@@ -1230,7 +1332,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduating between december 2026 and june 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "5221560007",
@@ -1254,7 +1358,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "5221555007",
@@ -1278,7 +1384,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "5221572007",
@@ -1302,7 +1410,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "8156557",
@@ -1326,7 +1436,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "7895902003",
@@ -1350,7 +1462,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
       "evidence": "software engineer (new grad summer 2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "45fc41cd-8280-4010-ba1f-def6114b3e39",
@@ -1374,7 +1488,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "research engineer - new grad (2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "250080bd-10a8-4e5f-82b8-506029292d19",
@@ -1398,7 +1514,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software integration engineer - new grad (2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "a837cbd6-9fe4-4d74-a2dc-84f602c40694",
@@ -1422,7 +1540,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer - new grad (2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "6971d533-1536-448b-96b8-544ad5383f44",
@@ -1446,7 +1566,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "embedded software engineer - new grad (2027)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8700578002",
@@ -1470,7 +1592,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "4719126005",
@@ -1494,7 +1618,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
       "evidence": "2027 graduate",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "ffc80152-df35-45d6-8c2c-36ea8b67eb37",
@@ -1518,7 +1644,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "ff6ec280-f5c6-4151-8bfd-e75ff8004c89",
@@ -1542,7 +1670,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
@@ -1566,7 +1696,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "8072244",
@@ -1590,7 +1722,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "[2027] software engineer, early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8095181",
@@ -1614,7 +1748,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "4709991005",
@@ -1638,7 +1774,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
       "evidence": "graduate between december 2026-june 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8035372",
@@ -1662,7 +1800,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 graduates",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
@@ -1686,7 +1826,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer (agent platform) - new grad - 2026-2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
@@ -1710,7 +1852,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "full-stack software engineer (product) - new grad - 2026-2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8049515",
@@ -1734,7 +1878,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "85947779-6b87-466a-98bc-30a640448c28",
@@ -1758,7 +1904,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "297b4ece-765f-4eea-b1b8-46057cb6501f",
@@ -1782,7 +1930,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
@@ -1808,7 +1958,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduating in december 2026 or spring 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
@@ -1832,7 +1984,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer (2027 university grad)",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "fbca0358-083a-4222-bdbb-3bd729b48382",
@@ -1858,7 +2012,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "5162263007",
@@ -1882,7 +2038,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 early career software engineer ",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "8546367002",
@@ -1906,7 +2064,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "new graduate",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "5092069007",
@@ -1930,7 +2090,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "25999",
@@ -1957,7 +2119,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 graduate",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "25813",
@@ -1984,7 +2148,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 graduate",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "123087196289671878",
@@ -2012,7 +2178,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, ai/machine learning, phd, early career, 2027 start",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "phd_only"
+      ]
     },
     {
       "id": "84680705375642310",
@@ -2040,7 +2210,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, infrastructure, phd, early career, 2027 start",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "phd_only"
+      ]
     },
     {
       "id": "2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
@@ -2070,7 +2244,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "forward deployed software engineer, new grad - commercial",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
@@ -2100,7 +2278,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "forward deployed software engineer, new grad - us government",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "cbe90327-3e6e-451c-a54c-1d3cbcef5aeb",
@@ -2130,7 +2312,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "forward deployed software engineer, new grad - us government",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "c34b424e-caf2-455a-b104-ae1096ccca29",
@@ -2160,7 +2346,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "94984771-0704-446c-88c6-91ce748f6d92",
@@ -2190,7 +2380,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "0a838e66-1ab0-4fc4-b4d3-4671c0352278",
@@ -2220,7 +2414,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - defense",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "f362d7aa-360d-4059-ab38-f482742693b3",
@@ -2250,7 +2448,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - defense",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "18d901fc-93bb-4d18-9f04-c72031e20d79",
@@ -2280,7 +2482,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - defense",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "4abf26b4-795c-420a-bf22-1ab98db268b4",
@@ -2310,7 +2516,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - infrastructure",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "7d75bed5-45d8-4876-840a-2d92ea79c98d",
@@ -2340,7 +2550,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - infrastructure",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "e1a6c138-98bf-45e2-97f7-2c70371cc38a",
@@ -2370,7 +2584,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - production infrastructure",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "4d5a144e-87ea-45e2-a68c-3fad590629af",
@@ -2400,7 +2618,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - production infrastructure",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "15844944-fb69-4b57-9531-e988650b20c6",
@@ -2430,7 +2652,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad - production infrastructure",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "reused_release_unverified"
+      ]
     },
     {
       "id": "f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08",
@@ -2454,7 +2680,9 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
     },
     {
       "id": "5cde0d09-ba2d-408d-947e-4a42028cd4f7",
@@ -2478,7 +2706,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduation date between december 2026 and june 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
@@ -2502,7 +2732,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "graduation date between december 2026 and june 2027",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "29bad846-de60-4be7-a222-69b97e044930",
@@ -2528,7 +2760,9 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, 2027 new grad",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
     },
     {
       "id": "R244320",
@@ -2565,7 +2799,11 @@
       "eligibility": "2027 start — graduation by December 2026",
       "employment": "full-time",
       "evidence": "Explicitly requested February 2027 cohort; employer graduation cutoff December 2026",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
     },
     {
       "id": "R244385",
@@ -2593,7 +2831,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 full-time software engineer rotational new graduate",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
     },
     {
       "id": "REF088586W",
@@ -2624,7 +2866,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new college grad — 2027 — austin",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
     },
     {
       "id": "REF088530W",
@@ -2655,7 +2901,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new college grad — 2027 — bellevue",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
     },
     {
       "id": "REF088543W",
@@ -2686,7 +2936,11 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new college grad — 2027 — foster city",
-      "review_required": true
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
     }
   ],
   "coverage": [

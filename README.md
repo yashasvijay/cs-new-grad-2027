@@ -6,7 +6,7 @@ U.S. computer science jobs for the 2027 graduating class and company events.
 
 [![Update jobs](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml/badge.svg)](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml)
 
-**99 open candidates** · **61 mention 2027** · **75 employers checked successfully**
+**100 open candidates** · **61 mention 2027** · **75 employers checked successfully**
 
 <a href="#2027-new-grad-roles"><img src="https://img.shields.io/badge/2027%20roles-334155?style=for-the-badge" alt="2027 roles"></a> · <a href="#general-early-career--swe--sde-i"><img src="https://img.shields.io/badge/General%20early%20career-334155?style=for-the-badge" alt="General early career"></a> · <a href="#closed-roles"><img src="https://img.shields.io/badge/Closed%20roles-334155?style=for-the-badge" alt="Closed roles"></a> · <a href="EVENTS.md"><img src="https://img.shields.io/badge/Company%20events-334155?style=for-the-badge" alt="Company events"></a> · <a href="COVERAGE.md"><img src="https://img.shields.io/badge/Coverage-334155?style=for-the-badge" alt="Coverage"></a> · <a href="docs/METHODOLOGY.md"><img src="https://img.shields.io/badge/How%20it%20works-334155?style=for-the-badge" alt="How it works"></a>
 
@@ -18,7 +18,7 @@ A public tracker for full-time U.S. CS new-grad jobs in the 2027 cycle, plus vir
 
 **Read before applying:** “2027 mentioned” is a screening signal, not a guarantee of eligibility. Check graduation dates, experience, sponsorship, citizenship, and start dates on the employer page. General new-grad roles may not accept 2027 graduates. Roles with known posting dates before January 1, 2026 are excluded.
 
-Listing snapshot: **2026-10-05 20:35 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a> are recorded per run; this date changes only when the public list or source status changes.
+Listing snapshot: **2026-10-05 20:44 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a> are recorded per run; this date changes only when the public list or source status changes.
 
 **Order:** open roles first, then verification pending, then 🔒 closed roles. Each group is newest employer release first; unknown release dates follow dated postings. Publication dates can reflect republication.
 
@@ -102,6 +102,7 @@ General new-grad and early-career postings; 2027 eligibility is unconfirmed.
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Notes</th><th width="100">Apply</th><th>Released</th></tr></thead>
 <tbody>
+<tr><td><strong>ID.me</strong></td><td>Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career) </td><td>Mountain View, California, United States</td><td></td><td width=100 nowrap><a href="https://job-boards.greenhouse.io/idme/jobs/8011095003"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td>2026-10-05</td></tr>
 <tr><td><strong>Nuro</strong></td><td>New Grad Software Engineer, Routing ⚠️ </td><td>Mountain View, California (HQ)</td><td></td><td width=100 nowrap><a href="https://nuro.ai/careersitem?gh_jid=8248317"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td>2026-10-05</td></tr>
 <tr><td><strong>ServiceNow</strong></td><td>Software Engineer, Core Infrastructure - Moveworks (New Grad) </td><td>Mountain View, California, United States</td><td></td><td width=100 nowrap><a href="https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td>2026-10-02</td></tr>
 <tr><td><strong>Microsoft</strong></td><td>Software Engineer Intune </td><td>Redmond, WA,US</td><td></td><td width=100 nowrap><a href="https://apply.careers.microsoft.com/careers/job/1970393556982925"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td>2026-10-02</td></tr>

@@ -2,7 +2,7 @@
 
 # yvjay - CS New Grad · 2027
 
-**Get a clearer view of what's open, U.S. roles only with Direct employer links.**
+**Get a clearer view of what's open, U.S. roles only with direct employer links.**
 
 [![Update jobs](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml/badge.svg)](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml)
 

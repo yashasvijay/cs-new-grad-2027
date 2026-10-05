@@ -6,7 +6,7 @@ def render(view, now):
     monitored = sum(e['coverage'] == 'monitored' for e in view['coverage'])
     confirmed = [j for j in open_jobs if j['eligibility'].startswith('2027')]
     general = [j for j in open_jobs if j not in confirmed]
-    lines = ['<div align="center">', '', '# CS New Grad · 2027', '',
+    lines = ['<div align="center">', '', '# yashavijay - CS New Grad', '',
              '**U.S. new-grad roles and company events. Direct links. Clear status.**', '',
              '[![Update jobs](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml/badge.svg)](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml)', '',
              f'**{len(open_jobs)} open candidates** · **{len(confirmed)} mention 2027** · **{monitored} employers checked successfully**', '',

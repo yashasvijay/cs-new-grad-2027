@@ -29,8 +29,8 @@ def button(job):
     closed = job['status'] == 'closed'
     label = '🔒 Closed — original posting' if closed else ('Apply' if job['status'].startswith('open') else 'Review original posting')
     asset = 'closed.svg' if closed else ('apply.svg' if job['status'].startswith('open') else 'review.svg')
-    dimensions = 'width="176" height="56"' if asset == "apply.svg" else 'width="118"'
-    spacer = '<br><sub>' + '&#160;' * 60 + '</sub>' if asset == "apply.svg" else ""
+    dimensions = 'width="100" height="32"' if asset == "apply.svg" else 'width="118"'
+    spacer = '<br><sub>' + '&#160;' * 30 + '</sub>' if asset == "apply.svg" else ""
     return f'<a href="{escape(job["url"], quote=True)}"><img src="assets/{asset}" {dimensions} alt="{label}"></a>{spacer}'
 
 

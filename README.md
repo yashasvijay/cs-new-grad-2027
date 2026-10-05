@@ -1,6 +1,6 @@
 <div align="center">
 
-# yashavijay - CS New Grad
+# yashasvijay - C.S. New Grad
 
 **U.S. new-grad roles and company events. Direct links. Clear status.**
 

@@ -70,6 +70,9 @@ class TrackerTests(unittest.TestCase):
             self.assertIsNotNone(classify(job(title=title, employer_published_at='2026-01-01')))
         self.assertIsNone(classify(job(_recovered=True, employer_posted_at='2024-07-01')))
         self.assertIsNotNone(classify(job(employer_published_at=None)))
+        reused = job(employer_original_posted_at='2020-10-27', current_cycle=2027, cycle_source='https://example.com/early-talent', description='Full-time new graduate')
+        self.assertTrue(classify(reused)['eligibility'].startswith('2027'))
+        self.assertIsNone(classify(dict(reused, employer_published_at='2020-10-27')))
 
     def test_eligibility(self):
         self.assertIsNotNone(classify(job()))

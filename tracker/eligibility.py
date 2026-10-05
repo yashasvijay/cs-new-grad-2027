@@ -42,6 +42,8 @@ def classify(job):
     graduation = re.search(r'(?:graduat\w*(?:(?!start|join|begin|full.time by)[^.;]){0,100}2027|2027[^.;]{0,60}graduat\w*)', text)
     if re.search(r'\b202[4-6]\b', title) and '2027' not in title and not graduation:
         return None
+    if job.get('current_cycle') == 2027 and job.get('cycle_source') and ENTRY.search(title):
+        graduation = re.search(r'.+', title)
     if '2027' in title and ENTRY.search(title):
         graduation = re.search(r'.+', title)
     other_window = re.search(r'graduat\w*[^.;]{0,80}20(?:2[4-689]|3\d)', text)

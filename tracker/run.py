@@ -59,7 +59,7 @@ def main():
     dates_path = Path('data/backfill-dates.json')
     if dates_path.exists():
         for key, metadata in json.loads(dates_path.read_text())['jobs'].items():
-            if key in state['jobs'] and not state['jobs'][key].get('employer_published_at'):
+            if key in state['jobs'] and (metadata.get('current_cycle') or not state['jobs'][key].get('employer_published_at')):
                 state['jobs'][key].update(metadata)
     view = public_view(state, employers, now, classify)
     from tracker.events import render as render_events

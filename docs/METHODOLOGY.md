@@ -46,3 +46,5 @@ python3 -m tracker.run
 `data/events.json` contains manually verified organizer pages, event dates, format, cost notes, and verification timestamps. EVENTS.md moves completed events to its history on the next successful run. Event discovery is incomplete and is not a five-minute feed. Confirm the organizer schedule before registering.
 
 Public Instagram stories are discovery leads reviewed in local scheduled checks when browser access is available. Direct employer or organizer pages are required before publication. Expired stories and missed checks cannot be recovered reliably. Local reminders require an awake Mac and running Codex. No inbox contents, application outcomes, personal registration links, or story screenshots are published.
+
+For reused requisitions, `employer_original_posted_at` preserves the old date independently of the current cycle release. Verified employer cohort guidance is recorded in `current_cycle` and `cycle_source`; an old requisition date does not establish when it reopened. Current-cycle release dates remain unknown without dated evidence.

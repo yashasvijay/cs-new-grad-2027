@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['tracker/**', 'tests/**', 'data/employers.json', 'data/manual-backfill.json', 'data/events.json', '.github/workflows/update.yml']
+    paths: ['tracker/**', 'tests/**', 'data/employers.json', 'data/manual-backfill.json', 'data/events.json', 'data/backfill-dates.json', 'assets/**', '.github/workflows/update.yml']
 permissions:
   contents: write
 concurrency:

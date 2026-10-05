@@ -15,6 +15,36 @@ def job(**changes):
 
 
 class TrackerTests(unittest.TestCase):
+    def test_release_order_keeps_closed_at_bottom(self):
+        from tracker.presentation import listing_order, button
+        base = dict(employer='Employer', title='Role', location='US', url='https://example.com/posting', first_seen_at='2026-10-05')
+        jobs = [dict(base, id='closed-old', status='closed', employer_published_at='2026-08-01'),
+                dict(base, id='open-unknown', status='open', employer_published_at=None),
+                dict(base, id='closed-new', status='closed', employer_published_at='2026-10-05'),
+                dict(base, id='open-old', status='open', employer_published_at='2026-09-01'),
+                dict(base, id='open-new', status='open', employer_published_at='2026-10-01')]
+        self.assertEqual([j['id'] for j in listing_order(jobs)], ['open-new', 'open-old', 'open-unknown', 'closed-new', 'closed-old'])
+        self.assertIn('https://example.com/posting', button(jobs[0]))
+        self.assertIn('closed.svg', button(jobs[0]))
+
+    def test_unavailable_stub_does_not_overwrite_or_close(self):
+        state = {}; employer = {'id':'e', 'name':'Employer'}
+        reconcile(state, employer, [job()], '2026-10-05T10:00:00+00:00')
+        reconcile(state, employer, [dict(id='1', _unavailable=True)], '2026-10-05T11:00:00+00:00')
+        self.assertEqual(state['jobs']['e:1']['title'], job()['title'])
+        self.assertEqual(state['jobs']['e:1']['status'], 'open')
+
+    def test_jsonld_and_workday_dates(self):
+        from tracker.adapters import jsonld_job, workday_job
+        page = '<script type="application/ld+json">' + json.dumps({'@type':'JobPosting', 'title':'Software Engineer', 'description':'Full-time entry level', 'employmentType':'FULL_TIME', 'datePosted':'2026-09-20', 'jobLocation':{'address':{'addressCountry':{'name':'US'}, 'addressLocality':'Seattle', 'addressRegion':'WA'}}}) + '</script>'
+        normalized = jsonld_job({'id':'1', 'url':'https://example.com/1'}, page)
+        self.assertEqual(normalized['employer_published_at'], '2026-09-20')
+        self.assertEqual(normalized['employment_type'], 'FULLTIME')
+        self.assertEqual(normalized['countries'], ['US'])
+        info = dict(id='1', jobReqId='r', title='2027 New Grad Software Engineer', location='Seattle, WA', jobDescription='Full-time', externalUrl='https://example.com/1', startDate='2026-09-20', country={'descriptor':'United States of America'}, timeType='Full time')
+        self.assertEqual(workday_job({'jobPostingInfo':info})['employer_published_at'], '2026-09-20')
+        self.assertIsNone(workday_job({'jobPostingInfo':dict(info, posted=False)}))
+
     def test_manual_expiry_and_reverification(self):
         from tracker.manual import seed
         employer = {'id':'e', 'name':'Employer'}

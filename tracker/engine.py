@@ -20,6 +20,8 @@ def reconcile(state, employer, jobs, now, error=None):
         identity = str(job.get('requisition_id') or job['id'])
         key = employer['id'] + ':' + identity
         seen.add(key)
+        if job.get('_unavailable'):
+            continue
         old = state['jobs'].get(key, {})
         job = dict(job, source_links=sorted(set(old.get('source_links', []) + [job['url']])))
         state['jobs'][key] = dict(job, employer=employer['name'], employer_id=employer['id'],
@@ -39,7 +41,8 @@ def reconcile(state, employer, jobs, now, error=None):
         else:
             job['status'] = 'missing — verification pending'
     for key in seen:
-        state['jobs'][key].pop('first_missing_at', None)
+        if key in state['jobs']:
+            state['jobs'][key].pop('first_missing_at', None)
 
 
 def public_view(state, employers, now, classify):
@@ -47,7 +50,7 @@ def public_view(state, employers, now, classify):
     for key, job in sorted(state.get('jobs', {}).items()):
         if job.get('verification_mode') == 'manual' and job['status'] != 'closed':
             expired = datetime.fromisoformat(now) - datetime.fromisoformat(job['manual_verified_at']) > timedelta(hours=48)
-            job['status'] = 'verification overdue — manually checked' if expired else 'open — manually verified'
+            job['status'] = 'verification overdue — manually checked' if expired else job.get('manual_status', 'open — manually verified')
         eligibility = classify(job)
         if not eligibility:
             continue
@@ -63,4 +66,5 @@ def public_view(state, employers, now, classify):
                              coverage='monitored' if health.get('last_success_at') else ('configured' if employer.get('source') else 'planned'),
                              health=health.get('status', 'not checked'), verification_overdue=overdue(health, now),
                              source=employer.get('source'), error=health.get('error')))
-    return {'jobs': listings, 'coverage': coverage}
+    from tracker.presentation import listing_order
+    return {'jobs': listing_order(listings), 'coverage': coverage}

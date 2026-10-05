@@ -7,8 +7,8 @@
       "name": "Microsoft Ignite 2026",
       "start_date": "2026-11-17",
       "end_date": "2026-11-20",
-      "format": "In person + online",
-      "location": "San Francisco, CA / online",
+      "format": "Hybrid",
+      "location": "Moscone Center, San Francisco, CA + virtual",
       "category": "Developer conference",
       "cost": "Check organizer; format-dependent",
       "url": "https://ignite.microsoft.com/en-US/home",
@@ -20,12 +20,34 @@
       "name": "AWS re:Invent 2026",
       "start_date": "2026-11-30",
       "end_date": "2026-12-04",
-      "format": "In person",
-      "location": "Las Vegas, NV",
+      "format": "Hybrid",
+      "location": "Las Vegas, NV (multiple venues) + virtual livestream",
       "category": "Developer conference",
-      "cost": "Paid; check organizer pricing",
+      "cost": "Virtual keynotes/select programming free; in-person paid",
       "url": "https://aws.amazon.com/events/reinvent/",
-      "verified_at": "2026-10-05T18:23:52+00:00"
+      "verified_at": "2026-10-05T18:23:52+00:00",
+      "source_urls": [
+        "https://aws.amazon.com/events/reinvent/",
+        "https://aws.amazon.com/events/reinvent/faqs/"
+      ]
+    },
+    {
+      "id": "nvidia-gtc-berlin-keynote-2026",
+      "company": "NVIDIA",
+      "name": "GTC Berlin keynote livestream",
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "format": "Virtual",
+      "location": "Online",
+      "category": "Developer conference / keynote",
+      "cost": "Free virtual viewing; no registration required",
+      "url": "https://www.nvidia.com/en-eu/gtc/",
+      "verified_at": "2026-10-05T19:34:55+00:00",
+      "notes": "Virtual keynote; Berlin venue attendance is a separate option. Confirm time zone and access.",
+      "source_urls": [
+        "https://www.nvidia.com/en-eu/gtc/",
+        "https://www.nvidia.com/en-eu/gtc/faq/"
+      ]
     }
   ]
 }

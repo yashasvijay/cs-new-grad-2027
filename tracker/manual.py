@@ -12,5 +12,5 @@ def seed(state, path=Path('data/manual-backfill.json')):
             continue
         state['jobs'][key] = dict(job, first_seen_at=old.get('first_seen_at', job['manual_verified_at']),
             tracker_published_at=old.get('tracker_published_at'), last_seen_at=job['manual_verified_at'],
-            last_checked_at=job['manual_verified_at'], missing_checks=0, status='open — manually verified',
+            last_checked_at=job['manual_verified_at'], missing_checks=0, status=job.get('manual_status', 'open — manually verified'),
             verification_mode='manual', source_links=[job['url']])

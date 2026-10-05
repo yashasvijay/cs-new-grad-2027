@@ -24,13 +24,14 @@ def render(view, now):
     rows = ['# U.S. CS New-Grad Jobs · 2027', '',
             'Automated candidate listings. Every listing requires review of the employer’s requirements.', '',
             f'Listing snapshot: {now}. See [coverage](COVERAGE.md) and the latest Actions run for live check timestamps.', '',
-            '| Employer | Role | Location | Eligibility | Employment | Status | First seen | Employer published | Tracker published |',
-            '|---|---|---|---|---|---|---|---|---|']
-    for job in view['jobs']:
-        rows.append('| ' + ' | '.join([cell(job['employer']), f"[{cell(job['title'])}]({job['url']})", cell(job['location']), cell(job['eligibility']), cell(job['employment']), cell(job['status']), job['first_seen_at'], job.get('employer_published_at') or 'unknown', job['tracker_published_at']]) + ' |')
+            '| Employer | Role | Location | Eligibility | Employment | Status | First seen | Employer published | Tracker published | Apply |',
+            '|---|---|---|---|---|---|---|---|---|---|']
+    from tracker.presentation import listing_order, button, decorate_links
+    for job in listing_order(view['jobs']):
+        rows.append('| ' + ' | '.join([cell(job['employer']), cell(job['title']), cell(job['location']), cell(job['eligibility']), cell(job['employment']), cell(('🔒 ' if job['status'] == 'closed' else '') + job['status']), job['first_seen_at'], job.get('employer_published_at') or 'unknown', job['tracker_published_at'], button(job)]) + ' |')
     if not view['jobs']:
         rows += ['', 'No candidates passed the current conservative filters. This does not mean no suitable jobs exist.']
-    return '\n'.join(rows) + '\n'
+    return decorate_links('\n'.join(rows) + '\n')
 
 
 def main():
@@ -55,17 +56,25 @@ def main():
             print(f"{employer['name']}: {'FAILED ' + error if error else str(len(jobs)) + ' source jobs'}")
     from tracker.manual import seed
     seed(state)
+    dates_path = Path('data/backfill-dates.json')
+    if dates_path.exists():
+        for key, metadata in json.loads(dates_path.read_text())['jobs'].items():
+            if key in state['jobs'] and not state['jobs'][key].get('employer_published_at'):
+                state['jobs'][key].update(metadata)
     view = public_view(state, employers, now, classify)
     from tracker.events import render as render_events
     (args.output / 'EVENTS.md').write_text(render_events(Path('data/events.json'), now))
     destination = args.output / 'data/listings.json'
     previous = json.loads(destination.read_text()) if destination.exists() else None
     comparable = {k: v for k, v in (previous or {}).items() if k != 'snapshot_at'}
-    if view != comparable:
+    changed = view != comparable
+    snapshot = now if changed else previous['snapshot_at']
+    if changed:
         save(destination, dict(view, snapshot_at=now))
-        (args.output / 'JOBS.md').write_text(render(view, now))
-        from tracker.readme import render as render_readme
-        (args.output / 'README.md').write_text(render_readme(view, now))
+    (args.output / 'JOBS.md').write_text(render(view, snapshot))
+    from tracker.readme import render as render_readme
+    (args.output / 'README.md').write_text(render_readme(view, snapshot))
+    if changed:
         coverage = ['# Employer coverage', '', f'Snapshot: {now}. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.', '', '| Employer | Coverage | Source health | Overdue at snapshot |', '|---|---|---|---|']
         coverage += [f"| {cell(e['name'])} | {e['coverage']} | {cell(e['health'])} | {e['verification_overdue']} |" for e in view['coverage']]
         (args.output / 'COVERAGE.md').write_text('\n'.join(coverage) + '\n')

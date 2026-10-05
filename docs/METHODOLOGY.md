@@ -13,7 +13,18 @@ Jobs are keyed by employer and requisition ID where available, otherwise by empl
 - `tracker_published_at`: first generation into the public listing snapshot. Git commit time is the actual repository delivery time and can follow generation.
 - `last_checked_at`, `last_seen_at`, `last_attempt_at`, `last_success_at`: full per-check values live in state/health artifacts. Public JSON omits routine check timestamps to avoid commits on every poll.
 
-Descriptions are inspected locally, not republished. Every candidate is labeled for human review. The list preserves closed postings in JOBS.md and JSON; the README shows open candidates.
+Descriptions are inspected locally, not republished. Every candidate is labeled for human review. The README separates primary open tables from a collapsible secondary section. All sections remain in JOBS.md and JSON.
+
+## README sections
+
+Two additive fields describe display placement without changing job facts or eligibility:
+
+- `listing_section`: `new_grad_2027`, `general_early_career`, or `secondary`.
+- `secondary_reasons`: zero or more of `closed`, `verification_pending`, `phd_only`, and `reused_release_unverified`.
+
+Closed and verification-pending rows are secondary. PhD-specific titles or notes explicitly requiring a PhD are secondary; mixed PhD/MS titles are not treated as PhD-only. Reused requisitions are secondary when the original-date field or existing notes identify reuse and the current release date is unknown. An ordinary unknown release date alone does not establish reuse. All records are retained; section labels are recomputed during generation, including after cache recovery.
+
+“2027 mentioned” is a screening signal, not a guarantee of eligibility. Check graduation dates, experience, sponsorship, citizenship, and start dates on the employer page. General new-grad roles may not accept 2027 graduates. Known release dates before January 1, 2026 remain excluded by the existing eligibility filter; old original dates on verified reused requisitions remain separate from current-cycle release dates. Publication dates can reflect republication. Unknown dates stay unknown, with first-seen dates labeled separately.
 
 ## Source failures and closure
 

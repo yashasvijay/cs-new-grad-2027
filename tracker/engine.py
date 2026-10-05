@@ -1,5 +1,6 @@
 import copy
 from datetime import datetime, timedelta, timezone
+from tracker.sections import classify_section
 
 
 def overdue(health, now):
@@ -63,6 +64,7 @@ def public_view(state, employers, now, classify):
             job['tracker_published_at'] = now
         item = {k: v for k, v in job.items() if k not in ('_recovered', 'description', 'countries', 'missing_checks', 'first_missing_at', 'last_seen_at', 'last_checked_at')}
         item.update(eligibility)
+        item.update(classify_section(item))
         listings.append(item)
     coverage = []
     for employer in employers:

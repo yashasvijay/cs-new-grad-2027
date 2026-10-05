@@ -1,5 +1,11 @@
 # Sources and attribution
 
+## License scope
+
+Listings are sourced from public employer career pages and remain the property of their respective employers. The MIT license covers this repository's code, not the listings.
+
+See [LICENSE](../LICENSE) for the code license. The derived employer inventory and third-party attribution retain the terms documented below.
+
 ## Direct job feeds
 
 - [Greenhouse Job Board API](https://docs.greenhouse.io/job-board.html)

@@ -1,0 +1,38 @@
+# How the tracker works
+
+The starter polls public Greenhouse, Lever, and Ashby employer feeds. A listing must have a U.S. location signal, a CS role title, and a new-grad/early-career or 2027 graduation signal. Explicit internships, part-time/contract jobs, senior titles, incompatible graduation windows, and detected minimum experience above two years are excluded. Ambiguous remote geography is excluded. Unknown full-time status is flagged for review. These rules are conservative heuristics, not an eligibility determination; omissions and false positives remain possible.
+
+## Identity and history
+
+Jobs are keyed by employer and requisition ID where available, otherwise by employer and provider posting ID. Separate location-specific provider IDs remain separate postings. Source links are preserved. Returning jobs retain their original first-seen time.
+
+- `employer_posted_at`: original posting time, null unless explicitly supplied. Current adapters do not assume it.
+- `employer_published_at`: employer feed publication/republication time when provided. Ashby's `publishedAt` is the last publication time; Greenhouse `first_published` is distinct from `updated_at`.
+- `employer_updated_at`: feed update timestamp, never used as original posting time.
+- `first_seen_at`: our first successful detection, including initial backfill; never inferred from a discovery list's date.
+- `tracker_published_at`: first generation into the public listing snapshot. Git commit time is the actual repository delivery time and can follow generation.
+- `last_checked_at`, `last_seen_at`, `last_attempt_at`, `last_success_at`: full per-check values live in state/health artifacts. Public JSON omits routine check timestamps to avoid commits on every poll.
+
+Descriptions are inspected locally, not republished. Every candidate is labeled for human review. The list preserves closed postings in JOBS.md and JSON; the README shows open candidates.
+
+## Source failures and closure
+
+Malformed responses and HTTP errors are failed checks, never an empty successful board. Jobs remain unchanged during failures. Omission marks a job pending verification; closure requires at least three successful omissions over at least 30 minutes. Reappearance reopens the job. A source is overdue after 30 minutes without success. The coverage page shows status at its snapshot; use the latest Actions run and its `source-health` artifact for current checks. If the scheduler stops entirely, the public page cannot autonomously update its overdue label; assess snapshot/run age.
+
+## Zero-budget persistence and scheduling
+
+GitHub Actions requests a run every five minutes at minutes 2, 7, 12, and so on. GitHub may delay, drop, or disable schedules (including inactive public repositories); this is best-effort, not a delivery guarantee. Runs serialize through a concurrency group; pending runs can be replaced. Direct feeds have bounded retries/timeouts and four concurrent checks. No paid services or API keys are required.
+
+Full polling state is stored in Actions cache. Cache entries can be evicted, so this is not durable database storage. Published candidate identities, first-seen and publication timestamps are rebuilt from committed JSON if the cache disappears. Closure counters restart conservatively. Noncandidate detection history can be lost on eviction. The public listing/history in Git is durable; source-health artifacts retain per-run check details for two days. Cache capacity is limited and older snapshots are evicted. Only semantic listing/status changes create public commits.
+
+## Development
+
+Python 3.12 and a trusted system `curl` are sufficient; no Python dependencies. TLS verification stays enabled.
+
+```sh
+python3 -m unittest discover -s tests -v
+python3 -m tracker.bootstrap
+python3 -m tracker.run
+```
+
+`--fixtures DIRECTORY` loads `<employer-id>.json` responses for offline replay. `--state PATH` and `--output DIRECTORY` support isolated validation. Employer inventory configuration is in `data/employers.json`. Add only verified direct board slugs; do not label configured or planned employers as monitored before success.

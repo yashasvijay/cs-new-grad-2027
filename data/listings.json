@@ -1,0 +1,5621 @@
+{
+  "jobs": [
+    {
+      "id": "8035372",
+      "requisition_id": "JR104015",
+      "title": "Associate Application Engineer (2027 Graduates)",
+      "location": "McLean, Virginia",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8035372",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-23T14:36:38-04:00",
+      "employer_updated_at": "2026-09-29T09:25:21-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/appian/jobs/8035372"
+      ],
+      "employer": "Appian",
+      "employer_id": "appian",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:49:28+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 graduates",
+      "review_required": true
+    },
+    {
+      "id": "8156557",
+      "requisition_id": "JR104192",
+      "title": "Information Security Engineer",
+      "location": "McLean, Virginia",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8156557",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-25T11:07:10-04:00",
+      "employer_updated_at": "2026-09-29T09:25:21-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/appian/jobs/8156557"
+      ],
+      "employer": "Appian",
+      "employer_id": "appian",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:49:28+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "250080bd-10a8-4e5f-82b8-506029292d19",
+      "requisition_id": null,
+      "title": "Software Integration Engineer - New Grad (2027)",
+      "location": "Sunnyvale",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-14T21:59:07.522+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19"
+      ],
+      "employer": "Applied Intuition",
+      "employer_id": "applied-intuition",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating by december 2026 or summer 2027",
+      "review_required": true
+    },
+    {
+      "id": "45fc41cd-8280-4010-ba1f-def6114b3e39",
+      "requisition_id": null,
+      "title": "Research Engineer - New Grad (2027)",
+      "location": "Sunnyvale",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-14T21:59:13.521+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"
+      ],
+      "employer": "Applied Intuition",
+      "employer_id": "applied-intuition",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating by december 2026 or summer 2027",
+      "review_required": true
+    },
+    {
+      "id": "6971d533-1536-448b-96b8-544ad5383f44",
+      "requisition_id": null,
+      "title": "Embedded Software Engineer - New Grad (2027)",
+      "location": "Sunnyvale",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-14T21:57:00.558+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
+      ],
+      "employer": "Applied Intuition",
+      "employer_id": "applied-intuition",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating by december 2026 or summer 2027",
+      "review_required": true
+    },
+    {
+      "id": "a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "requisition_id": null,
+      "title": "Cybersecurity Software Engineer - New Grad (2027)",
+      "location": "Sunnyvale",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-02T18:46:50.291+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"
+      ],
+      "employer": "Applied Intuition",
+      "employer_id": "applied-intuition",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating by december 2026 or summer 2027",
+      "review_required": true
+    },
+    {
+      "id": "a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+      "requisition_id": null,
+      "title": "Software Engineer - New Grad (2027)",
+      "location": "Sunnyvale; Ann Arbor",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-14T21:57:14.117+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
+      ],
+      "employer": "Applied Intuition",
+      "employer_id": "applied-intuition",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating december 2026 or by summer 2027",
+      "review_required": true
+    },
+    {
+      "id": "4709991005",
+      "requisition_id": "436",
+      "title": "Associate Engineer - 2027 Start",
+      "location": "Chicago, IL; New York, NY",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-31T14:52:59-04:00",
+      "employer_updated_at": "2026-09-11T11:33:23-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005"
+      ],
+      "employer": "Chicago Trading Company",
+      "employer_id": "chicago-trading-company",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:49:28+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time unverified — review",
+      "evidence": "graduate between december 2026-june 2027",
+      "review_required": true
+    },
+    {
+      "id": "297b4ece-765f-4eea-b1b8-46057cb6501f",
+      "requisition_id": null,
+      "title": "Software Engineer, Early Career",
+      "location": "San Francisco, California",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-06T18:37:35.161+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f"
+      ],
+      "employer": "Notion",
+      "employer_id": "notion",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true
+    },
+    {
+      "id": "85947779-6b87-466a-98bc-30a640448c28",
+      "requisition_id": null,
+      "title": "Software Engineer, Early Career (AI)",
+      "location": "San Francisco, California",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-06T18:37:42.434+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28"
+      ],
+      "employer": "Notion",
+      "employer_id": "notion",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true
+    },
+    {
+      "id": "0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Defense",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "15844944-fb69-4b57-9531-e988650b20c6",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Production Infrastructure",
+      "location": "Washington, D.C.",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "18d901fc-93bb-4d18-9f04-c72031e20d79",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Defense",
+      "location": "Washington, D.C.",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+      "requisition_id": null,
+      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating in december 2026 or spring 2027",
+      "review_required": true
+    },
+    {
+      "id": "4abf26b4-795c-420a-bf22-1ab98db268b4",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Infrastructure",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "4d5a144e-87ea-45e2-a68c-3fad590629af",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Production Infrastructure",
+      "location": "Seattle, WA",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "7d75bed5-45d8-4876-840a-2d92ea79c98d",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Infrastructure",
+      "location": "Palo Alto, CA",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "94984771-0704-446c-88c6-91ce748f6d92",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "c34b424e-caf2-455a-b104-ae1096ccca29",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad",
+      "location": "Denver, CO",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "cbe90327-3e6e-451c-a54c-1d3cbcef5aeb",
+      "requisition_id": null,
+      "title": "Forward Deployed Software Engineer, New Grad - US Government",
+      "location": "Washington, D.C.",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+      "requisition_id": null,
+      "title": "Forward Deployed Software Engineer, New Grad - US Government",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Production Infrastructure",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+      "requisition_id": null,
+      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "location": "Chicago, IL",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating in december 2026 or spring 2027",
+      "review_required": true
+    },
+    {
+      "id": "f362d7aa-360d-4059-ab38-f482742693b3",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Defense",
+      "location": "Palo Alto, CA",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "fbca0358-083a-4222-bdbb-3bd729b48382",
+      "requisition_id": null,
+      "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
+      "location": "Washington, D.C.",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
+      "requisition_id": null,
+      "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
+      "location": "Remote - Multiple Locations; United States; Canada",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-25T22:08:04.740+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0"
+      ],
+      "employer": "Quora",
+      "employer_id": "quora",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "requisition_id": null,
+      "title": "Software Engineer - New Grad (2027)",
+      "location": "Foster City, CA",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-09T18:23:24.396+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
+      ],
+      "employer": "Replit",
+      "employer_id": "replit",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduate (2027",
+      "review_required": true
+    },
+    {
+      "id": "4730836005",
+      "requisition_id": "UR-2027-NG",
+      "title": "Software Engineer - New Grad",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-04T11:59:59-04:00",
+      "employer_updated_at": "2026-10-01T19:04:24-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
+      ],
+      "employer": "Scale AI",
+      "employer_id": "scale-ai",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduation date in fall 2026 or spring 2027",
+      "review_required": true
+    },
+    {
+      "id": "4736426005",
+      "requisition_id": "UR-2027-PSNG",
+      "title": "Software Engineer, Public Sector - New Grad",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-23T13:55:35-04:00",
+      "employer_updated_at": "2026-10-01T19:04:24-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
+      ],
+      "employer": "Scale AI",
+      "employer_id": "scale-ai",
+      "first_seen_at": "2026-10-05T17:45:05+00:00",
+      "tracker_published_at": "2026-10-05T17:45:05+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduation date in fall 2026 or spring 2027",
+      "review_required": true
+    },
+    {
+      "id": "149f368c-52d5-408f-ba26-ad888f318a00",
+      "requisition_id": null,
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "location": "San Francisco, CA; New York, NY",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-31T17:54:40.218+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00"
+      ],
+      "employer": "Sierra",
+      "employer_id": "sierra",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true
+    },
+    {
+      "id": "8049515",
+      "requisition_id": "2044",
+      "title": "Software Engineer I - Device Control ",
+      "location": "Boston, MA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-07T16:12:59-04:00",
+      "employer_updated_at": "2026-07-07T16:12:59-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
+      ],
+      "employer": "SimpliSafe",
+      "employer_id": "simplisafe",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "8095181",
+      "requisition_id": "2067",
+      "title": "Software Engineer I- User Systems",
+      "location": "Boston, MA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-03T16:36:17-04:00",
+      "employer_updated_at": "2026-08-03T16:37:05-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
+      ],
+      "employer": "SimpliSafe",
+      "employer_id": "simplisafe",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    },
+    {
+      "id": "8700578002",
+      "requisition_id": "R9253",
+      "title": "Software Engineer I, Payments",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-14T16:13:21-04:00",
+      "employer_updated_at": "2026-09-18T17:53:43-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true
+    }
+  ],
+  "coverage": [
+    {
+      "id": "3m",
+      "name": "3M",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "a-o-smith",
+      "name": "A. O. Smith",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "abbott-laboratories",
+      "name": "Abbott Laboratories",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "abbvie",
+      "name": "AbbVie",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "accenture",
+      "name": "Accenture",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "adobe-inc",
+      "name": "Adobe Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "advanced-micro-devices",
+      "name": "Advanced Micro Devices",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "aes-corporation",
+      "name": "AES Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "aflac",
+      "name": "Aflac",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "agilent-technologies",
+      "name": "Agilent Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "air-products",
+      "name": "Air Products",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "akamai-technologies",
+      "name": "Akamai Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "albemarle-corporation",
+      "name": "Albemarle Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "alexandria-real-estate-equities",
+      "name": "Alexandria Real Estate Equities",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "align-technology",
+      "name": "Align Technology",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "allegion",
+      "name": "Allegion",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "alliant-energy",
+      "name": "Alliant Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "allstate",
+      "name": "Allstate",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "alphabet-inc",
+      "name": "Alphabet Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "alphabet-inc-class-a",
+      "name": "Alphabet Inc. (Class A)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "alphabet-inc-class-c",
+      "name": "Alphabet Inc. (Class C)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "altria",
+      "name": "Altria",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "amcor",
+      "name": "Amcor",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ameren",
+      "name": "Ameren",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "american-electric-power",
+      "name": "American Electric Power",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "american-express",
+      "name": "American Express",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "american-international-group",
+      "name": "American International Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "american-tower",
+      "name": "American Tower",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "american-water-works",
+      "name": "American Water Works",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ameriprise-financial",
+      "name": "Ameriprise Financial",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ametek",
+      "name": "Ametek",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "amgen",
+      "name": "Amgen",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "amphenol",
+      "name": "Amphenol",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "analog-devices",
+      "name": "Analog Devices",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "anthropic",
+        "provenance": "https://job-boards.greenhouse.io/anthropic"
+      },
+      "error": null
+    },
+    {
+      "id": "aon-plc",
+      "name": "Aon plc",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "apa-corporation",
+      "name": "APA Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "apollo-global-management",
+      "name": "Apollo Global Management",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "appian",
+      "name": "Appian",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "appian",
+        "provenance": "https://job-boards.greenhouse.io/appian"
+      },
+      "error": null
+    },
+    {
+      "id": "apple-inc",
+      "name": "Apple Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "applied-intuition",
+      "name": "Applied Intuition",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "applied",
+        "provenance": "https://jobs.ashbyhq.com/applied"
+      },
+      "error": null
+    },
+    {
+      "id": "applied-materials",
+      "name": "Applied Materials",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "applovin",
+      "name": "AppLovin",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "aptiv",
+      "name": "Aptiv",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "arch-capital-group",
+      "name": "Arch Capital Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "archer-daniels-midland",
+      "name": "Archer Daniels Midland",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ares-management",
+      "name": "Ares Management",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "arista-networks",
+      "name": "Arista Networks",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "arthur-j-gallagher-co",
+      "name": "Arthur J. Gallagher & Co.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "assurant",
+      "name": "Assurant",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "at-t",
+      "name": "AT&T",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "atmos-energy",
+      "name": "Atmos Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "autodesk",
+      "name": "Autodesk",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "automatic-data-processing",
+      "name": "Automatic Data Processing",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "autozone",
+      "name": "AutoZone",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "avery-dennison",
+      "name": "Avery Dennison",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "axon-enterprise",
+      "name": "Axon Enterprise",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "baker-hughes",
+      "name": "Baker Hughes",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ball-corporation",
+      "name": "Ball Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "baxter-international",
+      "name": "Baxter International",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "becton-dickinson",
+      "name": "Becton Dickinson",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "berkshire-hathaway",
+      "name": "Berkshire Hathaway",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "best-buy",
+      "name": "Best Buy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "bio-techne",
+      "name": "Bio-Techne",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "biogen",
+      "name": "Biogen",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "blackstone-inc",
+      "name": "Blackstone Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "block-inc",
+      "name": "Block, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "bloom-energy",
+      "name": "Bloom Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "bny-mellon",
+      "name": "BNY Mellon",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "boeing",
+      "name": "Boeing",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "booking-holdings",
+      "name": "Booking Holdings",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "boston-scientific",
+      "name": "Boston Scientific",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "bristol-myers-squibb",
+      "name": "Bristol Myers Squibb",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "broadridge-financial-solutions",
+      "name": "Broadridge Financial Solutions",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "brown-brown",
+      "name": "Brown & Brown",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "brown-forman",
+      "name": "Brown–Forman",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "bunge-global",
+      "name": "Bunge Global",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "bxp-inc",
+      "name": "BXP, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "c-h-robinson",
+      "name": "C.H. Robinson",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cadence-design-systems",
+      "name": "Cadence Design Systems",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "camden-property-trust",
+      "name": "Camden Property Trust",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "capital-one",
+      "name": "Capital One",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cardinal-health",
+      "name": "Cardinal Health",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "carnival-corporation",
+      "name": "Carnival Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "carrier-global",
+      "name": "Carrier Global",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "carvana",
+      "name": "Carvana",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "casey-s",
+      "name": "Casey's",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "caterpillar-inc",
+      "name": "Caterpillar Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cboe-global-markets",
+      "name": "Cboe Global Markets",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cbre-group",
+      "name": "CBRE Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cdw-corporation",
+      "name": "CDW Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cencora",
+      "name": "Cencora",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "centene-corporation",
+      "name": "Centene Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "centerpoint-energy",
+      "name": "CenterPoint Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cf-industries",
+      "name": "CF Industries",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "charles-river-laboratories",
+      "name": "Charles River Laboratories",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "charles-schwab-corporation",
+      "name": "Charles Schwab Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "charter-communications",
+      "name": "Charter Communications",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "chevron-corporation",
+      "name": "Chevron Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "chicago-trading-company",
+      "name": "Chicago Trading Company",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "ctccampusboard",
+        "provenance": "https://job-boards.greenhouse.io/ctccampusboard"
+      },
+      "error": null
+    },
+    {
+      "id": "chipotle-mexican-grill",
+      "name": "Chipotle Mexican Grill",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "chubb-limited",
+      "name": "Chubb Limited",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "church-dwight",
+      "name": "Church & Dwight",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ciena",
+      "name": "Ciena",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cigna",
+      "name": "Cigna",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cincinnati-financial",
+      "name": "Cincinnati Financial",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cintas",
+      "name": "Cintas",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cisco",
+      "name": "Cisco",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "citigroup",
+      "name": "Citigroup",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "citizens-financial-group",
+      "name": "Citizens Financial Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "clorox",
+      "name": "Clorox",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "cloudflare",
+        "provenance": "https://job-boards.greenhouse.io/cloudflare"
+      },
+      "error": null
+    },
+    {
+      "id": "cme-group",
+      "name": "CME Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cms-energy",
+      "name": "CMS Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "coca-cola-company-the",
+      "name": "Coca-Cola Company (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cognizant",
+      "name": "Cognizant",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "coherent-corp",
+      "name": "Coherent Corp.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "colgate-palmolive",
+      "name": "Colgate-Palmolive",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "comcast",
+      "name": "Comcast",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "comfort-systems-usa",
+      "name": "Comfort Systems USA",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "conocophillips",
+      "name": "ConocoPhillips",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "consolidated-edison",
+      "name": "Consolidated Edison",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "constellation-brands",
+      "name": "Constellation Brands",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "constellation-energy",
+      "name": "Constellation Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cooper-companies-the",
+      "name": "Cooper Companies (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "copart",
+      "name": "Copart",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "corning-inc",
+      "name": "Corning Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "corpay",
+      "name": "Corpay",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "corteva",
+      "name": "Corteva",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "costar-group",
+      "name": "CoStar Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "costco",
+      "name": "Costco",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "crh-plc",
+      "name": "CRH plc",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "crown-castle",
+      "name": "Crown Castle",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "csx-corporation",
+      "name": "CSX Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cummins",
+      "name": "Cummins",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "cvs-health",
+      "name": "CVS Health",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "d-r-horton",
+      "name": "D. R. Horton",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "danaher-corporation",
+      "name": "Danaher Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "darden-restaurants",
+      "name": "Darden Restaurants",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "databricks",
+        "provenance": "https://job-boards.greenhouse.io/databricks"
+      },
+      "error": null
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "davita",
+      "name": "DaVita",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "deckers-brands",
+      "name": "Deckers Brands",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "deere-company",
+      "name": "Deere & Company",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "dell-technologies",
+      "name": "Dell Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "delta-air-lines",
+      "name": "Delta Air Lines",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "devon-energy",
+      "name": "Devon Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "dexcom",
+      "name": "Dexcom",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "diamondback-energy",
+      "name": "Diamondback Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "digital-realty",
+      "name": "Digital Realty",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "discord",
+        "provenance": "https://job-boards.greenhouse.io/discord"
+      },
+      "error": null
+    },
+    {
+      "id": "dollar-general",
+      "name": "Dollar General",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "dollar-tree",
+      "name": "Dollar Tree",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "dominion-energy",
+      "name": "Dominion Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "domino-s",
+      "name": "Domino's",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "doordash",
+      "name": "DoorDash",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "dover-corporation",
+      "name": "Dover Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "dow-inc",
+      "name": "Dow Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "dte-energy",
+      "name": "DTE Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "duke-energy",
+      "name": "Duke Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "duolingo",
+      "name": "Duolingo",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "duolingo",
+        "provenance": "https://job-boards.greenhouse.io/duolingo"
+      },
+      "error": null
+    },
+    {
+      "id": "dupont",
+      "name": "DuPont",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "eaton-corporation",
+      "name": "Eaton Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ebay-inc",
+      "name": "eBay Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "echostar",
+      "name": "EchoStar",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ecolab",
+      "name": "Ecolab",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "edison-international",
+      "name": "Edison International",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "edwards-lifesciences",
+      "name": "Edwards Lifesciences",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "elevance-health",
+      "name": "Elevance Health",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "emcor",
+      "name": "Emcor",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "emerson-electric",
+      "name": "Emerson Electric",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "entergy",
+      "name": "Entergy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "eog-resources",
+      "name": "EOG Resources",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "eqt-corporation",
+      "name": "EQT Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "equifax",
+      "name": "Equifax",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "equinix",
+      "name": "Equinix",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "erie-indemnity",
+      "name": "Erie Indemnity",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "essex-property-trust",
+      "name": "Essex Property Trust",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "est-e-lauder-companies-the",
+      "name": "Estée Lauder Companies (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "everest-group",
+      "name": "Everest Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "evergy",
+      "name": "Evergy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "everpure",
+      "name": "Everpure",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "eversource-energy",
+      "name": "Eversource Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "exelon",
+      "name": "Exelon",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "expand-energy",
+      "name": "Expand Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "expedia-group",
+      "name": "Expedia Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "expeditors-international",
+      "name": "Expeditors International",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "extra-space-storage",
+      "name": "Extra Space Storage",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "exxonmobil",
+      "name": "ExxonMobil",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "f5-inc",
+      "name": "F5, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "factset",
+      "name": "FactSet",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fair-isaac",
+      "name": "Fair Isaac",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fastenal",
+      "name": "Fastenal",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "federal-realty-investment-trust",
+      "name": "Federal Realty Investment Trust",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fedex",
+      "name": "FedEx",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fedex-freight",
+      "name": "FedEx Freight",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ferguson-enterprises",
+      "name": "Ferguson Enterprises",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fidelity-national-information-services",
+      "name": "Fidelity National Information Services",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fifth-third-bancorp",
+      "name": "Fifth Third Bancorp",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "figma",
+        "provenance": "https://job-boards.greenhouse.io/figma"
+      },
+      "error": null
+    },
+    {
+      "id": "first-solar",
+      "name": "First Solar",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "firstenergy",
+      "name": "FirstEnergy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fiserv",
+      "name": "Fiserv",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "flex-ltd",
+      "name": "Flex Ltd.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ford-motor-company",
+      "name": "Ford Motor Company",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fortinet",
+      "name": "Fortinet",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fortive",
+      "name": "Fortive",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fox-corporation-class-a",
+      "name": "Fox Corporation (Class A)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "fox-corporation-class-b",
+      "name": "Fox Corporation (Class B)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "franklin-resources",
+      "name": "Franklin Resources",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "freeport-mcmoran",
+      "name": "Freeport-McMoRan",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "garmin",
+      "name": "Garmin",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "gartner",
+      "name": "Gartner",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ge-aerospace",
+      "name": "GE Aerospace",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ge-healthcare",
+      "name": "GE HealthCare",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ge-vernova",
+      "name": "GE Vernova",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "gen-digital",
+      "name": "Gen Digital",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "generac",
+      "name": "Generac",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "general-dynamics",
+      "name": "General Dynamics",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "general-mills",
+      "name": "General Mills",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "general-motors",
+      "name": "General Motors",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "genuine-parts-company",
+      "name": "Genuine Parts Company",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "gilead-sciences",
+      "name": "Gilead Sciences",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "global-payments",
+      "name": "Global Payments",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "globe-life",
+      "name": "Globe Life",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "halliburton",
+      "name": "Halliburton",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hartford-the",
+      "name": "Hartford (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hasbro",
+      "name": "Hasbro",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hca-healthcare",
+      "name": "HCA Healthcare",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "healthpeak-properties",
+      "name": "Healthpeak Properties",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "henry-schein",
+      "name": "Henry Schein",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hershey-company-the",
+      "name": "Hershey Company (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hewlett-packard-enterprise",
+      "name": "Hewlett Packard Enterprise",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hilton-worldwide",
+      "name": "Hilton Worldwide",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "home-depot-the",
+      "name": "Home Depot (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "honeywell-aerospace",
+      "name": "Honeywell Aerospace",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "honeywell-technologies",
+      "name": "Honeywell Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hormel-foods",
+      "name": "Hormel Foods",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "host-hotels-resorts",
+      "name": "Host Hotels & Resorts",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "howmet-aerospace",
+      "name": "Howmet Aerospace",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hp-inc",
+      "name": "HP Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "hubbell-incorporated",
+      "name": "Hubbell Incorporated",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "humana",
+      "name": "Humana",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "huntington-bancshares",
+      "name": "Huntington Bancshares",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "huntington-ingalls-industries",
+      "name": "Huntington Ingalls Industries",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "idex-corporation",
+      "name": "IDEX Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "idexx-laboratories",
+      "name": "Idexx Laboratories",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "illinois-tool-works",
+      "name": "Illinois Tool Works",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "illumina-inc",
+      "name": "Illumina, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "incyte",
+      "name": "Incyte",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ingersoll-rand",
+      "name": "Ingersoll Rand",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "insulet-corporation",
+      "name": "Insulet Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "interactive-brokers",
+      "name": "Interactive Brokers",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "intercontinental-exchange",
+      "name": "Intercontinental Exchange",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "international-flavors-fragrances",
+      "name": "International Flavors & Fragrances",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "international-paper",
+      "name": "International Paper",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "intuit",
+      "name": "Intuit",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "intuitive-surgical",
+      "name": "Intuitive Surgical",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "invesco",
+      "name": "Invesco",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "invitation-homes",
+      "name": "Invitation Homes",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "iqvia",
+      "name": "IQVIA",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "iron-mountain",
+      "name": "Iron Mountain",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "j-b-hunt",
+      "name": "J.B. Hunt",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "j-m-smucker-company-the",
+      "name": "J.M. Smucker Company (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "jabil",
+      "name": "Jabil",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "jack-henry-associates",
+      "name": "Jack Henry & Associates",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "jacobs-solutions",
+      "name": "Jacobs Solutions",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "johnson-johnson",
+      "name": "Johnson & Johnson",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "johnson-controls",
+      "name": "Johnson Controls",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "jpmorgan-chase",
+      "name": "JPMorgan Chase",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kenvue",
+      "name": "Kenvue",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "keurig-dr-pepper",
+      "name": "Keurig Dr Pepper",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "keycorp",
+      "name": "KeyCorp",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "keysight-technologies",
+      "name": "Keysight Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kimberly-clark",
+      "name": "Kimberly-Clark",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kimco-realty",
+      "name": "Kimco Realty",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kinder-morgan",
+      "name": "Kinder Morgan",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kkr-co",
+      "name": "KKR & Co.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kla-corporation",
+      "name": "KLA Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kraft-heinz",
+      "name": "Kraft Heinz",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "kroger",
+      "name": "Kroger",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "l3harris",
+      "name": "L3Harris",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "labcorp",
+      "name": "Labcorp",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lam-research",
+      "name": "Lam Research",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "las-vegas-sands",
+      "name": "Las Vegas Sands",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "leidos",
+      "name": "Leidos",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lennar",
+      "name": "Lennar",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lennox-international",
+      "name": "Lennox International",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lilly-eli",
+      "name": "Lilly (Eli)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "linde-plc",
+      "name": "Linde plc",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "live-nation-entertainment",
+      "name": "Live Nation Entertainment",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lockheed-martin",
+      "name": "Lockheed Martin",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "loews-corporation",
+      "name": "Loews Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lowe-s",
+      "name": "Lowe's",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lululemon-athletica",
+      "name": "Lululemon Athletica",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lumentum",
+      "name": "Lumentum",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "lyondellbasell",
+      "name": "LyondellBasell",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "m-t-bank",
+      "name": "M&T Bank",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "marathon-petroleum",
+      "name": "Marathon Petroleum",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "marriott-international",
+      "name": "Marriott International",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "marsh-mclennan",
+      "name": "Marsh McLennan",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "martin-marietta-materials",
+      "name": "Martin Marietta Materials",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "marvell-technology",
+      "name": "Marvell Technology",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "masco",
+      "name": "Masco",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mccormick-company",
+      "name": "McCormick & Company",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mcdonald-s",
+      "name": "McDonald's",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mckesson-corporation",
+      "name": "McKesson Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "medtronic",
+      "name": "Medtronic",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "merck-co",
+      "name": "Merck & Co.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "meta-platforms",
+      "name": "Meta Platforms",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "metlife",
+      "name": "MetLife",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mettler-toledo",
+      "name": "Mettler Toledo",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mgm-resorts",
+      "name": "MGM Resorts",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "microchip-technology",
+      "name": "Microchip Technology",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "micron-technology",
+      "name": "Micron Technology",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mid-america-apartment-communities",
+      "name": "Mid-America Apartment Communities",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "moderna",
+      "name": "Moderna",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mondelez-international",
+      "name": "Mondelez International",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "mongodb",
+        "provenance": "https://job-boards.greenhouse.io/mongodb"
+      },
+      "error": null
+    },
+    {
+      "id": "monolithic-power-systems",
+      "name": "Monolithic Power Systems",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "monster-beverage",
+      "name": "Monster Beverage",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "moody-s-corporation",
+      "name": "Moody's Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "morgan-stanley",
+      "name": "Morgan Stanley",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "mosaic-company-the",
+      "name": "Mosaic Company (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "motorola-solutions",
+      "name": "Motorola Solutions",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "msci",
+      "name": "MSCI",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nasdaq-inc",
+      "name": "Nasdaq, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "netapp",
+      "name": "NetApp",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "coverage": "planned",
+      "health": "failed",
+      "verification_overdue": true,
+      "source": null,
+      "error": "curl: (22) The requested URL returned error: 404\n"
+    },
+    {
+      "id": "newmont",
+      "name": "Newmont",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "news-corp-class-a",
+      "name": "News Corp (Class A)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "news-corp-class-b",
+      "name": "News Corp (Class B)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nextera-energy",
+      "name": "NextEra Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nike-inc",
+      "name": "Nike, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nisource",
+      "name": "NiSource",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nordson-corporation",
+      "name": "Nordson Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "norfolk-southern",
+      "name": "Norfolk Southern",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "northern-trust",
+      "name": "Northern Trust",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "northrop-grumman",
+      "name": "Northrop Grumman",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "norwegian-cruise-line-holdings",
+      "name": "Norwegian Cruise Line Holdings",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "notion",
+        "provenance": "https://jobs.ashbyhq.com/notion"
+      },
+      "error": null
+    },
+    {
+      "id": "nrg-energy",
+      "name": "NRG Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nucor",
+      "name": "Nucor",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nvr-inc",
+      "name": "NVR, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "nxp-semiconductors",
+      "name": "NXP Semiconductors",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "o-reilly-automotive",
+      "name": "O'Reilly Automotive",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "occidental-petroleum",
+      "name": "Occidental Petroleum",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "old-dominion",
+      "name": "Old Dominion",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "omnicom-group",
+      "name": "Omnicom Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "on-semiconductor",
+      "name": "ON Semiconductor",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "oneok",
+      "name": "Oneok",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "openai",
+        "provenance": "https://jobs.ashbyhq.com/openai"
+      },
+      "error": null
+    },
+    {
+      "id": "oracle-corporation",
+      "name": "Oracle Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "otis-worldwide",
+      "name": "Otis Worldwide",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "paccar",
+      "name": "Paccar",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "packaging-corporation-of-america",
+      "name": "Packaging Corporation of America",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "palantir-technologies",
+      "name": "Palantir Technologies",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "lever",
+        "board": "palantir",
+        "provenance": "https://jobs.lever.co/palantir"
+      },
+      "error": null
+    },
+    {
+      "id": "palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "paramount-skydance-corporation",
+      "name": "Paramount Skydance Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "parker-hannifin",
+      "name": "Parker Hannifin",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "paychex",
+      "name": "Paychex",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "pentair",
+      "name": "Pentair",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "pepsico",
+      "name": "PepsiCo",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "pfizer",
+      "name": "Pfizer",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "pg-e-corporation",
+      "name": "PG&E Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "philip-morris-international",
+      "name": "Philip Morris International",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "phillips-66",
+      "name": "Phillips 66",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "pinnacle-west-capital",
+      "name": "Pinnacle West Capital",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "pnc-financial-services",
+      "name": "PNC Financial Services",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ppg-industries",
+      "name": "PPG Industries",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ppl-corporation",
+      "name": "PPL Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "principal-financial-group",
+      "name": "Principal Financial Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "procter-gamble",
+      "name": "Procter & Gamble",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "progressive-corporation",
+      "name": "Progressive Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "prologis",
+      "name": "Prologis",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "prudential-financial",
+      "name": "Prudential Financial",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ptc-inc",
+      "name": "PTC Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "public-service-enterprise-group",
+      "name": "Public Service Enterprise Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "public-storage",
+      "name": "Public Storage",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "pultegroup",
+      "name": "PulteGroup",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "qnity-electronics",
+      "name": "Qnity Electronics",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "quanta-services",
+      "name": "Quanta Services",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "quest-diagnostics",
+      "name": "Quest Diagnostics",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "quora",
+      "name": "Quora",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "quora",
+        "provenance": "https://jobs.ashbyhq.com/quora"
+      },
+      "error": null
+    },
+    {
+      "id": "ralph-lauren-corporation",
+      "name": "Ralph Lauren Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ramp",
+      "name": "Ramp",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "ramp",
+        "provenance": "https://jobs.ashbyhq.com/ramp"
+      },
+      "error": null
+    },
+    {
+      "id": "raymond-james-financial",
+      "name": "Raymond James Financial",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "realty-income",
+      "name": "Realty Income",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "regency-centers",
+      "name": "Regency Centers",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "regeneron-pharmaceuticals",
+      "name": "Regeneron Pharmaceuticals",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "regions-financial-corporation",
+      "name": "Regions Financial Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "replit",
+      "name": "Replit",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "replit",
+        "provenance": "https://jobs.ashbyhq.com/replit"
+      },
+      "error": null
+    },
+    {
+      "id": "republic-services",
+      "name": "Republic Services",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "resmed",
+      "name": "ResMed|",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "revvity",
+      "name": "Revvity",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "robinhood",
+        "provenance": "https://job-boards.greenhouse.io/robinhood"
+      },
+      "error": null
+    },
+    {
+      "id": "robinhood-markets",
+      "name": "Robinhood Markets",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "rockwell-automation",
+      "name": "Rockwell Automation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "rollins-inc",
+      "name": "Rollins, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "roper-technologies",
+      "name": "Roper Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ross-stores",
+      "name": "Ross Stores",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "royal-caribbean-group",
+      "name": "Royal Caribbean Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "rtx-corporation",
+      "name": "RTX Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "s-p-global",
+      "name": "S&P Global",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "sandisk",
+      "name": "Sandisk",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "sba-communications",
+      "name": "SBA Communications",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "scale-ai",
+      "name": "Scale AI",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "scaleai",
+        "provenance": "https://job-boards.greenhouse.io/scaleai"
+      },
+      "error": null
+    },
+    {
+      "id": "schlumberger",
+      "name": "Schlumberger",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "seagate-technology",
+      "name": "Seagate Technology",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "sempra",
+      "name": "Sempra",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "servicenow",
+      "name": "ServiceNow",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "sherwin-williams",
+      "name": "Sherwin-Williams",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "sierra",
+      "name": "Sierra",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "ashby",
+        "board": "Sierra",
+        "provenance": "https://jobs.ashbyhq.com/Sierra"
+      },
+      "error": null
+    },
+    {
+      "id": "simon-property-group",
+      "name": "Simon Property Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "simplisafe",
+      "name": "SimpliSafe",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "simplisafe",
+        "provenance": "https://job-boards.greenhouse.io/simplisafe"
+      },
+      "error": null
+    },
+    {
+      "id": "skyworks-solutions",
+      "name": "Skyworks Solutions",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "smurfit-westrock",
+      "name": "Smurfit Westrock",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "snap-on",
+      "name": "Snap-on",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "solventum",
+      "name": "Solventum",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "southern-company",
+      "name": "Southern Company",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "southwest-airlines",
+      "name": "Southwest Airlines",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "stanley-black-decker",
+      "name": "Stanley Black & Decker",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "starbucks",
+      "name": "Starbucks",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "state-street-corporation",
+      "name": "State Street Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "steel-dynamics",
+      "name": "Steel Dynamics",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "steris",
+      "name": "Steris",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "stripe",
+        "provenance": "https://job-boards.greenhouse.io/stripe"
+      },
+      "error": null
+    },
+    {
+      "id": "stryker-corporation",
+      "name": "Stryker Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "supermicro",
+      "name": "Supermicro",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "synchrony-financial",
+      "name": "Synchrony Financial",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "synopsys",
+      "name": "Synopsys",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "sysco",
+      "name": "Sysco",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "t-mobile-us",
+      "name": "T-Mobile US",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "t-rowe-price",
+      "name": "T. Rowe Price",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "take-two-interactive",
+      "name": "Take-Two Interactive",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "tapestry-inc",
+      "name": "Tapestry, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "targa-resources",
+      "name": "Targa Resources",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "target-corporation",
+      "name": "Target Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "te-connectivity",
+      "name": "TE Connectivity",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "teledyne-technologies",
+      "name": "Teledyne Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "teradyne",
+      "name": "Teradyne",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "tesla-inc",
+      "name": "Tesla, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "texas-instruments",
+      "name": "Texas Instruments",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "texas-pacific-land-corporation",
+      "name": "Texas Pacific Land Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "textron",
+      "name": "Textron",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "thermo-fisher-scientific",
+      "name": "Thermo Fisher Scientific",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "tjx-companies",
+      "name": "TJX Companies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "tko-group-holdings",
+      "name": "TKO Group Holdings",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "tractor-supply",
+      "name": "Tractor Supply",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "trane-technologies",
+      "name": "Trane Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "transdigm-group",
+      "name": "TransDigm Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "travelers-companies-the",
+      "name": "Travelers Companies (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "trimble-inc",
+      "name": "Trimble Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "truist-financial",
+      "name": "Truist Financial",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "twitch",
+      "name": "Twitch",
+      "coverage": "monitored",
+      "health": "healthy",
+      "verification_overdue": false,
+      "source": {
+        "adapter": "greenhouse",
+        "board": "twitch",
+        "provenance": "https://job-boards.greenhouse.io/twitch"
+      },
+      "error": null
+    },
+    {
+      "id": "tyler-technologies",
+      "name": "Tyler Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "tyson-foods",
+      "name": "Tyson Foods",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "u-s-bancorp",
+      "name": "U.S. Bancorp",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "udr-inc",
+      "name": "UDR, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ulta-beauty",
+      "name": "Ulta Beauty",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "union-pacific-corporation",
+      "name": "Union Pacific Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "united-airlines-holdings",
+      "name": "United Airlines Holdings",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "united-parcel-service",
+      "name": "United Parcel Service",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "united-rentals",
+      "name": "United Rentals",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "unitedhealth-group",
+      "name": "UnitedHealth Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "universal-health-services",
+      "name": "Universal Health Services",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "valero-energy",
+      "name": "Valero Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "veeva-systems",
+      "name": "Veeva Systems",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "ventas",
+      "name": "Ventas",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "veralto",
+      "name": "Veralto",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "verisign",
+      "name": "Verisign",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "verisk-analytics",
+      "name": "Verisk Analytics",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "verizon",
+      "name": "Verizon",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "vertex-pharmaceuticals",
+      "name": "Vertex Pharmaceuticals",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "vertiv",
+      "name": "Vertiv",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "viatris",
+      "name": "Viatris",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "vici-properties",
+      "name": "Vici Properties",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "visa-inc",
+      "name": "Visa Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "vistra-corp",
+      "name": "Vistra Corp.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "vivmark-residential",
+      "name": "Vivmark Residential",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "vulcan-materials-company",
+      "name": "Vulcan Materials Company",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "w-r-berkley-corporation",
+      "name": "W. R. Berkley Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "w-w-grainger",
+      "name": "W. W. Grainger",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "wabtec",
+      "name": "Wabtec",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "walt-disney-company-the",
+      "name": "Walt Disney Company (The)",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "waste-management",
+      "name": "Waste Management",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "waters-corporation",
+      "name": "Waters Corporation",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "wec-energy-group",
+      "name": "WEC Energy Group",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "wells-fargo",
+      "name": "Wells Fargo",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "welltower",
+      "name": "Welltower",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "west-pharmaceutical-services",
+      "name": "West Pharmaceutical Services",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "western-digital",
+      "name": "Western Digital",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "weyerhaeuser",
+      "name": "Weyerhaeuser",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "williams-companies",
+      "name": "Williams Companies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "williams-sonoma-inc",
+      "name": "Williams-Sonoma, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "willis-towers-watson",
+      "name": "Willis Towers Watson",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "workday-inc",
+      "name": "Workday, Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "wynn-resorts",
+      "name": "Wynn Resorts",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "xcel-energy",
+      "name": "Xcel Energy",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "xylem-inc",
+      "name": "Xylem Inc.",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "yum-brands",
+      "name": "Yum! Brands",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "zebra-technologies",
+      "name": "Zebra Technologies",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "zimmer-biomet",
+      "name": "Zimmer Biomet",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    },
+    {
+      "id": "zoetis",
+      "name": "Zoetis",
+      "coverage": "planned",
+      "health": "not checked",
+      "verification_overdue": true,
+      "source": null,
+      "error": null
+    }
+  ],
+  "snapshot_at": "2026-10-05T17:50:22+00:00"
+}

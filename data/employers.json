@@ -1,0 +1,5834 @@
+{
+  "inventory_note": "Wikipedia candidate inventory, not an official confirmed constituent list. Share classes deduplicated by employer name.",
+  "employers": [
+    {
+      "id": "3m",
+      "name": "3M",
+      "symbols": [
+        "MMM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "a-o-smith",
+      "name": "A. O. Smith",
+      "symbols": [
+        "AOS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "abbott-laboratories",
+      "name": "Abbott Laboratories",
+      "symbols": [
+        "ABT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "abbvie",
+      "name": "AbbVie",
+      "symbols": [
+        "ABBV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "accenture",
+      "name": "Accenture",
+      "symbols": [
+        "ACN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "adobe-inc",
+      "name": "Adobe Inc.",
+      "symbols": [
+        "ADBE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "advanced-micro-devices",
+      "name": "Advanced Micro Devices",
+      "symbols": [
+        "AMD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "aes-corporation",
+      "name": "AES Corporation",
+      "symbols": [
+        "AES"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "aflac",
+      "name": "Aflac",
+      "symbols": [
+        "AFL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "agilent-technologies",
+      "name": "Agilent Technologies",
+      "symbols": [
+        "A"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "air-products",
+      "name": "Air Products",
+      "symbols": [
+        "APD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "symbols": [
+        "ABNB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "akamai-technologies",
+      "name": "Akamai Technologies",
+      "symbols": [
+        "AKAM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "albemarle-corporation",
+      "name": "Albemarle Corporation",
+      "symbols": [
+        "ALB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "alexandria-real-estate-equities",
+      "name": "Alexandria Real Estate Equities",
+      "symbols": [
+        "ARE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "align-technology",
+      "name": "Align Technology",
+      "symbols": [
+        "ALGN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "allegion",
+      "name": "Allegion",
+      "symbols": [
+        "ALLE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "alliant-energy",
+      "name": "Alliant Energy",
+      "symbols": [
+        "LNT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "allstate",
+      "name": "Allstate",
+      "symbols": [
+        "ALL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "alphabet-inc",
+      "name": "Alphabet Inc.",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "alphabet-inc-class-a",
+      "name": "Alphabet Inc. (Class A)",
+      "symbols": [
+        "GOOGL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "alphabet-inc-class-c",
+      "name": "Alphabet Inc. (Class C)",
+      "symbols": [
+        "GOOG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "altria",
+      "name": "Altria",
+      "symbols": [
+        "MO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "symbols": [
+        "AMZN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "amcor",
+      "name": "Amcor",
+      "symbols": [
+        "AMCR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ameren",
+      "name": "Ameren",
+      "symbols": [
+        "AEE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "american-electric-power",
+      "name": "American Electric Power",
+      "symbols": [
+        "AEP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "american-express",
+      "name": "American Express",
+      "symbols": [
+        "AXP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "american-international-group",
+      "name": "American International Group",
+      "symbols": [
+        "AIG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "american-tower",
+      "name": "American Tower",
+      "symbols": [
+        "AMT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "american-water-works",
+      "name": "American Water Works",
+      "symbols": [
+        "AWK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ameriprise-financial",
+      "name": "Ameriprise Financial",
+      "symbols": [
+        "AMP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ametek",
+      "name": "Ametek",
+      "symbols": [
+        "AME"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "amgen",
+      "name": "Amgen",
+      "symbols": [
+        "AMGN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "amphenol",
+      "name": "Amphenol",
+      "symbols": [
+        "APH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "analog-devices",
+      "name": "Analog Devices",
+      "symbols": [
+        "ADI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "anthropic",
+        "provenance": "https://job-boards.greenhouse.io/anthropic"
+      }
+    },
+    {
+      "id": "aon-plc",
+      "name": "Aon plc",
+      "symbols": [
+        "AON"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "apa-corporation",
+      "name": "APA Corporation",
+      "symbols": [
+        "APA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "apollo-global-management",
+      "name": "Apollo Global Management",
+      "symbols": [
+        "APO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "appian",
+      "name": "Appian",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "https://github.com/vanshb03/New-Grad-2027",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "appian",
+        "provenance": "https://job-boards.greenhouse.io/appian"
+      }
+    },
+    {
+      "id": "apple-inc",
+      "name": "Apple Inc.",
+      "symbols": [
+        "AAPL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "applied-intuition",
+      "name": "Applied Intuition",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "applied",
+        "provenance": "https://jobs.ashbyhq.com/applied"
+      }
+    },
+    {
+      "id": "applied-materials",
+      "name": "Applied Materials",
+      "symbols": [
+        "AMAT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "applovin",
+      "name": "AppLovin",
+      "symbols": [
+        "APP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "aptiv",
+      "name": "Aptiv",
+      "symbols": [
+        "APTV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "arch-capital-group",
+      "name": "Arch Capital Group",
+      "symbols": [
+        "ACGL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "archer-daniels-midland",
+      "name": "Archer Daniels Midland",
+      "symbols": [
+        "ADM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ares-management",
+      "name": "Ares Management",
+      "symbols": [
+        "ARES"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "arista-networks",
+      "name": "Arista Networks",
+      "symbols": [
+        "ANET"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "arthur-j-gallagher-co",
+      "name": "Arthur J. Gallagher & Co.",
+      "symbols": [
+        "AJG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "assurant",
+      "name": "Assurant",
+      "symbols": [
+        "AIZ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "at-t",
+      "name": "AT&T",
+      "symbols": [
+        "T"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "atmos-energy",
+      "name": "Atmos Energy",
+      "symbols": [
+        "ATO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "autodesk",
+      "name": "Autodesk",
+      "symbols": [
+        "ADSK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "automatic-data-processing",
+      "name": "Automatic Data Processing",
+      "symbols": [
+        "ADP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "autozone",
+      "name": "AutoZone",
+      "symbols": [
+        "AZO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "avery-dennison",
+      "name": "Avery Dennison",
+      "symbols": [
+        "AVY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "axon-enterprise",
+      "name": "Axon Enterprise",
+      "symbols": [
+        "AXON"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "baker-hughes",
+      "name": "Baker Hughes",
+      "symbols": [
+        "BKR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ball-corporation",
+      "name": "Ball Corporation",
+      "symbols": [
+        "BALL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "symbols": [
+        "BAC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "baxter-international",
+      "name": "Baxter International",
+      "symbols": [
+        "BAX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "becton-dickinson",
+      "name": "Becton Dickinson",
+      "symbols": [
+        "BDX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "berkshire-hathaway",
+      "name": "Berkshire Hathaway",
+      "symbols": [
+        "BRK.B"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "best-buy",
+      "name": "Best Buy",
+      "symbols": [
+        "BBY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "bio-techne",
+      "name": "Bio-Techne",
+      "symbols": [
+        "TECH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "biogen",
+      "name": "Biogen",
+      "symbols": [
+        "BIIB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "symbols": [
+        "BLK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "blackstone-inc",
+      "name": "Blackstone Inc.",
+      "symbols": [
+        "BX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "block-inc",
+      "name": "Block, Inc.",
+      "symbols": [
+        "XYZ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "bloom-energy",
+      "name": "Bloom Energy",
+      "symbols": [
+        "BE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "bny-mellon",
+      "name": "BNY Mellon",
+      "symbols": [
+        "BNY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "boeing",
+      "name": "Boeing",
+      "symbols": [
+        "BA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "booking-holdings",
+      "name": "Booking Holdings",
+      "symbols": [
+        "BKNG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "boston-scientific",
+      "name": "Boston Scientific",
+      "symbols": [
+        "BSX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "bristol-myers-squibb",
+      "name": "Bristol Myers Squibb",
+      "symbols": [
+        "BMY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "symbols": [
+        "AVGO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "broadridge-financial-solutions",
+      "name": "Broadridge Financial Solutions",
+      "symbols": [
+        "BR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "brown-brown",
+      "name": "Brown & Brown",
+      "symbols": [
+        "BRO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "brown-forman",
+      "name": "Brown\u2013Forman",
+      "symbols": [
+        "BF.B"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "bunge-global",
+      "name": "Bunge Global",
+      "symbols": [
+        "BG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "bxp-inc",
+      "name": "BXP, Inc.",
+      "symbols": [
+        "BXP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "c-h-robinson",
+      "name": "C.H. Robinson",
+      "symbols": [
+        "CHRW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cadence-design-systems",
+      "name": "Cadence Design Systems",
+      "symbols": [
+        "CDNS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "camden-property-trust",
+      "name": "Camden Property Trust",
+      "symbols": [
+        "CPT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "capital-one",
+      "name": "Capital One",
+      "symbols": [
+        "COF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cardinal-health",
+      "name": "Cardinal Health",
+      "symbols": [
+        "CAH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "carnival-corporation",
+      "name": "Carnival Corporation",
+      "symbols": [
+        "CCL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "carrier-global",
+      "name": "Carrier Global",
+      "symbols": [
+        "CARR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "carvana",
+      "name": "Carvana",
+      "symbols": [
+        "CVNA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "casey-s",
+      "name": "Casey's",
+      "symbols": [
+        "CASY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "caterpillar-inc",
+      "name": "Caterpillar Inc.",
+      "symbols": [
+        "CAT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cboe-global-markets",
+      "name": "Cboe Global Markets",
+      "symbols": [
+        "CBOE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cbre-group",
+      "name": "CBRE Group",
+      "symbols": [
+        "CBRE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cdw-corporation",
+      "name": "CDW Corporation",
+      "symbols": [
+        "CDW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cencora",
+      "name": "Cencora",
+      "symbols": [
+        "COR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "centene-corporation",
+      "name": "Centene Corporation",
+      "symbols": [
+        "CNC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "centerpoint-energy",
+      "name": "CenterPoint Energy",
+      "symbols": [
+        "CNP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cf-industries",
+      "name": "CF Industries",
+      "symbols": [
+        "CF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "charles-river-laboratories",
+      "name": "Charles River Laboratories",
+      "symbols": [
+        "CRL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "charles-schwab-corporation",
+      "name": "Charles Schwab Corporation",
+      "symbols": [
+        "SCHW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "charter-communications",
+      "name": "Charter Communications",
+      "symbols": [
+        "CHTR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "chevron-corporation",
+      "name": "Chevron Corporation",
+      "symbols": [
+        "CVX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "chicago-trading-company",
+      "name": "Chicago Trading Company",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "https://github.com/vanshb03/New-Grad-2027",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "ctccampusboard",
+        "provenance": "https://job-boards.greenhouse.io/ctccampusboard"
+      }
+    },
+    {
+      "id": "chipotle-mexican-grill",
+      "name": "Chipotle Mexican Grill",
+      "symbols": [
+        "CMG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "chubb-limited",
+      "name": "Chubb Limited",
+      "symbols": [
+        "CB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "church-dwight",
+      "name": "Church & Dwight",
+      "symbols": [
+        "CHD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ciena",
+      "name": "Ciena",
+      "symbols": [
+        "CIEN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cigna",
+      "name": "Cigna",
+      "symbols": [
+        "CI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cincinnati-financial",
+      "name": "Cincinnati Financial",
+      "symbols": [
+        "CINF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cintas",
+      "name": "Cintas",
+      "symbols": [
+        "CTAS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cisco",
+      "name": "Cisco",
+      "symbols": [
+        "CSCO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "citigroup",
+      "name": "Citigroup",
+      "symbols": [
+        "C"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "citizens-financial-group",
+      "name": "Citizens Financial Group",
+      "symbols": [
+        "CFG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "clorox",
+      "name": "Clorox",
+      "symbols": [
+        "CLX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "cloudflare",
+        "provenance": "https://job-boards.greenhouse.io/cloudflare"
+      }
+    },
+    {
+      "id": "cme-group",
+      "name": "CME Group",
+      "symbols": [
+        "CME"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cms-energy",
+      "name": "CMS Energy",
+      "symbols": [
+        "CMS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "coca-cola-company-the",
+      "name": "Coca-Cola Company (The)",
+      "symbols": [
+        "KO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cognizant",
+      "name": "Cognizant",
+      "symbols": [
+        "CTSH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "coherent-corp",
+      "name": "Coherent Corp.",
+      "symbols": [
+        "COHR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "symbols": [
+        "COIN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "colgate-palmolive",
+      "name": "Colgate-Palmolive",
+      "symbols": [
+        "CL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "comcast",
+      "name": "Comcast",
+      "symbols": [
+        "CMCSA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "comfort-systems-usa",
+      "name": "Comfort Systems USA",
+      "symbols": [
+        "FIX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "conocophillips",
+      "name": "ConocoPhillips",
+      "symbols": [
+        "COP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "consolidated-edison",
+      "name": "Consolidated Edison",
+      "symbols": [
+        "ED"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "constellation-brands",
+      "name": "Constellation Brands",
+      "symbols": [
+        "STZ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "constellation-energy",
+      "name": "Constellation Energy",
+      "symbols": [
+        "CEG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cooper-companies-the",
+      "name": "Cooper Companies (The)",
+      "symbols": [
+        "COO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "copart",
+      "name": "Copart",
+      "symbols": [
+        "CPRT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "corning-inc",
+      "name": "Corning Inc.",
+      "symbols": [
+        "GLW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "corpay",
+      "name": "Corpay",
+      "symbols": [
+        "CPAY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "corteva",
+      "name": "Corteva",
+      "symbols": [
+        "CTVA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "costar-group",
+      "name": "CoStar Group",
+      "symbols": [
+        "CSGP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "costco",
+      "name": "Costco",
+      "symbols": [
+        "COST"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "crh-plc",
+      "name": "CRH plc",
+      "symbols": [
+        "CRH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "symbols": [
+        "CRWD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "crown-castle",
+      "name": "Crown Castle",
+      "symbols": [
+        "CCI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "csx-corporation",
+      "name": "CSX Corporation",
+      "symbols": [
+        "CSX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cummins",
+      "name": "Cummins",
+      "symbols": [
+        "CMI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "cvs-health",
+      "name": "CVS Health",
+      "symbols": [
+        "CVS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "d-r-horton",
+      "name": "D. R. Horton",
+      "symbols": [
+        "DHI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "danaher-corporation",
+      "name": "Danaher Corporation",
+      "symbols": [
+        "DHR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "darden-restaurants",
+      "name": "Darden Restaurants",
+      "symbols": [
+        "DRI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "databricks",
+        "provenance": "https://job-boards.greenhouse.io/databricks"
+      }
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "symbols": [
+        "DDOG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "davita",
+      "name": "DaVita",
+      "symbols": [
+        "DVA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "deckers-brands",
+      "name": "Deckers Brands",
+      "symbols": [
+        "DECK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "deere-company",
+      "name": "Deere & Company",
+      "symbols": [
+        "DE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "dell-technologies",
+      "name": "Dell Technologies",
+      "symbols": [
+        "DELL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "delta-air-lines",
+      "name": "Delta Air Lines",
+      "symbols": [
+        "DAL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "devon-energy",
+      "name": "Devon Energy",
+      "symbols": [
+        "DVN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "dexcom",
+      "name": "Dexcom",
+      "symbols": [
+        "DXCM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "diamondback-energy",
+      "name": "Diamondback Energy",
+      "symbols": [
+        "FANG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "digital-realty",
+      "name": "Digital Realty",
+      "symbols": [
+        "DLR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "discord",
+        "provenance": "https://job-boards.greenhouse.io/discord"
+      }
+    },
+    {
+      "id": "dollar-general",
+      "name": "Dollar General",
+      "symbols": [
+        "DG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "dollar-tree",
+      "name": "Dollar Tree",
+      "symbols": [
+        "DLTR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "dominion-energy",
+      "name": "Dominion Energy",
+      "symbols": [
+        "D"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "domino-s",
+      "name": "Domino's",
+      "symbols": [
+        "DPZ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "doordash",
+      "name": "DoorDash",
+      "symbols": [
+        "DASH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "dover-corporation",
+      "name": "Dover Corporation",
+      "symbols": [
+        "DOV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "dow-inc",
+      "name": "Dow Inc.",
+      "symbols": [
+        "DOW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "dte-energy",
+      "name": "DTE Energy",
+      "symbols": [
+        "DTE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "duke-energy",
+      "name": "Duke Energy",
+      "symbols": [
+        "DUK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "duolingo",
+      "name": "Duolingo",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "duolingo",
+        "provenance": "https://job-boards.greenhouse.io/duolingo"
+      }
+    },
+    {
+      "id": "dupont",
+      "name": "DuPont",
+      "symbols": [
+        "DD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "eaton-corporation",
+      "name": "Eaton Corporation",
+      "symbols": [
+        "ETN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ebay-inc",
+      "name": "eBay Inc.",
+      "symbols": [
+        "EBAY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "echostar",
+      "name": "EchoStar",
+      "symbols": [
+        "ECHO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ecolab",
+      "name": "Ecolab",
+      "symbols": [
+        "ECL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "edison-international",
+      "name": "Edison International",
+      "symbols": [
+        "EIX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "edwards-lifesciences",
+      "name": "Edwards Lifesciences",
+      "symbols": [
+        "EW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "elevance-health",
+      "name": "Elevance Health",
+      "symbols": [
+        "ELV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "emcor",
+      "name": "Emcor",
+      "symbols": [
+        "EME"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "emerson-electric",
+      "name": "Emerson Electric",
+      "symbols": [
+        "EMR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "entergy",
+      "name": "Entergy",
+      "symbols": [
+        "ETR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "eog-resources",
+      "name": "EOG Resources",
+      "symbols": [
+        "EOG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "eqt-corporation",
+      "name": "EQT Corporation",
+      "symbols": [
+        "EQT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "equifax",
+      "name": "Equifax",
+      "symbols": [
+        "EFX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "equinix",
+      "name": "Equinix",
+      "symbols": [
+        "EQIX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "erie-indemnity",
+      "name": "Erie Indemnity",
+      "symbols": [
+        "ERIE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "essex-property-trust",
+      "name": "Essex Property Trust",
+      "symbols": [
+        "ESS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "est-e-lauder-companies-the",
+      "name": "Est\u00e9e Lauder Companies (The)",
+      "symbols": [
+        "EL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "everest-group",
+      "name": "Everest Group",
+      "symbols": [
+        "EG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "evergy",
+      "name": "Evergy",
+      "symbols": [
+        "EVRG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "everpure",
+      "name": "Everpure",
+      "symbols": [
+        "P"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "eversource-energy",
+      "name": "Eversource Energy",
+      "symbols": [
+        "ES"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "exelon",
+      "name": "Exelon",
+      "symbols": [
+        "EXC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "expand-energy",
+      "name": "Expand Energy",
+      "symbols": [
+        "EXE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "expedia-group",
+      "name": "Expedia Group",
+      "symbols": [
+        "EXPE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "expeditors-international",
+      "name": "Expeditors International",
+      "symbols": [
+        "EXPD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "extra-space-storage",
+      "name": "Extra Space Storage",
+      "symbols": [
+        "EXR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "exxonmobil",
+      "name": "ExxonMobil",
+      "symbols": [
+        "XOM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "f5-inc",
+      "name": "F5, Inc.",
+      "symbols": [
+        "FFIV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "factset",
+      "name": "FactSet",
+      "symbols": [
+        "FDS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fair-isaac",
+      "name": "Fair Isaac",
+      "symbols": [
+        "FICO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fastenal",
+      "name": "Fastenal",
+      "symbols": [
+        "FAST"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "federal-realty-investment-trust",
+      "name": "Federal Realty Investment Trust",
+      "symbols": [
+        "FRT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fedex",
+      "name": "FedEx",
+      "symbols": [
+        "FDX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fedex-freight",
+      "name": "FedEx Freight",
+      "symbols": [
+        "FDXF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ferguson-enterprises",
+      "name": "Ferguson Enterprises",
+      "symbols": [
+        "FERG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fidelity-national-information-services",
+      "name": "Fidelity National Information Services",
+      "symbols": [
+        "FIS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fifth-third-bancorp",
+      "name": "Fifth Third Bancorp",
+      "symbols": [
+        "FITB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "figma",
+        "provenance": "https://job-boards.greenhouse.io/figma"
+      }
+    },
+    {
+      "id": "first-solar",
+      "name": "First Solar",
+      "symbols": [
+        "FSLR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "firstenergy",
+      "name": "FirstEnergy",
+      "symbols": [
+        "FE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fiserv",
+      "name": "Fiserv",
+      "symbols": [
+        "FISV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "flex-ltd",
+      "name": "Flex Ltd.",
+      "symbols": [
+        "FLEX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ford-motor-company",
+      "name": "Ford Motor Company",
+      "symbols": [
+        "F"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fortinet",
+      "name": "Fortinet",
+      "symbols": [
+        "FTNT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fortive",
+      "name": "Fortive",
+      "symbols": [
+        "FTV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fox-corporation-class-a",
+      "name": "Fox Corporation (Class A)",
+      "symbols": [
+        "FOXA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "fox-corporation-class-b",
+      "name": "Fox Corporation (Class B)",
+      "symbols": [
+        "FOX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "franklin-resources",
+      "name": "Franklin Resources",
+      "symbols": [
+        "BEN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "freeport-mcmoran",
+      "name": "Freeport-McMoRan",
+      "symbols": [
+        "FCX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "garmin",
+      "name": "Garmin",
+      "symbols": [
+        "GRMN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "gartner",
+      "name": "Gartner",
+      "symbols": [
+        "IT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ge-aerospace",
+      "name": "GE Aerospace",
+      "symbols": [
+        "GE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ge-healthcare",
+      "name": "GE HealthCare",
+      "symbols": [
+        "GEHC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ge-vernova",
+      "name": "GE Vernova",
+      "symbols": [
+        "GEV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "gen-digital",
+      "name": "Gen Digital",
+      "symbols": [
+        "GEN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "generac",
+      "name": "Generac",
+      "symbols": [
+        "GNRC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "general-dynamics",
+      "name": "General Dynamics",
+      "symbols": [
+        "GD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "general-mills",
+      "name": "General Mills",
+      "symbols": [
+        "GIS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "general-motors",
+      "name": "General Motors",
+      "symbols": [
+        "GM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "genuine-parts-company",
+      "name": "Genuine Parts Company",
+      "symbols": [
+        "GPC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "gilead-sciences",
+      "name": "Gilead Sciences",
+      "symbols": [
+        "GILD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "global-payments",
+      "name": "Global Payments",
+      "symbols": [
+        "GPN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "globe-life",
+      "name": "Globe Life",
+      "symbols": [
+        "GL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "symbols": [
+        "GDDY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "symbols": [
+        "GS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "halliburton",
+      "name": "Halliburton",
+      "symbols": [
+        "HAL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hartford-the",
+      "name": "Hartford (The)",
+      "symbols": [
+        "HIG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hasbro",
+      "name": "Hasbro",
+      "symbols": [
+        "HAS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hca-healthcare",
+      "name": "HCA Healthcare",
+      "symbols": [
+        "HCA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "healthpeak-properties",
+      "name": "Healthpeak Properties",
+      "symbols": [
+        "DOC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "henry-schein",
+      "name": "Henry Schein",
+      "symbols": [
+        "HSIC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hershey-company-the",
+      "name": "Hershey Company (The)",
+      "symbols": [
+        "HSY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hewlett-packard-enterprise",
+      "name": "Hewlett Packard Enterprise",
+      "symbols": [
+        "HPE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hilton-worldwide",
+      "name": "Hilton Worldwide",
+      "symbols": [
+        "HLT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "home-depot-the",
+      "name": "Home Depot (The)",
+      "symbols": [
+        "HD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "honeywell-aerospace",
+      "name": "Honeywell Aerospace",
+      "symbols": [
+        "HONA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "honeywell-technologies",
+      "name": "Honeywell Technologies",
+      "symbols": [
+        "HON"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hormel-foods",
+      "name": "Hormel Foods",
+      "symbols": [
+        "HRL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "host-hotels-resorts",
+      "name": "Host Hotels & Resorts",
+      "symbols": [
+        "HST"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "howmet-aerospace",
+      "name": "Howmet Aerospace",
+      "symbols": [
+        "HWM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hp-inc",
+      "name": "HP Inc.",
+      "symbols": [
+        "HPQ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "hubbell-incorporated",
+      "name": "Hubbell Incorporated",
+      "symbols": [
+        "HUBB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "humana",
+      "name": "Humana",
+      "symbols": [
+        "HUM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "huntington-bancshares",
+      "name": "Huntington Bancshares",
+      "symbols": [
+        "HBAN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "huntington-ingalls-industries",
+      "name": "Huntington Ingalls Industries",
+      "symbols": [
+        "HII"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "symbols": [
+        "IBM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "idex-corporation",
+      "name": "IDEX Corporation",
+      "symbols": [
+        "IEX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "idexx-laboratories",
+      "name": "Idexx Laboratories",
+      "symbols": [
+        "IDXX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "illinois-tool-works",
+      "name": "Illinois Tool Works",
+      "symbols": [
+        "ITW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "illumina-inc",
+      "name": "Illumina, Inc.",
+      "symbols": [
+        "ILMN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "incyte",
+      "name": "Incyte",
+      "symbols": [
+        "INCY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ingersoll-rand",
+      "name": "Ingersoll Rand",
+      "symbols": [
+        "IR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "insulet-corporation",
+      "name": "Insulet Corporation",
+      "symbols": [
+        "PODD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "symbols": [
+        "INTC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "interactive-brokers",
+      "name": "Interactive Brokers",
+      "symbols": [
+        "IBKR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "intercontinental-exchange",
+      "name": "Intercontinental Exchange",
+      "symbols": [
+        "ICE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "international-flavors-fragrances",
+      "name": "International Flavors & Fragrances",
+      "symbols": [
+        "IFF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "international-paper",
+      "name": "International Paper",
+      "symbols": [
+        "IP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "intuit",
+      "name": "Intuit",
+      "symbols": [
+        "INTU"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "intuitive-surgical",
+      "name": "Intuitive Surgical",
+      "symbols": [
+        "ISRG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "invesco",
+      "name": "Invesco",
+      "symbols": [
+        "IVZ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "invitation-homes",
+      "name": "Invitation Homes",
+      "symbols": [
+        "INVH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "iqvia",
+      "name": "IQVIA",
+      "symbols": [
+        "IQV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "iron-mountain",
+      "name": "Iron Mountain",
+      "symbols": [
+        "IRM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "j-b-hunt",
+      "name": "J.B. Hunt",
+      "symbols": [
+        "JBHT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "j-m-smucker-company-the",
+      "name": "J.M. Smucker Company (The)",
+      "symbols": [
+        "SJM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "jabil",
+      "name": "Jabil",
+      "symbols": [
+        "JBL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "jack-henry-associates",
+      "name": "Jack Henry & Associates",
+      "symbols": [
+        "JKHY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "jacobs-solutions",
+      "name": "Jacobs Solutions",
+      "symbols": [
+        "J"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "johnson-johnson",
+      "name": "Johnson & Johnson",
+      "symbols": [
+        "JNJ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "johnson-controls",
+      "name": "Johnson Controls",
+      "symbols": [
+        "JCI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "jpmorgan-chase",
+      "name": "JPMorgan Chase",
+      "symbols": [
+        "JPM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kenvue",
+      "name": "Kenvue",
+      "symbols": [
+        "KVUE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "keurig-dr-pepper",
+      "name": "Keurig Dr Pepper",
+      "symbols": [
+        "KDP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "keycorp",
+      "name": "KeyCorp",
+      "symbols": [
+        "KEY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "keysight-technologies",
+      "name": "Keysight Technologies",
+      "symbols": [
+        "KEYS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kimberly-clark",
+      "name": "Kimberly-Clark",
+      "symbols": [
+        "KMB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kimco-realty",
+      "name": "Kimco Realty",
+      "symbols": [
+        "KIM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kinder-morgan",
+      "name": "Kinder Morgan",
+      "symbols": [
+        "KMI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kkr-co",
+      "name": "KKR & Co.",
+      "symbols": [
+        "KKR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kla-corporation",
+      "name": "KLA Corporation",
+      "symbols": [
+        "KLAC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kraft-heinz",
+      "name": "Kraft Heinz",
+      "symbols": [
+        "KHC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "kroger",
+      "name": "Kroger",
+      "symbols": [
+        "KR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "l3harris",
+      "name": "L3Harris",
+      "symbols": [
+        "LHX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "labcorp",
+      "name": "Labcorp",
+      "symbols": [
+        "LH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lam-research",
+      "name": "Lam Research",
+      "symbols": [
+        "LRCX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "las-vegas-sands",
+      "name": "Las Vegas Sands",
+      "symbols": [
+        "LVS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "leidos",
+      "name": "Leidos",
+      "symbols": [
+        "LDOS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lennar",
+      "name": "Lennar",
+      "symbols": [
+        "LEN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lennox-international",
+      "name": "Lennox International",
+      "symbols": [
+        "LII"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lilly-eli",
+      "name": "Lilly (Eli)",
+      "symbols": [
+        "LLY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "linde-plc",
+      "name": "Linde plc",
+      "symbols": [
+        "LIN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "live-nation-entertainment",
+      "name": "Live Nation Entertainment",
+      "symbols": [
+        "LYV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lockheed-martin",
+      "name": "Lockheed Martin",
+      "symbols": [
+        "LMT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "loews-corporation",
+      "name": "Loews Corporation",
+      "symbols": [
+        "L"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lowe-s",
+      "name": "Lowe's",
+      "symbols": [
+        "LOW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lululemon-athletica",
+      "name": "Lululemon Athletica",
+      "symbols": [
+        "LULU"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lumentum",
+      "name": "Lumentum",
+      "symbols": [
+        "LITE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "lyondellbasell",
+      "name": "LyondellBasell",
+      "symbols": [
+        "LYB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "m-t-bank",
+      "name": "M&T Bank",
+      "symbols": [
+        "MTB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "marathon-petroleum",
+      "name": "Marathon Petroleum",
+      "symbols": [
+        "MPC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "marriott-international",
+      "name": "Marriott International",
+      "symbols": [
+        "MAR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "marsh-mclennan",
+      "name": "Marsh McLennan",
+      "symbols": [
+        "MRSH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "martin-marietta-materials",
+      "name": "Martin Marietta Materials",
+      "symbols": [
+        "MLM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "marvell-technology",
+      "name": "Marvell Technology",
+      "symbols": [
+        "MRVL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "masco",
+      "name": "Masco",
+      "symbols": [
+        "MAS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "symbols": [
+        "MA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mccormick-company",
+      "name": "McCormick & Company",
+      "symbols": [
+        "MKC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mcdonald-s",
+      "name": "McDonald's",
+      "symbols": [
+        "MCD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mckesson-corporation",
+      "name": "McKesson Corporation",
+      "symbols": [
+        "MCK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "medtronic",
+      "name": "Medtronic",
+      "symbols": [
+        "MDT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "merck-co",
+      "name": "Merck & Co.",
+      "symbols": [
+        "MRK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "meta-platforms",
+      "name": "Meta Platforms",
+      "symbols": [
+        "META"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "metlife",
+      "name": "MetLife",
+      "symbols": [
+        "MET"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mettler-toledo",
+      "name": "Mettler Toledo",
+      "symbols": [
+        "MTD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mgm-resorts",
+      "name": "MGM Resorts",
+      "symbols": [
+        "MGM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "microchip-technology",
+      "name": "Microchip Technology",
+      "symbols": [
+        "MCHP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "micron-technology",
+      "name": "Micron Technology",
+      "symbols": [
+        "MU"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "symbols": [
+        "MSFT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mid-america-apartment-communities",
+      "name": "Mid-America Apartment Communities",
+      "symbols": [
+        "MAA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "moderna",
+      "name": "Moderna",
+      "symbols": [
+        "MRNA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mondelez-international",
+      "name": "Mondelez International",
+      "symbols": [
+        "MDLZ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "mongodb",
+        "provenance": "https://job-boards.greenhouse.io/mongodb"
+      }
+    },
+    {
+      "id": "monolithic-power-systems",
+      "name": "Monolithic Power Systems",
+      "symbols": [
+        "MPWR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "monster-beverage",
+      "name": "Monster Beverage",
+      "symbols": [
+        "MNST"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "moody-s-corporation",
+      "name": "Moody's Corporation",
+      "symbols": [
+        "MCO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "morgan-stanley",
+      "name": "Morgan Stanley",
+      "symbols": [
+        "MS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "mosaic-company-the",
+      "name": "Mosaic Company (The)",
+      "symbols": [
+        "MOS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "motorola-solutions",
+      "name": "Motorola Solutions",
+      "symbols": [
+        "MSI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "msci",
+      "name": "MSCI",
+      "symbols": [
+        "MSCI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nasdaq-inc",
+      "name": "Nasdaq, Inc.",
+      "symbols": [
+        "NDAQ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "netapp",
+      "name": "NetApp",
+      "symbols": [
+        "NTAP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "symbols": [
+        "NFLX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null,
+      "source_note": "Former Lever board returned 404 on 2026-10-05; replacement adapter planned."
+    },
+    {
+      "id": "newmont",
+      "name": "Newmont",
+      "symbols": [
+        "NEM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "news-corp-class-a",
+      "name": "News Corp (Class A)",
+      "symbols": [
+        "NWSA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "news-corp-class-b",
+      "name": "News Corp (Class B)",
+      "symbols": [
+        "NWS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nextera-energy",
+      "name": "NextEra Energy",
+      "symbols": [
+        "NEE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nike-inc",
+      "name": "Nike, Inc.",
+      "symbols": [
+        "NKE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nisource",
+      "name": "NiSource",
+      "symbols": [
+        "NI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nordson-corporation",
+      "name": "Nordson Corporation",
+      "symbols": [
+        "NDSN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "norfolk-southern",
+      "name": "Norfolk Southern",
+      "symbols": [
+        "NSC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "northern-trust",
+      "name": "Northern Trust",
+      "symbols": [
+        "NTRS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "northrop-grumman",
+      "name": "Northrop Grumman",
+      "symbols": [
+        "NOC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "norwegian-cruise-line-holdings",
+      "name": "Norwegian Cruise Line Holdings",
+      "symbols": [
+        "NCLH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "notion",
+        "provenance": "https://jobs.ashbyhq.com/notion"
+      }
+    },
+    {
+      "id": "nrg-energy",
+      "name": "NRG Energy",
+      "symbols": [
+        "NRG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nucor",
+      "name": "Nucor",
+      "symbols": [
+        "NUE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "symbols": [
+        "NVDA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nvr-inc",
+      "name": "NVR, Inc.",
+      "symbols": [
+        "NVR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "nxp-semiconductors",
+      "name": "NXP Semiconductors",
+      "symbols": [
+        "NXPI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "o-reilly-automotive",
+      "name": "O'Reilly Automotive",
+      "symbols": [
+        "ORLY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "occidental-petroleum",
+      "name": "Occidental Petroleum",
+      "symbols": [
+        "OXY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "old-dominion",
+      "name": "Old Dominion",
+      "symbols": [
+        "ODFL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "omnicom-group",
+      "name": "Omnicom Group",
+      "symbols": [
+        "OMC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "on-semiconductor",
+      "name": "ON Semiconductor",
+      "symbols": [
+        "ON"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "oneok",
+      "name": "Oneok",
+      "symbols": [
+        "OKE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "openai",
+        "provenance": "https://jobs.ashbyhq.com/openai"
+      }
+    },
+    {
+      "id": "oracle-corporation",
+      "name": "Oracle Corporation",
+      "symbols": [
+        "ORCL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "otis-worldwide",
+      "name": "Otis Worldwide",
+      "symbols": [
+        "OTIS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "paccar",
+      "name": "Paccar",
+      "symbols": [
+        "PCAR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "packaging-corporation-of-america",
+      "name": "Packaging Corporation of America",
+      "symbols": [
+        "PKG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "palantir-technologies",
+      "name": "Palantir Technologies",
+      "symbols": [
+        "PLTR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "lever",
+        "board": "palantir",
+        "provenance": "https://jobs.lever.co/palantir"
+      }
+    },
+    {
+      "id": "palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "symbols": [
+        "PANW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "paramount-skydance-corporation",
+      "name": "Paramount Skydance Corporation",
+      "symbols": [
+        "PSKY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "parker-hannifin",
+      "name": "Parker Hannifin",
+      "symbols": [
+        "PH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "paychex",
+      "name": "Paychex",
+      "symbols": [
+        "PAYX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "symbols": [
+        "PYPL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "pentair",
+      "name": "Pentair",
+      "symbols": [
+        "PNR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "pepsico",
+      "name": "PepsiCo",
+      "symbols": [
+        "PEP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "pfizer",
+      "name": "Pfizer",
+      "symbols": [
+        "PFE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "pg-e-corporation",
+      "name": "PG&E Corporation",
+      "symbols": [
+        "PCG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "philip-morris-international",
+      "name": "Philip Morris International",
+      "symbols": [
+        "PM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "phillips-66",
+      "name": "Phillips 66",
+      "symbols": [
+        "PSX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "pinnacle-west-capital",
+      "name": "Pinnacle West Capital",
+      "symbols": [
+        "PNW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "pnc-financial-services",
+      "name": "PNC Financial Services",
+      "symbols": [
+        "PNC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ppg-industries",
+      "name": "PPG Industries",
+      "symbols": [
+        "PPG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ppl-corporation",
+      "name": "PPL Corporation",
+      "symbols": [
+        "PPL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "principal-financial-group",
+      "name": "Principal Financial Group",
+      "symbols": [
+        "PFG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "procter-gamble",
+      "name": "Procter & Gamble",
+      "symbols": [
+        "PG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "progressive-corporation",
+      "name": "Progressive Corporation",
+      "symbols": [
+        "PGR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "prologis",
+      "name": "Prologis",
+      "symbols": [
+        "PLD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "prudential-financial",
+      "name": "Prudential Financial",
+      "symbols": [
+        "PRU"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ptc-inc",
+      "name": "PTC Inc.",
+      "symbols": [
+        "PTC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "public-service-enterprise-group",
+      "name": "Public Service Enterprise Group",
+      "symbols": [
+        "PEG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "public-storage",
+      "name": "Public Storage",
+      "symbols": [
+        "PSA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "pultegroup",
+      "name": "PulteGroup",
+      "symbols": [
+        "PHM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "qnity-electronics",
+      "name": "Qnity Electronics",
+      "symbols": [
+        "Q"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "symbols": [
+        "QCOM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "quanta-services",
+      "name": "Quanta Services",
+      "symbols": [
+        "PWR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "quest-diagnostics",
+      "name": "Quest Diagnostics",
+      "symbols": [
+        "DGX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "quora",
+      "name": "Quora",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "https://github.com/vanshb03/New-Grad-2027",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "quora",
+        "provenance": "https://jobs.ashbyhq.com/quora"
+      }
+    },
+    {
+      "id": "ralph-lauren-corporation",
+      "name": "Ralph Lauren Corporation",
+      "symbols": [
+        "RL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ramp",
+      "name": "Ramp",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "ramp",
+        "provenance": "https://jobs.ashbyhq.com/ramp"
+      }
+    },
+    {
+      "id": "raymond-james-financial",
+      "name": "Raymond James Financial",
+      "symbols": [
+        "RJF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "realty-income",
+      "name": "Realty Income",
+      "symbols": [
+        "O"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "symbols": [
+        "RDDT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "regency-centers",
+      "name": "Regency Centers",
+      "symbols": [
+        "REG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "regeneron-pharmaceuticals",
+      "name": "Regeneron Pharmaceuticals",
+      "symbols": [
+        "REGN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "regions-financial-corporation",
+      "name": "Regions Financial Corporation",
+      "symbols": [
+        "RF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "replit",
+      "name": "Replit",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "https://github.com/vanshb03/New-Grad-2027",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "replit",
+        "provenance": "https://jobs.ashbyhq.com/replit"
+      }
+    },
+    {
+      "id": "republic-services",
+      "name": "Republic Services",
+      "symbols": [
+        "RSG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "resmed",
+      "name": "ResMed|",
+      "symbols": [
+        "RMD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "revvity",
+      "name": "Revvity",
+      "symbols": [
+        "RVTY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "robinhood",
+        "provenance": "https://job-boards.greenhouse.io/robinhood"
+      }
+    },
+    {
+      "id": "robinhood-markets",
+      "name": "Robinhood Markets",
+      "symbols": [
+        "HOOD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "rockwell-automation",
+      "name": "Rockwell Automation",
+      "symbols": [
+        "ROK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "rollins-inc",
+      "name": "Rollins, Inc.",
+      "symbols": [
+        "ROL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "roper-technologies",
+      "name": "Roper Technologies",
+      "symbols": [
+        "ROP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ross-stores",
+      "name": "Ross Stores",
+      "symbols": [
+        "ROST"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "royal-caribbean-group",
+      "name": "Royal Caribbean Group",
+      "symbols": [
+        "RCL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "rtx-corporation",
+      "name": "RTX Corporation",
+      "symbols": [
+        "RTX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "s-p-global",
+      "name": "S&P Global",
+      "symbols": [
+        "SPGI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "symbols": [
+        "CRM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "sandisk",
+      "name": "Sandisk",
+      "symbols": [
+        "SNDK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "sba-communications",
+      "name": "SBA Communications",
+      "symbols": [
+        "SBAC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "scale-ai",
+      "name": "Scale AI",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "scaleai",
+        "provenance": "https://job-boards.greenhouse.io/scaleai"
+      }
+    },
+    {
+      "id": "schlumberger",
+      "name": "Schlumberger",
+      "symbols": [
+        "SLB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "seagate-technology",
+      "name": "Seagate Technology",
+      "symbols": [
+        "STX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "sempra",
+      "name": "Sempra",
+      "symbols": [
+        "SRE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "servicenow",
+      "name": "ServiceNow",
+      "symbols": [
+        "NOW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "sherwin-williams",
+      "name": "Sherwin-Williams",
+      "symbols": [
+        "SHW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "sierra",
+      "name": "Sierra",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "https://github.com/vanshb03/New-Grad-2027",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "ashby",
+        "board": "Sierra",
+        "provenance": "https://jobs.ashbyhq.com/Sierra"
+      }
+    },
+    {
+      "id": "simon-property-group",
+      "name": "Simon Property Group",
+      "symbols": [
+        "SPG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "simplisafe",
+      "name": "SimpliSafe",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "https://github.com/vanshb03/New-Grad-2027",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "simplisafe",
+        "provenance": "https://job-boards.greenhouse.io/simplisafe"
+      }
+    },
+    {
+      "id": "skyworks-solutions",
+      "name": "Skyworks Solutions",
+      "symbols": [
+        "SWKS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "smurfit-westrock",
+      "name": "Smurfit Westrock",
+      "symbols": [
+        "SW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "snap-on",
+      "name": "Snap-on",
+      "symbols": [
+        "SNA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "solventum",
+      "name": "Solventum",
+      "symbols": [
+        "SOLV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "southern-company",
+      "name": "Southern Company",
+      "symbols": [
+        "SO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "southwest-airlines",
+      "name": "Southwest Airlines",
+      "symbols": [
+        "LUV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "stanley-black-decker",
+      "name": "Stanley Black & Decker",
+      "symbols": [
+        "SWK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "starbucks",
+      "name": "Starbucks",
+      "symbols": [
+        "SBUX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "state-street-corporation",
+      "name": "State Street Corporation",
+      "symbols": [
+        "STT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "steel-dynamics",
+      "name": "Steel Dynamics",
+      "symbols": [
+        "STLD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "steris",
+      "name": "Steris",
+      "symbols": [
+        "STE"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "symbols": [],
+      "universe": "major technology / AI",
+      "inventory_source": "curated target employers",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "stripe",
+        "provenance": "https://job-boards.greenhouse.io/stripe"
+      }
+    },
+    {
+      "id": "stryker-corporation",
+      "name": "Stryker Corporation",
+      "symbols": [
+        "SYK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "supermicro",
+      "name": "Supermicro",
+      "symbols": [
+        "SMCI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "synchrony-financial",
+      "name": "Synchrony Financial",
+      "symbols": [
+        "SYF"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "synopsys",
+      "name": "Synopsys",
+      "symbols": [
+        "SNPS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "sysco",
+      "name": "Sysco",
+      "symbols": [
+        "SYY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "t-mobile-us",
+      "name": "T-Mobile US",
+      "symbols": [
+        "TMUS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "t-rowe-price",
+      "name": "T. Rowe Price",
+      "symbols": [
+        "TROW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "take-two-interactive",
+      "name": "Take-Two Interactive",
+      "symbols": [
+        "TTWO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "tapestry-inc",
+      "name": "Tapestry, Inc.",
+      "symbols": [
+        "TPR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "targa-resources",
+      "name": "Targa Resources",
+      "symbols": [
+        "TRGP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "target-corporation",
+      "name": "Target Corporation",
+      "symbols": [
+        "TGT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "te-connectivity",
+      "name": "TE Connectivity",
+      "symbols": [
+        "TEL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "teledyne-technologies",
+      "name": "Teledyne Technologies",
+      "symbols": [
+        "TDY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "teradyne",
+      "name": "Teradyne",
+      "symbols": [
+        "TER"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "tesla-inc",
+      "name": "Tesla, Inc.",
+      "symbols": [
+        "TSLA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "texas-instruments",
+      "name": "Texas Instruments",
+      "symbols": [
+        "TXN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "texas-pacific-land-corporation",
+      "name": "Texas Pacific Land Corporation",
+      "symbols": [
+        "TPL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "textron",
+      "name": "Textron",
+      "symbols": [
+        "TXT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "thermo-fisher-scientific",
+      "name": "Thermo Fisher Scientific",
+      "symbols": [
+        "TMO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "tjx-companies",
+      "name": "TJX Companies",
+      "symbols": [
+        "TJX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "tko-group-holdings",
+      "name": "TKO Group Holdings",
+      "symbols": [
+        "TKO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "tractor-supply",
+      "name": "Tractor Supply",
+      "symbols": [
+        "TSCO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "trane-technologies",
+      "name": "Trane Technologies",
+      "symbols": [
+        "TT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "transdigm-group",
+      "name": "TransDigm Group",
+      "symbols": [
+        "TDG"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "travelers-companies-the",
+      "name": "Travelers Companies (The)",
+      "symbols": [
+        "TRV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "trimble-inc",
+      "name": "Trimble Inc.",
+      "symbols": [
+        "TRMB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "truist-financial",
+      "name": "Truist Financial",
+      "symbols": [
+        "TFC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "twitch",
+      "name": "Twitch",
+      "symbols": [],
+      "universe": "technology / CS early-career discovery",
+      "inventory_source": "https://github.com/vanshb03/New-Grad-2027",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": {
+        "adapter": "greenhouse",
+        "board": "twitch",
+        "provenance": "https://job-boards.greenhouse.io/twitch"
+      }
+    },
+    {
+      "id": "tyler-technologies",
+      "name": "Tyler Technologies",
+      "symbols": [
+        "TYL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "tyson-foods",
+      "name": "Tyson Foods",
+      "symbols": [
+        "TSN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "u-s-bancorp",
+      "name": "U.S. Bancorp",
+      "symbols": [
+        "USB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "symbols": [
+        "UBER"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "udr-inc",
+      "name": "UDR, Inc.",
+      "symbols": [
+        "UDR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ulta-beauty",
+      "name": "Ulta Beauty",
+      "symbols": [
+        "ULTA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "union-pacific-corporation",
+      "name": "Union Pacific Corporation",
+      "symbols": [
+        "UNP"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "united-airlines-holdings",
+      "name": "United Airlines Holdings",
+      "symbols": [
+        "UAL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "united-parcel-service",
+      "name": "United Parcel Service",
+      "symbols": [
+        "UPS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "united-rentals",
+      "name": "United Rentals",
+      "symbols": [
+        "URI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "unitedhealth-group",
+      "name": "UnitedHealth Group",
+      "symbols": [
+        "UNH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "universal-health-services",
+      "name": "Universal Health Services",
+      "symbols": [
+        "UHS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "valero-energy",
+      "name": "Valero Energy",
+      "symbols": [
+        "VLO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "veeva-systems",
+      "name": "Veeva Systems",
+      "symbols": [
+        "VEEV"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "ventas",
+      "name": "Ventas",
+      "symbols": [
+        "VTR"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "veralto",
+      "name": "Veralto",
+      "symbols": [
+        "VLTO"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "verisign",
+      "name": "Verisign",
+      "symbols": [
+        "VRSN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "verisk-analytics",
+      "name": "Verisk Analytics",
+      "symbols": [
+        "VRSK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "verizon",
+      "name": "Verizon",
+      "symbols": [
+        "VZ"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "vertex-pharmaceuticals",
+      "name": "Vertex Pharmaceuticals",
+      "symbols": [
+        "VRTX"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "vertiv",
+      "name": "Vertiv",
+      "symbols": [
+        "VRT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "viatris",
+      "name": "Viatris",
+      "symbols": [
+        "VTRS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "vici-properties",
+      "name": "Vici Properties",
+      "symbols": [
+        "VICI"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "visa-inc",
+      "name": "Visa Inc.",
+      "symbols": [
+        "V"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "vistra-corp",
+      "name": "Vistra Corp.",
+      "symbols": [
+        "VST"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "vivmark-residential",
+      "name": "Vivmark Residential",
+      "symbols": [
+        "VMRK"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "vulcan-materials-company",
+      "name": "Vulcan Materials Company",
+      "symbols": [
+        "VMC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "w-r-berkley-corporation",
+      "name": "W. R. Berkley Corporation",
+      "symbols": [
+        "WRB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "w-w-grainger",
+      "name": "W. W. Grainger",
+      "symbols": [
+        "GWW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "wabtec",
+      "name": "Wabtec",
+      "symbols": [
+        "WAB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "symbols": [
+        "WMT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "walt-disney-company-the",
+      "name": "Walt Disney Company (The)",
+      "symbols": [
+        "DIS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery",
+      "symbols": [
+        "WBD"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "waste-management",
+      "name": "Waste Management",
+      "symbols": [
+        "WM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "waters-corporation",
+      "name": "Waters Corporation",
+      "symbols": [
+        "WAT"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "wec-energy-group",
+      "name": "WEC Energy Group",
+      "symbols": [
+        "WEC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "wells-fargo",
+      "name": "Wells Fargo",
+      "symbols": [
+        "WFC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "welltower",
+      "name": "Welltower",
+      "symbols": [
+        "WELL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "west-pharmaceutical-services",
+      "name": "West Pharmaceutical Services",
+      "symbols": [
+        "WST"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "western-digital",
+      "name": "Western Digital",
+      "symbols": [
+        "WDC"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "weyerhaeuser",
+      "name": "Weyerhaeuser",
+      "symbols": [
+        "WY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "williams-companies",
+      "name": "Williams Companies",
+      "symbols": [
+        "WMB"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "williams-sonoma-inc",
+      "name": "Williams-Sonoma, Inc.",
+      "symbols": [
+        "WSM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "willis-towers-watson",
+      "name": "Willis Towers Watson",
+      "symbols": [
+        "WTW"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "workday-inc",
+      "name": "Workday, Inc.",
+      "symbols": [
+        "WDAY"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "wynn-resorts",
+      "name": "Wynn Resorts",
+      "symbols": [
+        "WYNN"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "xcel-energy",
+      "name": "Xcel Energy",
+      "symbols": [
+        "XEL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "xylem-inc",
+      "name": "Xylem Inc.",
+      "symbols": [
+        "XYL"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "yum-brands",
+      "name": "Yum! Brands",
+      "symbols": [
+        "YUM"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "zebra-technologies",
+      "name": "Zebra Technologies",
+      "symbols": [
+        "ZBRA"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "zimmer-biomet",
+      "name": "Zimmer Biomet",
+      "symbols": [
+        "ZBH"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    },
+    {
+      "id": "zoetis",
+      "name": "Zoetis",
+      "symbols": [
+        "ZTS"
+      ],
+      "universe": "S&P 500 candidate \u2014 official membership unverified",
+      "inventory_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "inventory_retrieved_at": "2026-10-05",
+      "source": null
+    }
+  ]
+}

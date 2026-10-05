@@ -1,0 +1,52 @@
+name: Update job listings
+on:
+  schedule:
+    - cron: '2-57/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tracker/**', 'tests/**', 'data/employers.json', '.github/workflows/update.yml']
+permissions:
+  contents: write
+concurrency:
+  group: job-listing-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - uses: actions/cache/restore@v4
+        id: state
+        with:
+          path: .state/state.json
+          key: job-state-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: job-state-
+      - name: Bootstrap from published snapshot when cache is unavailable
+        run: python -m tracker.bootstrap
+      - run: python -m tracker.run
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .state/state.json
+          key: job-state-${{ github.run_id }}-${{ github.run_attempt }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: source-health
+          path: .state/health.json
+          retention-days: 2
+      - name: Publish relevant listing and health changes
+        run: |
+          git add README.md JOBS.md COVERAGE.md data/listings.json
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Update job listings and source coverage'
+            git push
+          fi

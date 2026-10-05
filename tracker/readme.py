@@ -7,7 +7,7 @@ def render(view, now):
     confirmed = [j for j in open_jobs if j['eligibility'].startswith('2027')]
     general = [j for j in open_jobs if j not in confirmed]
     lines = ['<div align="center">', '', '# yashasvijay - C.S. New Grad', '',
-             '**U.S. new-grad roles and company events. Direct links. Clear status.**', '',
+             'U.S. computer science jobs for the 2027 graduating class and company events.', '',
              '[![Update jobs](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml/badge.svg)](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml)', '',
              f'**{len(open_jobs)} open candidates** · **{len(confirmed)} mention 2027** · **{monitored} employers checked successfully**', '',
              '[2027 roles](#2027-new-grad-roles) · [General early career](#general-early-career--swe--sde-i) · [Closed roles](#closed-roles) · [Company events](EVENTS.md) · [Coverage](COVERAGE.md) · [How it works](docs/METHODOLOGY.md)', '',
@@ -43,20 +43,20 @@ def render(view, now):
         if not jobs:
             lines += ['', 'No listings in this group yet.']
         lines += ['']
-    lines += ['## Coverage, without the guesswork', '',
-              f'{len(view["coverage"])} employers in the inventory; {monitored} have had a successful source check. Most S&P 500 candidates are **planned**, including several major technology employers. An employer in the inventory does not mean its jobs are monitored.', '',
-              '🟢 **Open** — present in a successful employer feed. 📝 marks a manual employer-page check that expires after 48 hours.<br>',
-              '🟡 **Review** — eligibility needs confirmation. ⚠️ marks full-time status unverified.<br>',
-              '🔒 **Closed** — missing in at least three successful checks over at least 30 minutes.', '',
-              '[Full listing history and timestamps](JOBS.md) · [Employer coverage and failures](COVERAGE.md) · [Machine-readable listings](data/listings.json)', '',
-              '## Contribute', '',
-              'Found a role or missing employer? [Open an issue](https://github.com/yashasvijay/cs-new-grad-2027/issues/new) with the direct employer link. Please keep personal application statuses private. See [contributing](CONTRIBUTING.md).', '',
-              '## About', '',
-              '**Job Application Tracker Platform** is built at a $0 hosting budget using public GitHub Actions. Schedules can be delayed or skipped; coverage is incomplete. Employer publication dates may describe republication, and are unknown when the feed does not provide them.', '',
-              'Visual structure inspired by [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) and [Vansh](https://github.com/vanshb03/New-Grad-2027). Job records are verified against employer feeds. [Sources and attribution](docs/SOURCES.md).', '']
     from tracker.events import upcoming_rows
     lines += ['## Company events', '', 'Virtual, in-person, and hybrid events from company organizers. Event dates are separate from job release dates. Check registration, cost, and eligibility before attending.', '', '| Company | Event | Dates | Format | Location | Cost | Link |', '|---|---|---|---|---|---|:---:|']
     lines += upcoming_rows(now)
     lines += ['', '[Full event list and history](EVENTS.md) · [Event data](data/events.json)', '']
+    lines += ['## Coverage', '',
+              f'{len(view["coverage"])} employers in the inventory; {monitored} have had a successful source check. Most S&P 500 candidates are **planned**, including several major technology employers. An employer in the inventory does not mean its jobs are monitored.', '',
+              '🟢 **Open** — present in a successful employer feed. 📝 marks a manual employer-page check that expires after 48 hours.<br>',
+              '🟡 **Review** — eligibility needs confirmation. ⚠️ marks full-time status unverified.<br>',
+              '🔒 **Closed** — posting link returns HTTP 404, or missing in at least three successful checks over at least 30 minutes.', '',
+              '[Full listing history and timestamps](JOBS.md) · [Employer coverage and failures](COVERAGE.md) · [Machine-readable listings](data/listings.json)', '',
+              '## Contribute', '',
+              'Found a role or missing employer? [Open an issue](https://github.com/yashasvijay/cs-new-grad-2027/issues/new) with the direct employer link. Please keep personal application statuses private. See [contributing](CONTRIBUTING.md).', '',
+              '## About', '',
+              'This tracker uses public GitHub Actions. Schedules can be delayed or skipped; coverage is incomplete. Employer publication dates may describe republication, and are unknown when the feed does not provide them.', '',
+              'Visual structure inspired by [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) and [Vansh](https://github.com/vanshb03/New-Grad-2027). Job records are verified against employer feeds. [Sources and attribution](docs/SOURCES.md).', '']
     from tracker.presentation import decorate_links
     return decorate_links('\n'.join(lines))

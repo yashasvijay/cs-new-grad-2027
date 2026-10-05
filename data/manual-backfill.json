@@ -104,9 +104,12 @@
       "employer_posted_at": null,
       "employer_published_at": null,
       "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "missing — verification pending",
-      "eligibility_note": "2027 new college graduate; historical posting, current availability unverified."
+      "manual_verified_at": "2026-10-05T20:35:10+00:00",
+      "manual_status": "closed",
+      "eligibility_note": "Historical posting; link reported as 404.",
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "User confirmed posting page returns 404"
     },
     {
       "id": "REF088586W",
@@ -125,9 +128,12 @@
       "employer_posted_at": null,
       "employer_published_at": null,
       "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "missing — verification pending",
-      "eligibility_note": "2027 new college graduate; historical posting, current availability unverified."
+      "manual_verified_at": "2026-10-05T20:35:10+00:00",
+      "manual_status": "closed",
+      "eligibility_note": "Historical posting; link reported as 404.",
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "User confirmed posting page returns 404"
     },
     {
       "id": "REF088543W",
@@ -146,9 +152,12 @@
       "employer_posted_at": null,
       "employer_published_at": null,
       "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "missing — verification pending",
-      "eligibility_note": "2027 new college graduate; historical posting, current availability unverified."
+      "manual_verified_at": "2026-10-05T20:35:10+00:00",
+      "manual_status": "closed",
+      "eligibility_note": "Historical posting; link reported as 404.",
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "User confirmed posting page returns 404"
     },
     {
       "id": "123087196289671878",

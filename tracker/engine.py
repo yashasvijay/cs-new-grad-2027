@@ -23,6 +23,7 @@ def reconcile(state, employer, jobs, now, error=None):
         if job.get('_unavailable'):
             continue
         old = state['jobs'].get(key, {})
+        job = dict(job, **{k: old[k] for k in ('link_closed', 'link_review_required', 'closure_reason') if k in old})
         job = dict(job, source_links=sorted(set(old.get('source_links', []) + [job['url']])))
         state['jobs'][key] = dict(job, employer=employer['name'], employer_id=employer['id'],
                                  first_seen_at=old.get('first_seen_at', now),
@@ -51,6 +52,10 @@ def public_view(state, employers, now, classify):
         if job.get('verification_mode') == 'manual' and job['status'] != 'closed':
             expired = datetime.fromisoformat(now) - datetime.fromisoformat(job['manual_verified_at']) > timedelta(hours=48)
             job['status'] = 'verification overdue — manually checked' if expired else job.get('manual_status', 'open — manually verified')
+        if job.get('link_closed'):
+            job['status'] = 'closed'
+        elif job.get('link_review_required'):
+            job['status'] = 'reopened — verification pending'
         eligibility = classify(job)
         if not eligibility:
             continue

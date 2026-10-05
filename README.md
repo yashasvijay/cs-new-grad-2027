@@ -2,7 +2,7 @@
 
 # yashasvijay - C.S. New Grad
 
-**U.S. new-grad roles and company events. Direct links. Clear status.**
+U.S. computer science jobs for the 2027 graduating class and company events.
 
 [![Update jobs](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml/badge.svg)](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml)
 
@@ -18,7 +18,7 @@ A public tracker for full-time U.S. CS new-grad jobs in the 2027 cycle, plus vir
 
 **Read before applying:** “2027 mentioned” is a screening signal, not a guarantee of eligibility. Check graduation dates, experience, sponsorship, citizenship, and start dates on the employer page. General new-grad roles may not accept 2027 graduates. Roles with known posting dates before January 1, 2026 are excluded.
 
-Listing snapshot: **2026-10-05 20:24 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a> are recorded per run; this date changes only when the public list or source status changes.
+Listing snapshot: **2026-10-05 20:35 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a> are recorded per run; this date changes only when the public list or source status changes.
 
 **Order:** open roles first, then verification pending, then 🔒 closed roles. Each group is newest employer release first; unknown release dates follow dated postings. Publication dates can reflect republication.
 
@@ -148,11 +148,10 @@ General new-grad and early-career postings; 2027 eligibility is unconfirmed.
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Notes</th><th width="100">Apply</th><th>Released</th></tr></thead>
 <tbody>
-<tr><td><strong>Visa Inc.</strong></td><td>Software Engineer, New College Grad — 2027 — Austin 📝 </td><td>Austin, TX</td><td>Historical posting; availability unverified.</td><td width=100 nowrap><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2"><img src="assets/review.svg" width="118" alt="Review original posting"></a></td><td>Release unknown<br>First seen 2026-10-05</td></tr>
-<tr><td><strong>Visa Inc.</strong></td><td>Software Engineer, New College Grad — 2027 — Bellevue 📝 </td><td>Bellevue, WA</td><td>Historical posting; availability unverified.</td><td width=100 nowrap><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2"><img src="assets/review.svg" width="118" alt="Review original posting"></a></td><td>Release unknown<br>First seen 2026-10-05</td></tr>
-<tr><td><strong>Visa Inc.</strong></td><td>Software Engineer, New College Grad — 2027 — Foster City 📝 </td><td>Foster City, CA</td><td>Historical posting; availability unverified.</td><td width=100 nowrap><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"><img src="assets/review.svg" width="118" alt="Review original posting"></a></td><td>Release unknown<br>First seen 2026-10-05</td></tr>
 </tbody></table>
 
+
+No listings in this group yet.
 
 ## Closed roles
 
@@ -161,28 +160,11 @@ General new-grad and early-career postings; 2027 eligibility is unconfirmed.
 <tbody>
 <tr><td><strong>Capital One</strong></td><td>🔒 Technology Development Program Associate - February 2027 📝 </td><td>McLean, VA; Richmond, VA; Plano, TX</td><td>February start; degree by December 2026.</td><td width=100 nowrap><a href="https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-february-2027/31238/99973065696"><img src="assets/closed.svg" width="118" alt="🔒 Closed — original posting"></a></td><td>2026-09-21</td></tr>
 <tr><td><strong>Capital One</strong></td><td>🔒 Technology Development Program Associate - August 2027 📝 </td><td>Richmond, VA; Plano, TX</td><td>August 2027 start.</td><td width=100 nowrap><a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Development-Program-Associate---August-2027_R244385-1"><img src="assets/closed.svg" width="118" alt="🔒 Closed — original posting"></a></td><td>2026-09-14</td></tr>
+<tr><td><strong>Visa Inc.</strong></td><td>🔒 Software Engineer, New College Grad — 2027 — Austin 📝 </td><td>Austin, TX</td><td>Historical posting; link reported as 404.</td><td width=100 nowrap><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2"><img src="assets/closed.svg" width="118" alt="🔒 Closed — original posting"></a></td><td>Release unknown<br>First seen 2026-10-05</td></tr>
+<tr><td><strong>Visa Inc.</strong></td><td>🔒 Software Engineer, New College Grad — 2027 — Bellevue 📝 </td><td>Bellevue, WA</td><td>Historical posting; link reported as 404.</td><td width=100 nowrap><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2"><img src="assets/closed.svg" width="118" alt="🔒 Closed — original posting"></a></td><td>Release unknown<br>First seen 2026-10-05</td></tr>
+<tr><td><strong>Visa Inc.</strong></td><td>🔒 Software Engineer, New College Grad — 2027 — Foster City 📝 </td><td>Foster City, CA</td><td>Historical posting; link reported as 404.</td><td width=100 nowrap><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"><img src="assets/closed.svg" width="118" alt="🔒 Closed — original posting"></a></td><td>Release unknown<br>First seen 2026-10-05</td></tr>
 </tbody></table>
 
-
-## Coverage, without the guesswork
-
-558 employers in the inventory; 75 have had a successful source check. Most S&P 500 candidates are **planned**, including several major technology employers. An employer in the inventory does not mean its jobs are monitored.
-
-🟢 **Open** — present in a successful employer feed. 📝 marks a manual employer-page check that expires after 48 hours.<br>
-🟡 **Review** — eligibility needs confirmation. ⚠️ marks full-time status unverified.<br>
-🔒 **Closed** — missing in at least three successful checks over at least 30 minutes.
-
-<a href="JOBS.md"><img src="https://img.shields.io/badge/Full%20listing%20history%20and%20timestamps-334155?style=for-the-badge" alt="Full listing history and timestamps"></a> · <a href="COVERAGE.md"><img src="https://img.shields.io/badge/Employer%20coverage%20and%20failures-334155?style=for-the-badge" alt="Employer coverage and failures"></a> · <a href="data/listings.json"><img src="https://img.shields.io/badge/Machine-readable%20listings-334155?style=for-the-badge" alt="Machine-readable listings"></a>
-
-## Contribute
-
-Found a role or missing employer? <a href="https://github.com/yashasvijay/cs-new-grad-2027/issues/new"><img src="https://img.shields.io/badge/Open%20an%20issue-334155?style=for-the-badge" alt="Open an issue"></a> with the direct employer link. Please keep personal application statuses private. See <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributing-334155?style=for-the-badge" alt="contributing"></a>.
-
-## About
-
-**Job Application Tracker Platform** is built at a $0 hosting budget using public GitHub Actions. Schedules can be delayed or skipped; coverage is incomplete. Employer publication dates may describe republication, and are unknown when the feed does not provide them.
-
-Visual structure inspired by <a href="https://github.com/SimplifyJobs/New-Grad-Positions"><img src="https://img.shields.io/badge/Simplify-334155?style=for-the-badge" alt="Simplify"></a> and <a href="https://github.com/vanshb03/New-Grad-2027"><img src="https://img.shields.io/badge/Vansh-334155?style=for-the-badge" alt="Vansh"></a>. Job records are verified against employer feeds. <a href="docs/SOURCES.md"><img src="https://img.shields.io/badge/Sources%20and%20attribution-334155?style=for-the-badge" alt="Sources and attribution"></a>.
 
 ## Company events
 
@@ -195,3 +177,23 @@ Virtual, in-person, and hybrid events from company organizers. Event dates are s
 | Amazon Web Services | AWS re:Invent 2026 | 2026-11-30 – 2026-12-04 | Hybrid | Las Vegas, NV (multiple venues) + virtual livestream | Virtual keynotes/select programming free; in-person paid | <a href="https://aws.amazon.com/events/reinvent/"><img src="assets/event.svg" width="118" alt="View event / registration"></a> |
 
 <a href="EVENTS.md"><img src="https://img.shields.io/badge/Full%20event%20list%20and%20history-334155?style=for-the-badge" alt="Full event list and history"></a> · <a href="data/events.json"><img src="https://img.shields.io/badge/Event%20data-334155?style=for-the-badge" alt="Event data"></a>
+
+## Coverage
+
+558 employers in the inventory; 75 have had a successful source check. Most S&P 500 candidates are **planned**, including several major technology employers. An employer in the inventory does not mean its jobs are monitored.
+
+🟢 **Open** — present in a successful employer feed. 📝 marks a manual employer-page check that expires after 48 hours.<br>
+🟡 **Review** — eligibility needs confirmation. ⚠️ marks full-time status unverified.<br>
+🔒 **Closed** — posting link returns HTTP 404, or missing in at least three successful checks over at least 30 minutes.
+
+<a href="JOBS.md"><img src="https://img.shields.io/badge/Full%20listing%20history%20and%20timestamps-334155?style=for-the-badge" alt="Full listing history and timestamps"></a> · <a href="COVERAGE.md"><img src="https://img.shields.io/badge/Employer%20coverage%20and%20failures-334155?style=for-the-badge" alt="Employer coverage and failures"></a> · <a href="data/listings.json"><img src="https://img.shields.io/badge/Machine-readable%20listings-334155?style=for-the-badge" alt="Machine-readable listings"></a>
+
+## Contribute
+
+Found a role or missing employer? <a href="https://github.com/yashasvijay/cs-new-grad-2027/issues/new"><img src="https://img.shields.io/badge/Open%20an%20issue-334155?style=for-the-badge" alt="Open an issue"></a> with the direct employer link. Please keep personal application statuses private. See <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributing-334155?style=for-the-badge" alt="contributing"></a>.
+
+## About
+
+This tracker uses public GitHub Actions. Schedules can be delayed or skipped; coverage is incomplete. Employer publication dates may describe republication, and are unknown when the feed does not provide them.
+
+Visual structure inspired by <a href="https://github.com/SimplifyJobs/New-Grad-Positions"><img src="https://img.shields.io/badge/Simplify-334155?style=for-the-badge" alt="Simplify"></a> and <a href="https://github.com/vanshb03/New-Grad-2027"><img src="https://img.shields.io/badge/Vansh-334155?style=for-the-badge" alt="Vansh"></a>. Job records are verified against employer feeds. <a href="docs/SOURCES.md"><img src="https://img.shields.io/badge/Sources%20and%20attribution-334155?style=for-the-badge" alt="Sources and attribution"></a>.

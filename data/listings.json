@@ -433,7 +433,7 @@
       "employer": "Mastercard",
       "employer_id": "mastercard",
       "first_seen_at": "2026-10-05T19:28:36+00:00",
-      "tracker_published_at": "2026-10-05T20:24:28+00:00",
+      "tracker_published_at": "2026-10-05T20:35:21+00:00",
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
@@ -2483,90 +2483,6 @@
       "review_required": true
     },
     {
-      "id": "REF088586W",
-      "requisition_id": "REF088586W",
-      "employer": "Visa Inc.",
-      "employer_id": "visa-inc",
-      "title": "Software Engineer, New College Grad — 2027 — Austin",
-      "location": "Austin, TX",
-      "employment_type": "FullTime",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2",
-      "source": "employer page — manual review",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "missing — verification pending",
-      "eligibility_note": "2027 new college graduate; historical posting, current availability unverified.",
-      "first_seen_at": "2026-10-05T19:34:06+00:00",
-      "tracker_published_at": "2026-10-05T19:35:00+00:00",
-      "status": "missing — verification pending",
-      "verification_mode": "manual",
-      "source_links": [
-        "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2"
-      ],
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, new college grad — 2027 — austin",
-      "review_required": true
-    },
-    {
-      "id": "REF088530W",
-      "requisition_id": "REF088530W",
-      "employer": "Visa Inc.",
-      "employer_id": "visa-inc",
-      "title": "Software Engineer, New College Grad — 2027 — Bellevue",
-      "location": "Bellevue, WA",
-      "employment_type": "FullTime",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2",
-      "source": "employer page — manual review",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "missing — verification pending",
-      "eligibility_note": "2027 new college graduate; historical posting, current availability unverified.",
-      "first_seen_at": "2026-10-05T19:34:06+00:00",
-      "tracker_published_at": "2026-10-05T19:35:00+00:00",
-      "status": "missing — verification pending",
-      "verification_mode": "manual",
-      "source_links": [
-        "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2"
-      ],
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, new college grad — 2027 — bellevue",
-      "review_required": true
-    },
-    {
-      "id": "REF088543W",
-      "requisition_id": "REF088543W",
-      "employer": "Visa Inc.",
-      "employer_id": "visa-inc",
-      "title": "Software Engineer, New College Grad — 2027 — Foster City",
-      "location": "Foster City, CA",
-      "employment_type": "FullTime",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
-      "source": "employer page — manual review",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "missing — verification pending",
-      "eligibility_note": "2027 new college graduate; historical posting, current availability unverified.",
-      "first_seen_at": "2026-10-05T19:34:06+00:00",
-      "tracker_published_at": "2026-10-05T19:35:00+00:00",
-      "status": "missing — verification pending",
-      "verification_mode": "manual",
-      "source_links": [
-        "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
-      ],
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, new college grad — 2027 — foster city",
-      "review_required": true
-    },
-    {
       "id": "R244320",
       "requisition_id": "R244320",
       "employer": "Capital One",
@@ -2595,6 +2511,9 @@
       "source_links": [
         "https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-february-2027/31238/99973065696"
       ],
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "Posting link returns HTTP 404",
       "eligibility": "2027 start — graduation by December 2026",
       "employment": "full-time",
       "evidence": "Explicitly requested February 2027 cohort; employer graduation cutoff December 2026",
@@ -2626,6 +2545,99 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 full-time software engineer rotational new graduate",
+      "review_required": true
+    },
+    {
+      "id": "REF088586W",
+      "requisition_id": "REF088586W",
+      "employer": "Visa Inc.",
+      "employer_id": "visa-inc",
+      "title": "Software Engineer, New College Grad — 2027 — Austin",
+      "location": "Austin, TX",
+      "employment_type": "FullTime",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T20:35:10+00:00",
+      "manual_status": "closed",
+      "eligibility_note": "Historical posting; link reported as 404.",
+      "link_closed": true,
+      "link_review_required": false,
+      "first_seen_at": "2026-10-05T19:34:06+00:00",
+      "tracker_published_at": "2026-10-05T19:35:00+00:00",
+      "status": "closed",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2"
+      ],
+      "closure_reason": "User confirmed posting page returns 404",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, new college grad — 2027 — austin",
+      "review_required": true
+    },
+    {
+      "id": "REF088530W",
+      "requisition_id": "REF088530W",
+      "employer": "Visa Inc.",
+      "employer_id": "visa-inc",
+      "title": "Software Engineer, New College Grad — 2027 — Bellevue",
+      "location": "Bellevue, WA",
+      "employment_type": "FullTime",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T20:35:10+00:00",
+      "manual_status": "closed",
+      "eligibility_note": "Historical posting; link reported as 404.",
+      "link_closed": true,
+      "link_review_required": false,
+      "first_seen_at": "2026-10-05T19:34:06+00:00",
+      "tracker_published_at": "2026-10-05T19:35:00+00:00",
+      "status": "closed",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2"
+      ],
+      "closure_reason": "User confirmed posting page returns 404",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, new college grad — 2027 — bellevue",
+      "review_required": true
+    },
+    {
+      "id": "REF088543W",
+      "requisition_id": "REF088543W",
+      "employer": "Visa Inc.",
+      "employer_id": "visa-inc",
+      "title": "Software Engineer, New College Grad — 2027 — Foster City",
+      "location": "Foster City, CA",
+      "employment_type": "FullTime",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T20:35:10+00:00",
+      "manual_status": "closed",
+      "eligibility_note": "Historical posting; link reported as 404.",
+      "link_closed": true,
+      "link_review_required": false,
+      "first_seen_at": "2026-10-05T19:34:06+00:00",
+      "tracker_published_at": "2026-10-05T19:35:00+00:00",
+      "status": "closed",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
+      ],
+      "closure_reason": "User confirmed posting page returns 404",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, new college grad — 2027 — foster city",
       "review_required": true
     }
   ],
@@ -2680,7 +2692,7 @@
       "name": "Adobe Inc.",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "adobe.wd5.myworkdayjobs.com",
@@ -2942,7 +2954,7 @@
       "name": "Analog Devices",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "analogdevices.wd1.myworkdayjobs.com",
@@ -2961,7 +2973,7 @@
       "name": "Anduril",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "andurilindustries",
@@ -2974,7 +2986,7 @@
       "name": "Anthropic",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "anthropic",
@@ -3014,7 +3026,7 @@
       "name": "Appian",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "appian",
@@ -3036,7 +3048,7 @@
       "name": "Applied Intuition",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "applied",
@@ -3049,7 +3061,7 @@
       "name": "Applied Materials",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "amat.wd1.myworkdayjobs.com",
@@ -3329,7 +3341,7 @@
       "name": "Boeing",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "boeing.wd1.myworkdayjobs.com",
@@ -3456,7 +3468,7 @@
       "name": "Capital One",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "capitalone.wd12.myworkdayjobs.com",
@@ -3612,7 +3624,7 @@
       "name": "Charta Health",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "chartahealth",
@@ -3643,7 +3655,7 @@
       "name": "Chicago Trading Company",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "ctccampusboard",
@@ -3683,7 +3695,7 @@
       "name": "Ciena",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "ciena.wd5.myworkdayjobs.com",
@@ -3756,7 +3768,7 @@
       "name": "Clay",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "claylabs",
@@ -3778,7 +3790,7 @@
       "name": "Cloudflare",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "cloudflare",
@@ -3872,7 +3884,7 @@
       "name": "Confido",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "confido",
@@ -3939,7 +3951,7 @@
       "name": "Coram AI",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "coram-ai",
@@ -4051,7 +4063,7 @@
       "name": "Cylake",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "cylake-inc",
@@ -4091,7 +4103,7 @@
       "name": "Databricks",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "databricks",
@@ -4194,7 +4206,7 @@
       "name": "Discord",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "discord",
@@ -4243,7 +4255,7 @@
       "name": "DoorDash",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "doordashusa",
@@ -4292,7 +4304,7 @@
       "name": "Duolingo",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "duolingo",
@@ -4314,7 +4326,7 @@
       "name": "DV Trading",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "dvtrading",
@@ -4660,7 +4672,7 @@
       "name": "Figma",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "figma",
@@ -4844,7 +4856,7 @@
       "name": "General Motors",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "generalmotors.wd5.myworkdayjobs.com",
@@ -4899,7 +4911,7 @@
       "name": "Goaly",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "goaly",
@@ -5119,7 +5131,7 @@
       "name": "ID.me",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "multi",
         "boards": [
@@ -5287,7 +5299,7 @@
       "name": "IQVIA",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "iqvia.wd1.myworkdayjobs.com",
@@ -5315,7 +5327,7 @@
       "name": "IXL Learning",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "ixllearning",
@@ -5535,7 +5547,7 @@
       "name": "Leidos",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "leidos.wd5.myworkdayjobs.com",
@@ -5716,7 +5728,7 @@
       "name": "Mastercard",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "mastercard.wd1.myworkdayjobs.com",
@@ -5843,7 +5855,7 @@
       "name": "Microsoft",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "jsonld",
         "postings": [
@@ -5908,7 +5920,7 @@
       "name": "MongoDB",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "mongodb",
@@ -6011,7 +6023,7 @@
       "name": "Netic",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "netic",
@@ -6069,7 +6081,7 @@
       "name": "Nooks",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "nooks",
@@ -6109,7 +6121,7 @@
       "name": "Northrop Grumman",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "ngc.wd1.myworkdayjobs.com",
@@ -6137,7 +6149,7 @@
       "name": "Notion",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "notion",
@@ -6168,7 +6180,7 @@
       "name": "Nuro",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "nuro",
@@ -6181,7 +6193,7 @@
       "name": "Nvidia",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "nvidia.wd5.myworkdayjobs.com",
@@ -6272,7 +6284,7 @@
       "name": "OpenAI",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "openai",
@@ -6285,7 +6297,7 @@
       "name": "Optiver",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "optiverus",
@@ -6334,7 +6346,7 @@
       "name": "Palantir Technologies",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "lever",
         "board": "palantir",
@@ -6455,7 +6467,7 @@
       "name": "Pinterest",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "pinterest",
@@ -6612,7 +6624,7 @@
       "name": "Quora",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "quora",
@@ -6634,7 +6646,7 @@
       "name": "Ramp",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "ramp",
@@ -6701,7 +6713,7 @@
       "name": "Replit",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "replit",
@@ -6723,7 +6735,7 @@
       "name": "ResMed",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "resmed.wd3.myworkdayjobs.com",
@@ -6751,7 +6763,7 @@
       "name": "Robinhood",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "robinhood",
@@ -6773,7 +6785,7 @@
       "name": "Roblox",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "roblox",
@@ -6831,7 +6843,7 @@
       "name": "RTX Corporation",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "globalhr.wd5.myworkdayjobs.com",
@@ -6886,7 +6898,7 @@
       "name": "Scale AI",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "scaleai",
@@ -6917,7 +6929,7 @@
       "name": "SeatGeek",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "seatgeek",
@@ -6939,7 +6951,7 @@
       "name": "Sentry",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "sentry",
@@ -6952,7 +6964,7 @@
       "name": "ServiceNow",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "smartrecruiters",
         "board": "ServiceNow",
@@ -6975,7 +6987,7 @@
       "name": "Sierra",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "Sierra",
@@ -6997,7 +7009,7 @@
       "name": "SimpliSafe",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "simplisafe",
@@ -7010,7 +7022,7 @@
       "name": "SingleStore",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "singlestore",
@@ -7095,7 +7107,7 @@
       "name": "State Street Corporation",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "statestreet.wd1.myworkdayjobs.com",
@@ -7132,7 +7144,7 @@
       "name": "Stripe",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "stripe",
@@ -7334,7 +7346,7 @@
       "name": "Together AI",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "togetherai",
@@ -7392,7 +7404,7 @@
       "name": "True Anomaly",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "trueanomalyinc",
@@ -7414,7 +7426,7 @@
       "name": "Twitch",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "twitch",
@@ -7490,7 +7502,7 @@
       "name": "Uniswap Labs",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "uniswap",
@@ -7647,7 +7659,7 @@
       "name": "Visa Inc.",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "visa.wd5.myworkdayjobs.com",
@@ -7834,7 +7846,7 @@
       "name": "WHOOP",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "lever",
         "board": "whoop",
@@ -7928,7 +7940,7 @@
       "name": "Zello",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "zello",
@@ -7950,7 +7962,7 @@
       "name": "ZipRecruiter",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "ziprecruiter",
@@ -7972,7 +7984,7 @@
       "name": "Radiant Industries",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "radiant-industries",
@@ -7985,7 +7997,7 @@
       "name": "Commure",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "commure",
@@ -7998,7 +8010,7 @@
       "name": "SEP",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "lever",
         "board": "sep",
@@ -8011,7 +8023,7 @@
       "name": "Cursor / Anysphere",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "cursor",
@@ -8024,7 +8036,7 @@
       "name": "Arch",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "arch.co",
@@ -8037,7 +8049,7 @@
       "name": "Solace",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "solace",
@@ -8050,7 +8062,7 @@
       "name": "Zip",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "zip",
@@ -8063,7 +8075,7 @@
       "name": "Freeform",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "greenhouse",
         "board": "freeformfuturecorp",
@@ -8076,7 +8088,7 @@
       "name": "WeRide",
       "coverage": "monitored",
       "health": "healthy",
-      "verification_overdue": true,
+      "verification_overdue": false,
       "source": {
         "adapter": "lever",
         "board": "weride",
@@ -8094,5 +8106,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-05T20:24:28+00:00"
+  "snapshot_at": "2026-10-05T20:35:21+00:00"
 }

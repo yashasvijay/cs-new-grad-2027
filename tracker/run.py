@@ -61,6 +61,9 @@ def main():
         for key, metadata in json.loads(dates_path.read_text())['jobs'].items():
             if key in state['jobs'] and (metadata.get('current_cycle') or not state['jobs'][key].get('employer_published_at')):
                 state['jobs'][key].update(metadata)
+    if not args.fixtures:
+        from tracker.links import check as check_links
+        print(f'{check_links(state, classify)} posting links checked')
     view = public_view(state, employers, now, classify)
     from tracker.events import render as render_events
     (args.output / 'EVENTS.md').write_text(render_events(Path('data/events.json'), now))

@@ -64,6 +64,31 @@ class TrackerTests(unittest.TestCase):
             self.assertTrue(refreshed['status'].startswith('open'))
             self.assertEqual(refreshed['first_seen_at'], '2026-10-05T10:00:00+00:00')
 
+    def test_link_error_page_does_not_reopen(self):
+        from tracker.links import response_code
+        from unittest.mock import patch
+        from types import SimpleNamespace
+        with patch('tracker.links.subprocess.run', return_value=SimpleNamespace(returncode=0, stdout='Page not found\n200')):
+            self.assertIsNone(response_code('https://example.com', 'Software Engineer'))
+        with patch('tracker.links.subprocess.run', return_value=SimpleNamespace(returncode=0, stdout='<h1>Software Engineer</h1>\n200')):
+            self.assertEqual(response_code('https://example.com', 'Software Engineer'), 200)
+
+    def test_link_closure_and_reopening(self):
+        from tracker.links import check
+        state = {}; employer = {'id':'e', 'name':'Employer'}
+        reconcile(state, employer, [job()], '2026-10-05T10:00:00+00:00')
+        check(state, classify, lambda url: 404)
+        self.assertEqual(public_view(state, [employer], '2026-10-05T10:00:00+00:00', classify)['jobs'][0]['status'], 'closed')
+        reconcile(state, employer, [job()], '2026-10-05T10:05:00+00:00')
+        check(state, classify, lambda url: 403)
+        self.assertEqual(public_view(state, [employer], '2026-10-05T10:05:00+00:00', classify)['jobs'][0]['status'], 'closed')
+        check(state, classify, lambda url: 200)
+        self.assertEqual(public_view(state, [employer], '2026-10-05T10:05:00+00:00', classify)['jobs'][0]['status'], 'reopened — verification pending')
+        check(state, classify, lambda url: None)
+        self.assertTrue(state['jobs']['e:1']['link_review_required'])
+        check(state, classify, lambda url: 404)
+        self.assertFalse(state['jobs']['e:1']['link_review_required'])
+
     def test_publication_cutoff(self):
         for title in ['Software Engineer, New Grad 2027', 'Software Engineer I']:
             self.assertIsNone(classify(job(title=title, employer_published_at='2025-12-31T23:59:59Z', employer_updated_at='2026-10-05')))

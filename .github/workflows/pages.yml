@@ -1,0 +1,66 @@
+name: GitHub Pages
+
+'on':
+  workflow_run:
+    workflows: [Update job listings]
+    types: [completed]
+    branches: [main]
+  push:
+    branches: [main]
+    paths: ['site/**', 'tracker/site_data.py', '.github/workflows/pages.yml']
+  workflow_dispatch:
+  pull_request:
+    paths: ['site/**', 'tracker/site_data.py', '.github/workflows/pages.yml']
+
+permissions: {}
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      deploy: ${{ steps.artifact.outputs.deploy }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || github.ref }}
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Build display data
+        run: python3 -m tracker.site_data
+      - name: Validate and assemble artifact
+        id: artifact
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          args=()
+          if [ "$EVENT_NAME" = "workflow_run" ]; then
+            args+=(--live-version https://yashasvijay.github.io/cs-new-grad-2027/version.txt)
+          fi
+          python3 -m tracker.pages --github-output "$GITHUB_OUTPUT" "${args[@]}"
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: .pages
+
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && needs.build.outputs.deploy == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

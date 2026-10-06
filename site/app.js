@@ -67,7 +67,8 @@ function locationChip(value) {
     chip.addEventListener('click', () => {
       dropdown.value = value;
       dropdown.dispatchEvent(new Event('input', {bubbles: true}));
-      dropdown.focus();
+      const button = dropdown.parentElement.querySelector('.dropdown-button');
+      (button && getComputedStyle(button).display !== 'none' ? button : dropdown).focus();
     });
   }
   return chip;
@@ -138,6 +139,65 @@ function card(job) {
   return article;
 }
 
+function styleDropdowns() {
+  for (const select of document.querySelectorAll('.dropdown select')) {
+    const wrapper = select.parentElement;
+    const button = element('button', null, 'dropdown-button');
+    button.type = 'button';
+    button.setAttribute('aria-haspopup', 'listbox');
+    button.setAttribute('aria-expanded', 'false');
+    button.setAttribute('aria-label', wrapper.querySelector('.sr-only').textContent);
+    const menu = element('div', null, 'dropdown-menu');
+    menu.id = `menu-${select.id}`;
+    menu.setAttribute('role', 'listbox');
+    menu.setAttribute('aria-label', button.getAttribute('aria-label'));
+    button.setAttribute('aria-controls', menu.id);
+    menu.hidden = true;
+    const close = () => { menu.hidden = true; button.setAttribute('aria-expanded', 'false'); };
+    const sync = () => {
+      button.textContent = select.selectedOptions[0].textContent;
+      button.title = button.textContent;
+      for (const option of menu.children) option.setAttribute('aria-selected', String(option.dataset.value === select.value));
+    };
+    for (const option of select.options) {
+      const item = element('button', option.textContent, 'dropdown-option');
+      item.type = 'button';
+      item.dataset.value = option.value;
+      item.setAttribute('role', 'option');
+      item.addEventListener('click', () => {
+        select.value = option.value;
+        select.dispatchEvent(new Event('input', {bubbles: true}));
+        close(); button.focus();
+      });
+      menu.append(item);
+    }
+    button.addEventListener('click', () => {
+      const open = menu.hidden;
+      document.querySelectorAll('.dropdown-button[aria-expanded="true"]').forEach(other => { if (other !== button) other.click(); });
+      menu.hidden = !open;
+      button.setAttribute('aria-expanded', String(open));
+      if (open) menu.querySelector('[aria-selected="true"]').focus();
+    });
+    wrapper.addEventListener('keydown', event => {
+      if (event.key === 'Escape') { close(); button.focus(); }
+      if (!menu.hidden && ['ArrowDown', 'ArrowUp', 'Home', 'End'].includes(event.key)) {
+        event.preventDefault();
+        const items = [...menu.children];
+        let index = items.indexOf(document.activeElement);
+        index = event.key === 'Home' ? 0 : event.key === 'End' ? items.length - 1 : (index + (event.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length;
+        items[index].focus();
+      }
+    });
+    document.addEventListener('click', event => { if (!wrapper.contains(event.target)) close(); });
+    wrapper.addEventListener('focusout', event => { if (!wrapper.contains(event.relatedTarget)) close(); });
+    select.addEventListener('input', sync);
+    select.form.addEventListener('reset', () => { close(); queueMicrotask(sync); });
+    wrapper.append(button, menu);
+    wrapper.classList.add('enhanced');
+    sync();
+  }
+}
+
 async function start() {
   const count = document.querySelector('#count');
   const list = document.querySelector('#list');
@@ -154,6 +214,7 @@ async function start() {
       option.value = value;
       location.append(option);
     }
+    styleDropdowns();
     const update = () => {
       const filters = {
         section: document.querySelector('#section').value,

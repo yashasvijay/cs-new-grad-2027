@@ -1,13 +1,13 @@
 :root {
   color-scheme: light dark;
-  --title: #315c91; --bg: #fff; --card: #f8f9fa; --surface: #f1f3f4; --text: #202124; --muted: #5f6368; --outline: #747775;
+  --menu-shadow: #20212420; --menu-selected: #ffffff70; --title: #315c91; --bg: #fff; --card: #f8f9fa; --surface: #f1f3f4; --text: #202124; --muted: #5f6368; --outline: #747775;
   --accent: #1a73e8; --accent-text: #fff; --selected: #e8f0fe; --selected-text: #174ea6;
   --notice: #fef7e0; --warning: #654b00;
   --section-bg: #eee8f5; --role-bg: #f3e7eb; --week-bg: #e6f0e9; --location-bg: #e8f0fe; --remote-bg: #d9f0ed; --new-bg: #e6f4ea; --new-text: #137333;
   --avatar-text: #303134; --pastel-0: #d3e3fd; --pastel-1: #c4eed0; --pastel-2: #eadcff; --pastel-3: #f9dedc; --pastel-4: #c2e7f3; --pastel-5: #ffe0c2; --pastel-6: #f6d5ea; --pastel-7: #dde6bd; --pastel-8: #d1e7e0; --pastel-9: #dfdff5;
 }
 @media (prefers-color-scheme: dark) { :root {
-  --section-bg: #40394b; --role-bg: #48373e; --week-bg: #303e34; --location-bg: #344258; --remote-bg: #294844; --title: #a8c7fa; --bg: #202124; --card: #2d2e31; --surface: #303134; --text: #e8eaed; --muted: #9aa0a6; --outline: #9aa0a6;
+  --section-bg: #40394b; --role-bg: #48373e; --week-bg: #303e34; --location-bg: #344258; --remote-bg: #294844; --menu-shadow: #00000040; --menu-selected: #ffffff12; --title: #a8c7fa; --bg: #202124; --card: #2d2e31; --surface: #303134; --text: #e8eaed; --muted: #9aa0a6; --outline: #9aa0a6;
   --accent: #8ab4f8; --accent-text: #202124; --selected: #394457; --selected-text: #d3e3fd;
   --notice: #39352b; --warning: #fdd663; --new-bg: #263e30; --new-text: #a8dab5;
 
@@ -96,3 +96,18 @@ footer a { color: var(--muted); font-size: 13px; min-height: 44px; display: inli
 .legend-detail { color: var(--muted); font-size: 11px; }
 
 .search input:focus { outline: none; }
+
+.dropdown { --menu-bg: var(--surface); }
+.section-filter { --menu-bg: var(--section-bg); }
+.dropdown:has(#location) { --menu-bg: var(--location-bg); }
+.dropdown:has(#type) { --menu-bg: var(--role-bg); }
+.dropdown-button, .dropdown-menu { display: none; }
+@media (min-width: 601px) and (pointer: fine) {
+  .dropdown.enhanced select { display: none; }
+  .dropdown-button { display: block; width: 100%; height: 44px; padding: 0 44px 0 18px; background: var(--menu-bg); color: var(--text); border: 0; border-radius: 999px; font: inherit; font-size: 13px; text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: pointer; }
+  .dropdown-menu:not([hidden]) { display: block; }
+  .dropdown-menu { position: absolute; top: calc(100% + 8px); left: 0; width: 100%; padding: 8px; border-radius: 22px; background: var(--menu-bg); z-index: 10; max-height: 300px; overflow-y: auto; box-shadow: 0 8px 24px var(--menu-shadow); }
+  .dropdown-option { display: block; width: 100%; border: 0; border-radius: 14px; background: transparent; color: var(--text); min-height: 44px; padding: 10px; font: inherit; font-size: 13px; text-align: left; overflow-wrap: anywhere; cursor: pointer; }
+  .dropdown-option:hover, .dropdown-option[aria-selected="true"] { background: var(--menu-selected); }
+  .dropdown-option:focus-visible { outline-offset: -3px; }
+}

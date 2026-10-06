@@ -846,7 +846,7 @@
       "id": "d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "requisition_id": null,
       "title": "Software Engineer, New Grad 2027",
-      "location": "San Francisco; New York",
+      "location": "San Francisco; New York; Palo Alto, CA",
       "employment_type": "FullTime",
       "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "employer_posted_at": null,
@@ -981,7 +981,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T06:21:45-04:00",
-      "employer_updated_at": "2026-10-05T08:33:08-04:00",
+      "employer_updated_at": "2026-10-06T15:48:09-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
@@ -2730,14 +2730,14 @@
       "employer_id": "id-me",
       "first_seen_at": "2026-10-05T20:44:26+00:00",
       "tracker_published_at": "2026-10-05T20:44:26+00:00",
-      "status": "missing — verification pending",
+      "status": "closed",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
-        "verification_pending"
+        "closed"
       ]
     },
     {
@@ -8468,5 +8468,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-06T19:07:58+00:00"
+  "snapshot_at": "2026-10-06T21:27:05+00:00"
 }

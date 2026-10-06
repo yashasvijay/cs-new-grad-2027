@@ -9,7 +9,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-06T11:13:46-04:00",
-      "employer_updated_at": "2026-10-06T11:13:46-04:00",
+      "employer_updated_at": "2026-10-06T14:56:59-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
@@ -81,13 +81,13 @@
     {
       "id": "8248317",
       "requisition_id": "M-2078",
-      "title": "New Grad Software Engineer, Routing",
+      "title": "New Grad Software Engineer, Product Engineering",
       "location": "Mountain View, California (HQ)",
       "employment_type": "unknown",
       "url": "https://nuro.ai/careersitem?gh_jid=8248317",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-05T15:14:38-04:00",
-      "employer_updated_at": "2026-10-05T15:14:38-04:00",
+      "employer_updated_at": "2026-10-06T14:17:58-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://nuro.ai/careersitem?gh_jid=8248317"
@@ -1389,6 +1389,32 @@
       "secondary_reasons": []
     },
     {
+      "id": "8123004",
+      "requisition_id": "40503",
+      "title": "Software Engineer, Foundation AI",
+      "location": "San Mateo, CA, United States",
+      "employment_type": "unknown",
+      "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-17T16:14:00-04:00",
+      "employer_updated_at": "2026-10-06T14:36:45-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
+      ],
+      "employer": "Roblox",
+      "employer_id": "roblox",
+      "first_seen_at": "2026-10-06T19:07:58+00:00",
+      "tracker_published_at": "2026-10-06T19:07:58+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "recent grad",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "45fc41cd-8280-4010-ba1f-def6114b3e39",
       "requisition_id": null,
       "title": "Research Engineer - New Grad (2027)",
@@ -1631,7 +1657,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-06T02:38:56-04:00",
+      "employer_updated_at": "2026-10-06T14:40:16-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2715,90 +2741,6 @@
       ]
     },
     {
-      "id": "a3fef67948bb102c5acd7be30eff0000",
-      "requisition_id": "01872451",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
-      "employment_type": "Full time",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872451",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-09",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872451"
-      ],
-      "employer": "RTX Corporation",
-      "employer_id": "rtx-corporation",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "918d7b33cbe8102c5abe5872ffe70000",
-      "requisition_id": "01872452",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
-      "employment_type": "Full time",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-09",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452"
-      ],
-      "employer": "RTX Corporation",
-      "employer_id": "rtx-corporation",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "ed49b5322e1d1007229f6590be820000",
-      "requisition_id": "01872445",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
-      "employment_type": "Full time",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-09",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445"
-      ],
-      "employer": "RTX Corporation",
-      "employer_id": "rtx-corporation",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "R244320",
       "requisition_id": "R244320",
       "employer": "Capital One",
@@ -2865,6 +2807,90 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 full-time software engineer rotational new graduate",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "a3fef67948bb102c5acd7be30eff0000",
+      "requisition_id": "01872451",
+      "title": "Software Engineer I  (Onsite)",
+      "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
+      "employment_type": "Full time",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872451",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-09",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872451"
+      ],
+      "employer": "RTX Corporation",
+      "employer_id": "rtx-corporation",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "918d7b33cbe8102c5abe5872ffe70000",
+      "requisition_id": "01872452",
+      "title": "Software Engineer I  (Onsite)",
+      "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
+      "employment_type": "Full time",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-09",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452"
+      ],
+      "employer": "RTX Corporation",
+      "employer_id": "rtx-corporation",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "ed49b5322e1d1007229f6590be820000",
+      "requisition_id": "01872445",
+      "title": "Software Engineer I  (Onsite)",
+      "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
+      "employment_type": "Full time",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-09",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445"
+      ],
+      "employer": "RTX Corporation",
+      "employer_id": "rtx-corporation",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8442,5 +8468,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-06T16:55:02+00:00"
+  "snapshot_at": "2026-10-06T19:07:58+00:00"
 }

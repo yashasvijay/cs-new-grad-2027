@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>yashasvijay · 2027 CS New Grad Tracker</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<main>
+  <header>
+    <p class="eyebrow">2027 CS NEW GRAD TRACKER</p>
+    <h1>yashasvijay · 2027 CS New Grad Tracker</h1>
+    <p>U.S. CS new-grad and early-career roles from public employer career pages.</p>
+  </header>
+  <form id="filters" role="search">
+    <label class="search">Search company or title<input id="search" type="search" placeholder="Company or role" autocomplete="off"></label>
+    <div class="filter-row">
+      <label>Location<select id="location"><option value="">All locations</option></select></label>
+      <label>Role type (approximate)<select id="type"><option value="">All role types</option><option value="software">Software</option><option value="ml">ML / AI</option><option value="data">Data</option><option value="security">Security</option><option value="embedded">Embedded / firmware</option><option value="infrastructure">Infrastructure / SRE</option></select></label>
+      <label class="toggle"><input id="week" type="checkbox">New this week</label>
+      <label class="toggle"><input id="secondary" type="checkbox">Show low-confidence listings</label>
+    </div>
+  </form>
+  <p class="warning"><strong>“2027 mentioned” is a screening signal, not a guarantee of eligibility.</strong> Check the employer’s requirements.</p>
+  <p class="legend">⚠️ full-time status unverified · 📝 manual employer-page check (expires after 48 hours)</p>
+  <p id="count" role="status" aria-live="polite">Loading listings…</p>
+  <section id="list" aria-label="Job listings"></section>
+  <noscript>Enable JavaScript to search and filter the listings.</noscript>
+</main>
+</body>
+</html>

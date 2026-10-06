@@ -29,6 +29,48 @@ const element = (tag, text, className) => {
   return node;
 };
 
+function formatDate(value, currentYear = new Date().getFullYear()) {
+  const iso = value.slice(0, 10);
+  const date = new Date(`${iso}T00:00:00Z`);
+  return new Intl.DateTimeFormat('en-US', {
+    month: 'short', day: 'numeric', timeZone: 'UTC',
+    ...(Number(iso.slice(0, 4)) !== currentYear ? {year: 'numeric'} : {}),
+  }).format(date);
+}
+
+function icon(kind) {
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('viewBox', '0 0 24 24');
+  svg.setAttribute('aria-hidden', 'true');
+  const shapes = {
+    pin: 'M12 22s7-7 7-13a7 7 0 0 0-14 0c0 6 7 13 7 13ZM12 6a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z',
+    globe: 'M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM3 12h18M12 3c-5 5-5 13 0 18 5-5 5-13 0-18Z',
+    calendar: 'M5 5h14v16H5ZM8 3v4M16 3v4M5 10h14',
+    chevron: 'm6 9 6 6 6-6',
+  };
+  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  path.setAttribute('d', shapes[kind]);
+  svg.append(path);
+  return svg;
+}
+
+function locationChip(value) {
+  const dropdown = document.querySelector('#location');
+  const interactive = [...dropdown.options].some(option => option.value === value);
+  const chip = element(interactive ? 'button' : 'span', null, `location-chip${/remote/i.test(value) ? ' remote' : ''}${interactive ? '' : ' flat'}`);
+  chip.title = value;
+  chip.append(icon(/remote/i.test(value) ? 'globe' : 'pin'), element('span', value));
+  if (interactive) {
+    chip.type = 'button';
+    chip.addEventListener('click', () => {
+      dropdown.value = value;
+      dropdown.dispatchEvent(new Event('input', {bubbles: true}));
+      dropdown.focus();
+    });
+  }
+  return chip;
+}
+
 function card(job) {
   const secondary = !['new_grad_2027', 'general_early_career'].includes(job.section);
   const article = element('article', null, `job${secondary ? ' secondary' : ''}`);
@@ -46,13 +88,34 @@ function card(job) {
   if (job.full_time_unverified) content.append(element('span', '⚠️ Full-time unverified', 'badge caution'));
   if (job.manual_check) content.append(element('span', '📝 Manual check', 'badge'));
   const locations = job.locations || [];
+  const chips = element('div', null, 'card-chips');
   if (locations.length >= 3) {
-    const details = element('details', null, 'meta');
-    details.append(element('summary', `${locations.length} locations`));
-    for (const location of locations) details.append(element('div', location));
-    content.append(details);
-  } else if (locations.length) content.append(element('p', locations.join(' · '), 'meta'));
-  if (job.date) content.append(element('p', `${job.date_kind}: ${job.date.slice(0, 10)}`, 'meta'));
+    const toggle = element('button', null, 'location-chip expand-locations');
+    toggle.type = 'button';
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.append(icon('pin'), element('span', `${locations.length} locations`), icon('chevron'));
+    const expanded = element('div', null, 'expanded-locations');
+    expanded.hidden = true;
+    expanded.append(...locations.map(locationChip));
+    toggle.addEventListener('click', () => {
+      expanded.hidden = !expanded.hidden;
+      toggle.setAttribute('aria-expanded', String(!expanded.hidden));
+    });
+    chips.append(toggle);
+    content.append(chips, expanded);
+  } else {
+    chips.append(...locations.map(locationChip));
+    content.append(chips);
+  }
+  if (job.date) {
+    const badge = element('span', null, 'date-chip');
+    const time = element('time', `${job.date_kind} ${formatDate(job.date)}`);
+    time.dateTime = job.date.slice(0, 10);
+    time.title = `${job.date_kind}: ${time.dateTime}`;
+    time.setAttribute('aria-label', time.title);
+    badge.append(icon('calendar'), time);
+    chips.append(badge);
+  }
   if (job.notes) content.append(element('p', job.notes, 'notes'));
   for (const [key, label] of [['deadline', 'Deadline'], ['sponsorship', 'Sponsorship'], ['citizenship', 'Citizenship'], ['degree_level', 'Degree']]) {
     if (job[key]) content.append(element('p', `${label}: ${job[key]}`, 'meta'));
@@ -81,7 +144,7 @@ async function start() {
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     document.querySelector('#secondary-count').textContent = `(${data.jobs.filter(job => !['new_grad_2027', 'general_early_career'].includes(job.section)).length})`;
-    if (data.snapshot_at) document.querySelector('#updated').textContent = `Last updated ${data.snapshot_at.slice(0, 10)}`;
+    if (data.snapshot_at) document.querySelector('#updated').textContent = `Last updated ${formatDate(data.snapshot_at)}`;
     const jobs = data.jobs.slice().sort((a, b) => timestamp(b) - timestamp(a));
     const location = document.querySelector('#location');
     for (const value of [...new Set(jobs.flatMap(job => job.locations || []))].sort()) {
@@ -119,4 +182,4 @@ async function start() {
 }
 
 if (typeof document !== 'undefined') start();
-if (typeof module !== 'undefined') module.exports = { matches, timestamp };
+if (typeof module !== 'undefined') module.exports = { matches, timestamp, formatDate };

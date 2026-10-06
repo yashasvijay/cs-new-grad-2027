@@ -102,7 +102,7 @@ footer a { color: var(--muted); font-size: 13px; min-height: 44px; display: inli
 .dropdown:has(#location) { --menu-bg: var(--location-bg); }
 .dropdown:has(#type) { --menu-bg: var(--role-bg); }
 .dropdown-button, .dropdown-menu { display: none; }
-@media (min-width: 601px) and (pointer: fine) {
+@media (pointer: fine) {
   .dropdown.enhanced select { display: none; }
   .dropdown-button { display: block; width: 100%; height: 44px; padding: 0 44px 0 18px; background: var(--menu-bg); color: var(--text); border: 0; border-radius: 999px; font: inherit; font-size: 13px; text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: pointer; }
   .dropdown-menu:not([hidden]) { display: block; }

@@ -13,7 +13,9 @@ function timestamp(job) {
 
 function matches(job, filters, now = Date.now()) {
   const primary = ['new_grad_2027', 'general_early_career'].includes(job.section);
-  if (!primary && !filters.secondary) return false;
+  if (filters.section) {
+    if (job.section !== filters.section) return false;
+  } else if (!primary && !filters.secondary) return false;
   if (!`${job.company || ''} ${job.title || ''}`.toLowerCase().includes(filters.search.toLowerCase().trim())) return false;
   if (filters.location && !(job.locations || []).includes(filters.location)) return false;
   const matchedTypes = Object.keys(types).filter(type => types[type].test(job.title || ''));
@@ -154,6 +156,7 @@ async function start() {
     }
     const update = () => {
       const filters = {
+        section: document.querySelector('#section').value,
         search: document.querySelector('#search').value,
         location: location.value,
         type: document.querySelector('#type').value,

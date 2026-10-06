@@ -3,11 +3,11 @@
   --bg: #fff; --card: #f8f9fa; --surface: #f1f3f4; --text: #202124; --muted: #5f6368; --outline: #747775;
   --accent: #1a73e8; --accent-text: #fff; --selected: #e8f0fe; --selected-text: #174ea6;
   --notice: #fef7e0; --warning: #654b00;
-  --location-bg: #e8f0fe; --remote-bg: #d9f0ed; --new-bg: #e6f4ea; --new-text: #137333; --glow-blue: #1a73e80a; --glow-green: #34a85308; --glow-amber: #fbbc0408;
+  --section-bg: #eee8f5; --role-bg: #f3e7eb; --week-bg: #e6f0e9; --location-bg: #e8f0fe; --remote-bg: #d9f0ed; --new-bg: #e6f4ea; --new-text: #137333; --glow-blue: #1a73e80a; --glow-green: #34a85308; --glow-amber: #fbbc0408;
   --avatar-text: #303134; --pastel-0: #d3e3fd; --pastel-1: #c4eed0; --pastel-2: #eadcff; --pastel-3: #f9dedc; --pastel-4: #c2e7f3; --pastel-5: #ffe0c2; --pastel-6: #f6d5ea; --pastel-7: #dde6bd; --pastel-8: #d1e7e0; --pastel-9: #dfdff5;
 }
 @media (prefers-color-scheme: dark) { :root {
-  --location-bg: #344258; --remote-bg: #294844; --bg: #202124; --card: #2d2e31; --surface: #303134; --text: #e8eaed; --muted: #9aa0a6; --outline: #9aa0a6;
+  --section-bg: #40394b; --role-bg: #48373e; --week-bg: #303e34; --location-bg: #344258; --remote-bg: #294844; --bg: #202124; --card: #2d2e31; --surface: #303134; --text: #e8eaed; --muted: #9aa0a6; --outline: #9aa0a6;
   --accent: #8ab4f8; --accent-text: #202124; --selected: #394457; --selected-text: #d3e3fd;
   --notice: #39352b; --warning: #fdd663; --new-bg: #263e30; --new-text: #a8dab5;
   --glow-blue: #8ab4f80b; --glow-green: #81c99509; --glow-amber: #fdd66308;
@@ -84,3 +84,13 @@ footer a { color: var(--muted); font-size: 13px; min-height: 44px; display: inli
 .date-chip { background: var(--surface); color: var(--muted); cursor: default; }
 .location-chip:not(.flat):hover { outline: 1px solid var(--accent); outline-offset: 2px; }
 .expand-locations[aria-expanded="true"] svg:last-child { transform: rotate(180deg); }
+
+.section-filter select { background: var(--section-bg); }
+.dropdown:has(#location) select { background: var(--location-bg); }
+.dropdown:has(#type) select { background: var(--role-bg); }
+.toggle:has(#week) { background: var(--week-bg); }
+.toggle:has(#secondary) { background: var(--notice); }
+.toggle:has(#week:checked) { background: var(--new-bg); color: var(--new-text); }
+.legend { display: flex; flex-wrap: wrap; gap: 8px; }
+.legend-badge { display: inline-flex; flex-wrap: wrap; align-items: center; column-gap: 6px; padding: 6px 10px; border-radius: 12px; background: var(--surface); color: var(--text); font-size: 12px; }
+.legend-detail { color: var(--muted); font-size: 11px; }

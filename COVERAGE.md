@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-10-06T10:32:15+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-10-06T16:55:02+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|

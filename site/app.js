@@ -33,13 +33,14 @@ function card(job) {
   const secondary = !['new_grad_2027', 'general_early_career'].includes(job.section);
   const article = element('article', null, `job${secondary ? ' secondary' : ''}`);
   const avatar = element('span', (job.company || '?').slice(0, 1).toUpperCase(), 'avatar');
-  const hash = [...(job.company || '')].reduce((value, letter) => (value * 31 + letter.charCodeAt(0)) >>> 0, 0);
-  avatar.classList.add(`tone-${hash % 5}`);
+  const hash = [...(job.company || '')].reduce((value, letter) => Math.imul(value ^ letter.charCodeAt(0), 16777619) >>> 0, 2166136261);
+  avatar.classList.add(`tone-${((hash ^ (hash >>> 16)) >>> 0) % 10}`);
   avatar.setAttribute('aria-hidden', 'true');
   article.append(avatar);
   const content = element('div', null, 'job-content');
   if (job.company) content.append(element('p', job.company, 'company'));
   if (job.title) content.append(element('h2', job.title));
+  if (matches(job, {search: '', location: '', type: '', week: true, secondary: true})) content.append(element('span', 'New', 'badge new'));
   if (secondary) content.append(element('span', 'Low confidence', 'badge caution'));
   if (job.status === 'closed') content.append(element('span', 'Closed', 'badge'));
   if (job.full_time_unverified) content.append(element('span', '⚠️ Full-time unverified', 'badge caution'));

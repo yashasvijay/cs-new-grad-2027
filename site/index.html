@@ -11,23 +11,25 @@
 <body>
 <main>
   <header>
-    <p class="eyebrow">2027 CS NEW GRAD TRACKER</p>
     <h1>yashasvijay · 2027 CS New Grad Tracker</h1>
     <p>U.S. CS new-grad and early-career roles from public employer career pages.</p>
   </header>
   <form id="filters" role="search">
-    <label class="search">Search company or title<input id="search" type="search" placeholder="Company or role" autocomplete="off"></label>
+    <label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span class="sr-only">Search company or title</span><input id="search" type="search" placeholder="Company or role" autocomplete="off"></label>
     <div class="filter-row">
-      <label>Location<select id="location"><option value="">All locations</option></select></label>
-      <label>Role type (approximate)<select id="type"><option value="">All role types</option><option value="software">Software</option><option value="ml">ML / AI</option><option value="data">Data</option><option value="security">Security</option><option value="embedded">Embedded / firmware</option><option value="infrastructure">Infrastructure / SRE</option></select></label>
-      <label class="toggle"><input id="week" type="checkbox">New this week</label>
-      <label class="toggle"><input id="secondary" type="checkbox">Show low-confidence listings</label>
+      <label class="dropdown"><span class="sr-only">Location</span><select id="location"><option value="">All locations</option></select></label>
+      <label class="dropdown"><span class="sr-only">Role type (approximate)</span><select id="type"><option value="">Role type (approximate)</option><option value="software">Software</option><option value="ml">ML / AI</option><option value="data">Data</option><option value="security">Security</option><option value="embedded">Embedded / firmware</option><option value="infrastructure">Infrastructure / SRE</option></select></label>
+      <label class="toggle"><input id="week" type="checkbox"><span class="check" aria-hidden="true">✓</span>New this week</label>
+      <label class="toggle"><input id="secondary" type="checkbox"><span class="check" aria-hidden="true">✓</span>Show low-confidence listings <span id="secondary-count"></span></label>
     </div>
   </form>
+  <aside class="notice"><span class="notice-icon" aria-hidden="true">ⓘ</span><div>
   <p class="warning"><strong>“2027 mentioned” is a screening signal, not a guarantee of eligibility.</strong> Check the employer’s requirements.</p>
   <p class="legend">⚠️ full-time status unverified · 📝 manual employer-page check (expires after 48 hours)</p>
-  <p id="count" role="status" aria-live="polite">Loading listings…</p>
+  </div></aside>
+  <div class="results-meta"><p id="count" role="status" aria-live="polite">Loading listings…</p><p id="updated"></p></div>
   <section id="list" aria-label="Job listings"></section>
+  <footer><a href="https://github.com/yashasvijay/cs-new-grad-2027">Repository</a><a href="https://github.com/yashasvijay/cs-new-grad-2027/blob/main/docs/METHODOLOGY.md">Methodology</a></footer>
   <noscript>Enable JavaScript to search and filter the listings.</noscript>
 </main>
 </body>

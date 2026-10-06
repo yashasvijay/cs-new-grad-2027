@@ -32,12 +32,17 @@ const element = (tag, text, className) => {
 function card(job) {
   const secondary = !['new_grad_2027', 'general_early_career'].includes(job.section);
   const article = element('article', null, `job${secondary ? ' secondary' : ''}`);
-  const content = element('div');
+  const avatar = element('span', (job.company || '?').slice(0, 1).toUpperCase(), 'avatar');
+  const hash = [...(job.company || '')].reduce((value, letter) => (value * 31 + letter.charCodeAt(0)) >>> 0, 0);
+  avatar.classList.add(`tone-${hash % 5}`);
+  avatar.setAttribute('aria-hidden', 'true');
+  article.append(avatar);
+  const content = element('div', null, 'job-content');
   if (job.company) content.append(element('p', job.company, 'company'));
   if (job.title) content.append(element('h2', job.title));
-  if (secondary) content.append(element('span', 'Low confidence', 'badge'));
+  if (secondary) content.append(element('span', 'Low confidence', 'badge caution'));
   if (job.status === 'closed') content.append(element('span', 'Closed', 'badge'));
-  if (job.full_time_unverified) content.append(element('span', '⚠️ Full-time unverified', 'badge'));
+  if (job.full_time_unverified) content.append(element('span', '⚠️ Full-time unverified', 'badge caution'));
   if (job.manual_check) content.append(element('span', '📝 Manual check', 'badge'));
   const locations = job.locations || [];
   if (locations.length >= 3) {
@@ -74,6 +79,8 @@ async function start() {
     const response = await fetch('data.json');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
+    document.querySelector('#secondary-count').textContent = `(${data.jobs.filter(job => !['new_grad_2027', 'general_early_career'].includes(job.section)).length})`;
+    if (data.snapshot_at) document.querySelector('#updated').textContent = `Last updated ${data.snapshot_at.slice(0, 10)}`;
     const jobs = data.jobs.slice().sort((a, b) => timestamp(b) - timestamp(a));
     const location = document.querySelector('#location');
     for (const value of [...new Set(jobs.flatMap(job => job.locations || []))].sort()) {
@@ -92,7 +99,15 @@ async function start() {
       const visible = jobs.filter(job => matches(job, filters));
       count.textContent = `${visible.length} ${visible.length === 1 ? 'role' : 'roles'}`;
       list.replaceChildren(...visible.map(card));
-      if (!visible.length) list.append(element('p', 'No roles match these filters.'));
+      if (!visible.length) {
+        const empty = element('div', null, 'empty');
+        empty.append(element('p', 'No roles match these filters.'));
+        const clear = element('button', 'Clear filters', 'clear');
+        clear.type = 'button';
+        clear.addEventListener('click', () => { document.querySelector('#filters').reset(); update(); document.querySelector('#search').focus(); });
+        empty.append(clear);
+        list.append(empty);
+      }
     };
     document.querySelector('#filters').addEventListener('submit', event => event.preventDefault());
     document.querySelector('#filters').addEventListener('input', update);

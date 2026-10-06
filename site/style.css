@@ -62,7 +62,7 @@ details > div { padding: 3px 0 3px 16px; }
 .empty p { color: var(--muted); margin: 0 0 20px; }
 footer { display: flex; justify-content: center; gap: 24px; padding: 24px 0; }
 footer a { color: var(--muted); font-size: 13px; min-height: 44px; display: inline-flex; align-items: center; border-radius: 4px; }
-:focus-visible, .toggle:has(input:focus-visible), .search:focus-within { outline: 3px solid var(--accent); outline-offset: 4px; }
+:focus-visible:not(.search input):not(.toggle input), .toggle:has(input:focus-visible), .search:focus-within { outline: 3px solid var(--accent); outline-offset: 4px; }
 @media (prefers-reduced-motion: no-preference) { .apply, .clear, .toggle { transition: background-color 160ms ease; } }
 @media (max-width: 600px) { main { padding: 36px 16px 20px; } h1 { font-size: 1.8rem; } header p { font-size: 13px; } .notice { padding: 18px; gap: 12px; } .job { padding: 20px; grid-template-columns: 36px minmax(0, 1fr); gap: 12px; } .avatar { width: 36px; height: 36px; font-size: 18px; } .job .apply { grid-column: 2; justify-self: start; } .job h2 { font-size: 17px; } }
 
@@ -94,3 +94,5 @@ footer a { color: var(--muted); font-size: 13px; min-height: 44px; display: inli
 .legend { display: flex; flex-wrap: wrap; gap: 8px; }
 .legend-badge { display: inline-flex; flex-wrap: wrap; align-items: center; column-gap: 6px; padding: 6px 10px; border-radius: 12px; background: var(--surface); color: var(--text); font-size: 12px; }
 .legend-detail { color: var(--muted); font-size: 11px; }
+
+.search input:focus { outline: none; }

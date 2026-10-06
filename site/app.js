@@ -40,17 +40,6 @@ function formatDate(value, currentYear = new Date().getFullYear()) {
   }).format(date);
 }
 
-function relativeDate(value, now = new Date()) {
-  // Compare calendar days, avoiding UTC parsing shifting a date in US timezones.
-  const [year, month, day] = value.slice(0, 10).split('-').map(Number);
-  const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
-  const days = Math.round((today - Date.UTC(year, month - 1, day)) / 86400000);
-  if (days < 0) return formatDate(value, now.getFullYear());
-  if (days === 0) return 'today';
-  if (days === 1) return '1 day ago';
-  return `${days} days ago`;
-}
-
 function icon(kind) {
   const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
   svg.setAttribute('viewBox', '0 0 24 24');
@@ -123,7 +112,7 @@ function card(job) {
   }
   if (job.date) {
     const badge = element('span', null, 'date-chip');
-    const time = element('time', `${job.date_kind} ${relativeDate(job.date)}`);
+    const time = element('time', `${job.date_kind} ${formatDate(job.date)}`);
     time.dateTime = job.date.slice(0, 10);
     time.title = `${job.date_kind}: ${time.dateTime}`;
     time.setAttribute('aria-label', time.title);
@@ -257,4 +246,4 @@ async function start() {
 }
 
 if (typeof document !== 'undefined') start();
-if (typeof module !== 'undefined') module.exports = { matches, timestamp, formatDate, relativeDate };
+if (typeof module !== 'undefined') module.exports = { matches, timestamp, formatDate };

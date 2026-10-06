@@ -2,6 +2,7 @@ from tracker.run import cell
 from tracker.sections import annotate
 from html import escape
 import re
+from datetime import date as calendar_date
 
 
 STATES = dict(zip(
@@ -31,6 +32,20 @@ def location_cell(location):
     if len(locations) < 3:
         return '; '.join(locations)
     return f'<details><summary>{len(locations)} locations</summary>' + '<br>'.join(locations) + '</details>'
+
+
+def date_cell(job, now):
+    released = job.get('employer_published_at') or job.get('employer_posted_at')
+    value = released or job.get('first_seen_at')
+    if not value:
+        return 'Date unknown'
+    iso = value[:10]
+    label = 'Released' if released else 'First seen'
+    days = (calendar_date.fromisoformat(now[:10]) - calendar_date.fromisoformat(iso)).days
+    age = 'today' if days == 0 else '1 day ago' if days == 1 else f'{days} days ago'
+    if days < 0:
+        age = iso
+    return f'<span title="{label}: {iso}">{label} {age}</span>'
 
 
 def render(view, now):
@@ -64,7 +79,7 @@ def render(view, now):
         lines += heading_lines + ['<table>', '<thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Notes</th><th width="100">Apply</th><th>Released</th></tr></thead>', '<tbody>']
         ordered = listing_order(jobs) if heading == 'Secondary listings' else release_order(jobs)
         for j in ordered:
-            date = (j.get('employer_published_at') or j.get('employer_posted_at') or '')[:10] or ('Release unknown<br>First seen ' + j['first_seen_at'][:10])
+            date = date_cell(j, now)
             note = j.get('eligibility_note', '')
             note = {
                 'Entry-level requirements reviewed; 2027 eligibility unconfirmed': '',

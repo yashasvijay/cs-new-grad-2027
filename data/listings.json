@@ -583,6 +583,32 @@
       "secondary_reasons": []
     },
     {
+      "id": "8227399",
+      "requisition_id": "R-101915",
+      "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+      "location": "Mountain View, California (HQ)",
+      "employment_type": "unknown",
+      "url": "https://nuro.ai/careersitem?gh_jid=8227399",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-23T16:25:45-04:00",
+      "employer_updated_at": "2026-10-06T18:33:42-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://nuro.ai/careersitem?gh_jid=8227399"
+      ],
+      "employer": "Nuro",
+      "employer_id": "nuro",
+      "first_seen_at": "2026-10-07T00:57:28+00:00",
+      "tracker_published_at": "2026-10-07T00:57:28+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "4736426005",
       "requisition_id": "UR-2027-PSNG",
       "title": "Software Engineer, Public Sector - New Grad",
@@ -591,7 +617,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-23T13:55:35-04:00",
-      "employer_updated_at": "2026-10-01T19:04:24-04:00",
+      "employer_updated_at": "2026-10-06T18:37:39-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
@@ -955,7 +981,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T11:59:59-04:00",
-      "employer_updated_at": "2026-10-01T19:04:24-04:00",
+      "employer_updated_at": "2026-10-06T18:37:39-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
@@ -8468,5 +8494,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-06T21:27:05+00:00"
+  "snapshot_at": "2026-10-07T00:57:28+00:00"
 }

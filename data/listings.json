@@ -427,32 +427,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "5236296007",
-      "requisition_id": "14203",
-      "title": "Systems Engineer, Space Emerging Talent",
-      "location": "Costa Mesa, California, United States",
-      "employment_type": "unknown",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-25T14:39:38-04:00",
-      "employer_updated_at": "2026-10-05T19:17:56-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007"
-      ],
-      "employer": "Anduril",
-      "employer_id": "anduril",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "early career",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "8127108",
       "requisition_id": "2312",
       "title": "Software Engineer - New Grad",
@@ -1423,7 +1397,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-06T14:36:45-04:00",
+      "employer_updated_at": "2026-10-07T02:35:44-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1683,7 +1657,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-06T14:40:16-04:00",
+      "employer_updated_at": "2026-10-07T02:38:49-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2737,6 +2711,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "5236296007",
+      "requisition_id": "14203",
+      "title": "Systems Engineer, Space Emerging Talent",
+      "location": "Costa Mesa, California, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-25T14:39:38-04:00",
+      "employer_updated_at": "2026-10-05T19:17:56-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "8011095003",
@@ -8494,5 +8496,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-07T00:57:28+00:00"
+  "snapshot_at": "2026-10-07T07:04:48+00:00"
 }

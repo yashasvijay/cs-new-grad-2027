@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "13613cf7d3b81001628eac750c750000",
+      "requisition_id": "R10254990",
+      "title": "2027 - Associate Cyber Software Engineer - Cincinnati OH",
+      "location": "United States-Ohio-Cincinnati",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-07",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-07T20:06:13+00:00",
+      "tracker_published_at": "2026-10-07T20:06:13+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "5257769007",
       "requisition_id": "1018",
       "title": "Software Engineer I to III, Digital Engineering ",
@@ -1397,7 +1423,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-07T02:35:44-04:00",
+      "employer_updated_at": "2026-10-07T14:36:33-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1547,13 +1573,13 @@
     {
       "id": "4719126005",
       "requisition_id": "382",
-      "title": "2027 Graduate Software Engineer (DV Commodities)",
+      "title": "Graduate Software Engineer (DV Commodities)",
       "location": "New York",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-10T18:22:11-04:00",
-      "employer_updated_at": "2026-08-10T18:25:15-04:00",
+      "employer_updated_at": "2026-10-07T11:54:57-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
@@ -1565,7 +1591,7 @@
       "status": "open",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time unverified — review",
-      "evidence": "2027 graduate",
+      "evidence": "graduate with a degree in computer science, computer engineering, or related field by summer 2027",
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
@@ -1657,7 +1683,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-07T02:38:49-04:00",
+      "employer_updated_at": "2026-10-07T14:53:56-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -1802,32 +1828,6 @@
       "evidence": "full-stack software engineer (product) - new grad - 2026-2027",
       "review_required": true,
       "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "8049515",
-      "requisition_id": "2044",
-      "title": "Software Engineer I - Device Control ",
-      "location": "Boston, MA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-07-07T16:12:59-04:00",
-      "employer_updated_at": "2026-07-07T16:12:59-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
-      ],
-      "employer": "SimpliSafe",
-      "employer_id": "simplisafe",
-      "first_seen_at": "2026-10-05T17:48:27+00:00",
-      "tracker_published_at": "2026-10-05T17:48:27+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "general_early_career",
       "secondary_reasons": []
     },
     {
@@ -2041,128 +2041,6 @@
       "review_required": true,
       "listing_section": "general_early_career",
       "secondary_reasons": []
-    },
-    {
-      "id": "25999",
-      "requisition_id": "25999",
-      "employer": "Atlassian",
-      "employer_id": "atlassian",
-      "title": "Machine Learning Engineer, 2027 Graduate U.S.",
-      "location": "Seattle, WA",
-      "employment_type": "FullTime",
-      "url": "https://www.atlassian.com/company/careers/details/25999",
-      "source": "employer page — manual review",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:55+00:00",
-      "eligibility_note": "Degree by August 2027; Seattle; no sponsorship.",
-      "first_seen_at": "2026-10-05T19:34:55+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open — manually verified",
-      "verification_mode": "manual",
-      "source_links": [
-        "https://www.atlassian.com/company/careers/details/25999"
-      ],
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "2027 graduate",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "25813",
-      "requisition_id": "25813",
-      "employer": "Atlassian",
-      "employer_id": "atlassian",
-      "title": "Software Engineer, 2027 Graduate U.S.",
-      "location": "Seattle, WA",
-      "employment_type": "FullTime",
-      "url": "https://www.atlassian.com/company/careers/details/25813",
-      "source": "employer page — manual review",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:55+00:00",
-      "eligibility_note": "Degree by August 2027; Seattle; no sponsorship.",
-      "first_seen_at": "2026-10-05T19:34:55+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open — manually verified",
-      "verification_mode": "manual",
-      "source_links": [
-        "https://www.atlassian.com/company/careers/details/25813"
-      ],
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "2027 graduate",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "123087196289671878",
-      "requisition_id": "123087196289671878",
-      "employer": "Google",
-      "employer_id": "alphabet-inc",
-      "title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "location": "Multiple U.S. locations",
-      "employment_type": "FullTime",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start",
-      "source": "employer page — manual review",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "open — manually verified",
-      "eligibility_note": "PhD required; 2027 full-time start.",
-      "first_seen_at": "2026-10-05T19:34:06+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open — manually verified",
-      "verification_mode": "manual",
-      "source_links": [
-        "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start"
-      ],
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, ai/machine learning, phd, early career, 2027 start",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "phd_only"
-      ]
-    },
-    {
-      "id": "84680705375642310",
-      "requisition_id": "84680705375642310",
-      "employer": "Google",
-      "employer_id": "alphabet-inc",
-      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-      "location": "Multiple U.S. locations",
-      "employment_type": "FullTime",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
-      "source": "employer page — manual review",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "manual_verified_at": "2026-10-05T19:34:06+00:00",
-      "manual_status": "open — manually verified",
-      "eligibility_note": "PhD required; 2027 full-time start.",
-      "first_seen_at": "2026-10-05T19:34:06+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open — manually verified",
-      "verification_mode": "manual",
-      "source_links": [
-        "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start"
-      ],
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, infrastructure, phd, early career, 2027 start",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "phd_only"
-      ]
     },
     {
       "id": "2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
@@ -2685,6 +2563,162 @@
       "secondary_reasons": []
     },
     {
+      "id": "8049515",
+      "requisition_id": "2044",
+      "title": "Software Engineer I - Device Control ",
+      "location": "Boston, MA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-07T16:12:59-04:00",
+      "employer_updated_at": "2026-07-07T16:12:59-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
+      ],
+      "employer": "SimpliSafe",
+      "employer_id": "simplisafe",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "25999",
+      "requisition_id": "25999",
+      "employer": "Atlassian",
+      "employer_id": "atlassian",
+      "title": "Machine Learning Engineer, 2027 Graduate U.S.",
+      "location": "Seattle, WA",
+      "employment_type": "FullTime",
+      "url": "https://www.atlassian.com/company/careers/details/25999",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T19:34:55+00:00",
+      "eligibility_note": "Degree by August 2027; Seattle; no sponsorship.",
+      "first_seen_at": "2026-10-05T19:34:55+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "verification overdue — manually checked",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://www.atlassian.com/company/careers/details/25999"
+      ],
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 graduate",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "25813",
+      "requisition_id": "25813",
+      "employer": "Atlassian",
+      "employer_id": "atlassian",
+      "title": "Software Engineer, 2027 Graduate U.S.",
+      "location": "Seattle, WA",
+      "employment_type": "FullTime",
+      "url": "https://www.atlassian.com/company/careers/details/25813",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T19:34:55+00:00",
+      "eligibility_note": "Degree by August 2027; Seattle; no sponsorship.",
+      "first_seen_at": "2026-10-05T19:34:55+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "verification overdue — manually checked",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://www.atlassian.com/company/careers/details/25813"
+      ],
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 graduate",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "123087196289671878",
+      "requisition_id": "123087196289671878",
+      "employer": "Google",
+      "employer_id": "alphabet-inc",
+      "title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "employment_type": "FullTime",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T19:34:06+00:00",
+      "manual_status": "open — manually verified",
+      "eligibility_note": "PhD required; 2027 full-time start.",
+      "first_seen_at": "2026-10-05T19:34:06+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "verification overdue — manually checked",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start"
+      ],
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, ai/machine learning, phd, early career, 2027 start",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending",
+        "phd_only"
+      ]
+    },
+    {
+      "id": "84680705375642310",
+      "requisition_id": "84680705375642310",
+      "employer": "Google",
+      "employer_id": "alphabet-inc",
+      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "employment_type": "FullTime",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
+      "source": "employer page — manual review",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "manual_verified_at": "2026-10-05T19:34:06+00:00",
+      "manual_status": "open — manually verified",
+      "eligibility_note": "PhD required; 2027 full-time start.",
+      "first_seen_at": "2026-10-05T19:34:06+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "verification overdue — manually checked",
+      "verification_mode": "manual",
+      "source_links": [
+        "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start"
+      ],
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, infrastructure, phd, early career, 2027 start",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending",
+        "phd_only"
+      ]
+    },
+    {
       "id": "29bad846-de60-4be7-a222-69b97e044930",
       "requisition_id": null,
       "employer": "Whatnot",
@@ -2700,7 +2734,7 @@
       "manual_verified_at": "2026-10-05T18:00:52+00:00",
       "first_seen_at": "2026-10-05T18:00:52+00:00",
       "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open — manually verified",
+      "status": "verification overdue — manually checked",
       "verification_mode": "manual",
       "source_links": [
         "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930"
@@ -2708,32 +2742,6 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, 2027 new grad",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "5236296007",
-      "requisition_id": "14203",
-      "title": "Systems Engineer, Space Emerging Talent",
-      "location": "Costa Mesa, California, United States",
-      "employment_type": "unknown",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-25T14:39:38-04:00",
-      "employer_updated_at": "2026-10-05T19:17:56-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007"
-      ],
-      "employer": "Anduril",
-      "employer_id": "anduril",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "early career",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -2762,6 +2770,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "5236296007",
+      "requisition_id": "14203",
+      "title": "Systems Engineer, Space Emerging Talent",
+      "location": "Costa Mesa, California, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-25T14:39:38-04:00",
+      "employer_updated_at": "2026-10-05T19:17:56-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8496,5 +8532,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-07T07:04:48+00:00"
+  "snapshot_at": "2026-10-07T20:06:13+00:00"
 }

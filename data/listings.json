@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "8879673002",
+      "requisition_id": "R9303",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-08T14:09:39-04:00",
+      "employer_updated_at": "2026-10-08T14:09:39-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-10-08T19:20:11+00:00",
+      "tracker_published_at": "2026-10-08T19:20:11+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "8862049002",
       "requisition_id": "3723",
       "title": "Software Engineer, New Grad",
@@ -50,6 +76,32 @@
       "evidence": "new grad",
       "review_required": true,
       "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "9fde8d03-9f47-44ac-bd14-53829722c06d",
+      "requisition_id": null,
+      "title": "Software Engineer | Early Careers, 2027 Start",
+      "location": "New York City",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-07T21:25:01.579+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
+      ],
+      "employer": "Arch",
+      "employer_id": "arch",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating between december 2026 and august 2027",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
       "secondary_reasons": []
     },
     {
@@ -1103,32 +1155,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "9fde8d03-9f47-44ac-bd14-53829722c06d",
-      "requisition_id": null,
-      "title": "Software Engineer | Early Careers, 2027 Start",
-      "location": "New York City",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-02T15:00:36.023+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
-      ],
-      "employer": "Arch",
-      "employer_id": "arch",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "graduating between december 2026 and august 2027",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "149f368c-52d5-408f-ba26-ad888f318a00",
       "requisition_id": null,
       "title": "Software Engineer, Agent (New Grad 2027)",
@@ -1397,7 +1423,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-08T02:36:04-04:00",
+      "employer_updated_at": "2026-10-08T14:36:57-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1657,7 +1683,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-08T02:39:11-04:00",
+      "employer_updated_at": "2026-10-08T14:40:37-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2537,34 +2563,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8011089003",
-      "requisition_id": "1824",
-      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
-      "location": "Mountain View, California, United States",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-05T19:12:37-04:00",
-      "employer_updated_at": "2026-10-05T19:12:37-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
-      ],
-      "employer": "ID.me",
-      "employer_id": "id-me",
-      "first_seen_at": "2026-10-05T23:29:37+00:00",
-      "tracker_published_at": "2026-10-05T23:29:37+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2720,6 +2718,34 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "8011089003",
+      "requisition_id": "1824",
+      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-05T19:12:37-04:00",
+      "employer_updated_at": "2026-10-05T19:12:37-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
+      ],
+      "employer": "ID.me",
+      "employer_id": "id-me",
+      "first_seen_at": "2026-10-05T23:29:37+00:00",
+      "tracker_published_at": "2026-10-05T23:29:37+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -8519,14 +8545,14 @@
       "id": "arch",
       "name": "Arch",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "ashby",
         "board": "arch.co",
         "provenance": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
       },
-      "error": "curl: (22) The requested URL returned error: 404\n"
+      "error": null
     },
     {
       "id": "solace",
@@ -8590,5 +8616,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-08T13:21:12+00:00"
+  "snapshot_at": "2026-10-08T19:20:11+00:00"
 }

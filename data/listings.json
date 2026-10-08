@@ -1397,7 +1397,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-07T14:36:33-04:00",
+      "employer_updated_at": "2026-10-08T02:36:04-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1657,7 +1657,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-07T14:53:56-04:00",
+      "employer_updated_at": "2026-10-08T02:39:11-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2565,62 +2565,6 @@
       ]
     },
     {
-      "id": "8765745002",
-      "requisition_id": "3678",
-      "title": "Software Engineer, New Grad",
-      "location": "Raleigh, NC",
-      "employment_type": "unknown",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-31T17:03:46-04:00",
-      "employer_updated_at": "2026-08-31T17:03:46-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://www.ixl.com/company/jobs?gh_jid=8765745002"
-      ],
-      "employer": "IXL Learning",
-      "employer_id": "ixl-learning",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "8765715002",
-      "requisition_id": "3677",
-      "title": "Software Engineer, New Grad",
-      "location": "San Mateo, CA",
-      "employment_type": "unknown",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-31T17:03:34-04:00",
-      "employer_updated_at": "2026-08-31T17:03:34-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://www.ixl.com/company/jobs?gh_jid=8765715002"
-      ],
-      "employer": "IXL Learning",
-      "employer_id": "ixl-learning",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2985,6 +2929,62 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8765745002",
+      "requisition_id": "3678",
+      "title": "Software Engineer, New Grad",
+      "location": "Raleigh, NC",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-31T17:03:46-04:00",
+      "employer_updated_at": "2026-08-31T17:03:46-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8765745002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8765715002",
+      "requisition_id": "3677",
+      "title": "Software Engineer, New Grad",
+      "location": "San Mateo, CA",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-31T17:03:34-04:00",
+      "employer_updated_at": "2026-08-31T17:03:34-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8765715002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8590,5 +8590,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-08T06:05:08+00:00"
+  "snapshot_at": "2026-10-08T13:21:12+00:00"
 }

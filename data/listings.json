@@ -131,32 +131,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8011089003",
-      "requisition_id": "1824",
-      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
-      "location": "Mountain View, California, United States",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-05T19:12:37-04:00",
-      "employer_updated_at": "2026-10-05T19:12:37-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
-      ],
-      "employer": "ID.me",
-      "employer_id": "id-me",
-      "first_seen_at": "2026-10-05T23:29:37+00:00",
-      "tracker_published_at": "2026-10-05T23:29:37+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "8248317",
       "requisition_id": "M-2078",
       "title": "New Grad Software Engineer, Product Engineering",
@@ -2563,6 +2537,34 @@
       "secondary_reasons": []
     },
     {
+      "id": "8011089003",
+      "requisition_id": "1824",
+      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-05T19:12:37-04:00",
+      "employer_updated_at": "2026-10-05T19:12:37-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
+      ],
+      "employer": "ID.me",
+      "employer_id": "id-me",
+      "first_seen_at": "2026-10-05T23:29:37+00:00",
+      "tracker_published_at": "2026-10-05T23:29:37+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
       "id": "8765745002",
       "requisition_id": "3678",
       "title": "Software Engineer, New Grad",
@@ -2612,34 +2614,6 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "8049515",
-      "requisition_id": "2044",
-      "title": "Software Engineer I - Device Control ",
-      "location": "Boston, MA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-07-07T16:12:59-04:00",
-      "employer_updated_at": "2026-07-07T16:12:59-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
-      ],
-      "employer": "SimpliSafe",
-      "employer_id": "simplisafe",
-      "first_seen_at": "2026-10-05T17:48:27+00:00",
-      "tracker_published_at": "2026-10-05T17:48:27+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -3010,6 +2984,34 @@
       "status": "closed",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8049515",
+      "requisition_id": "2044",
+      "title": "Software Engineer I - Device Control ",
+      "location": "Boston, MA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-07T16:12:59-04:00",
+      "employer_updated_at": "2026-07-07T16:12:59-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
+      ],
+      "employer": "SimpliSafe",
+      "employer_id": "simplisafe",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
       "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
@@ -8588,5 +8590,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-08T00:10:12+00:00"
+  "snapshot_at": "2026-10-08T06:05:08+00:00"
 }

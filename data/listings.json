@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "8862049002",
+      "requisition_id": "3723",
+      "title": "Software Engineer, New Grad",
+      "location": "Raleigh, NC",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8862049002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-07T17:43:03-04:00",
+      "employer_updated_at": "2026-10-07T17:43:03-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8862049002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-08T00:10:12+00:00",
+      "tracker_published_at": "2026-10-08T00:10:12+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "8862043002",
+      "requisition_id": "3722",
+      "title": "Software Engineer, New Grad",
+      "location": "San Mateo, CA",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8862043002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-07T17:42:42-04:00",
+      "employer_updated_at": "2026-10-07T17:42:42-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8862043002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-08T00:10:12+00:00",
+      "tracker_published_at": "2026-10-08T00:10:12+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "13613cf7d3b81001628eac750c750000",
       "requisition_id": "R10254990",
       "title": "2027 - Associate Cyber Software Engineer - Cincinnati OH",
@@ -35,7 +87,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-06T11:13:46-04:00",
-      "employer_updated_at": "2026-10-06T14:56:59-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
@@ -903,7 +955,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-08T16:58:36-04:00",
-      "employer_updated_at": "2026-09-11T15:01:40-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
@@ -1103,58 +1155,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8765745002",
-      "requisition_id": "3678",
-      "title": "Software Engineer, New Grad",
-      "location": "Raleigh, NC",
-      "employment_type": "unknown",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-31T17:03:46-04:00",
-      "employer_updated_at": "2026-08-31T17:03:46-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://www.ixl.com/company/jobs?gh_jid=8765745002"
-      ],
-      "employer": "IXL Learning",
-      "employer_id": "ixl-learning",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
-      "id": "8765715002",
-      "requisition_id": "3677",
-      "title": "Software Engineer, New Grad",
-      "location": "San Mateo, CA",
-      "employment_type": "unknown",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-31T17:03:34-04:00",
-      "employer_updated_at": "2026-08-31T17:03:34-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://www.ixl.com/company/jobs?gh_jid=8765715002"
-      ],
-      "employer": "IXL Learning",
-      "employer_id": "ixl-learning",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "149f368c-52d5-408f-ba26-ad888f318a00",
       "requisition_id": null,
       "title": "Software Engineer, Agent (New Grad 2027)",
@@ -1215,7 +1215,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-26T19:28:11-04:00",
-      "employer_updated_at": "2026-08-26T19:28:11-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007"
@@ -1241,7 +1241,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T18:01:01-04:00",
-      "employer_updated_at": "2026-08-25T18:08:00-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007"
@@ -1293,7 +1293,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T14:35:15-04:00",
-      "employer_updated_at": "2026-08-25T14:35:15-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007"
@@ -1319,7 +1319,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T14:33:07-04:00",
-      "employer_updated_at": "2026-08-25T14:33:07-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"
@@ -1345,7 +1345,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T14:31:43-04:00",
-      "employer_updated_at": "2026-10-01T11:46:21-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
@@ -2025,7 +2025,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
       "employer_posted_at": null,
       "employer_published_at": "2026-03-27T14:34:33-04:00",
-      "employer_updated_at": "2026-08-25T18:05:20-04:00",
+      "employer_updated_at": "2026-10-07T18:28:12-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007"
@@ -2561,6 +2561,62 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "8765745002",
+      "requisition_id": "3678",
+      "title": "Software Engineer, New Grad",
+      "location": "Raleigh, NC",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-31T17:03:46-04:00",
+      "employer_updated_at": "2026-08-31T17:03:46-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8765745002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "8765715002",
+      "requisition_id": "3677",
+      "title": "Software Engineer, New Grad",
+      "location": "San Mateo, CA",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-31T17:03:34-04:00",
+      "employer_updated_at": "2026-08-31T17:03:34-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8765715002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "8049515",
@@ -8532,5 +8588,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-07T20:06:13+00:00"
+  "snapshot_at": "2026-10-08T00:10:12+00:00"
 }

@@ -134,12 +134,12 @@
       "id": "5257769007",
       "requisition_id": "1018",
       "title": "Software Engineer I to III, Digital Engineering ",
-      "location": "Denver, CO or Long Beach, CA ",
+      "location": "Denver, CO; Long Beach, CA",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-06T11:13:46-04:00",
-      "employer_updated_at": "2026-10-07T18:28:12-04:00",
+      "employer_updated_at": "2026-10-08T20:14:32-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
@@ -1210,12 +1210,12 @@
       "id": "5223279007",
       "requisition_id": "925",
       "title": "Data Engineer I",
-      "location": "Denver, CO or Long Beach, CA",
+      "location": "Denver, CO; Long Beach, CA",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-26T19:28:11-04:00",
-      "employer_updated_at": "2026-10-07T18:28:12-04:00",
+      "employer_updated_at": "2026-10-08T20:06:53-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007"
@@ -8616,5 +8616,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-08T19:20:11+00:00"
+  "snapshot_at": "2026-10-09T03:09:30+00:00"
 }

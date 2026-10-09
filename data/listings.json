@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "5262340007",
+      "requisition_id": "15392",
+      "title": "2027 Early Career Systems Engineer",
+      "location": "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-09T12:28:14-04:00",
+      "employer_updated_at": "2026-10-09T12:28:14-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-10-09T17:10:07+00:00",
+      "tracker_published_at": "2026-10-09T17:10:07+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 early career systems engineer",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
+    },
+    {
       "id": "8879673002",
       "requisition_id": "R9303",
       "title": "Software Engineer I",
@@ -191,7 +217,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8248317",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-05T15:14:38-04:00",
-      "employer_updated_at": "2026-10-06T14:17:58-04:00",
+      "employer_updated_at": "2026-10-09T11:02:43-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://nuro.ai/careersitem?gh_jid=8248317"
@@ -643,7 +669,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8227399",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-23T16:25:45-04:00",
-      "employer_updated_at": "2026-10-06T18:33:42-04:00",
+      "employer_updated_at": "2026-10-09T11:02:43-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://nuro.ai/careersitem?gh_jid=8227399"
@@ -8618,5 +8644,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-09T10:33:02+00:00"
+  "snapshot_at": "2026-10-09T17:10:07+00:00"
 }

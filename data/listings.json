@@ -425,32 +425,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "16778e12-31cb-4ca1-a321-7f629a7cf273",
-      "requisition_id": null,
-      "title": "Early Career Software Engineer",
-      "location": "New York",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-01T12:40:29.510+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273"
-      ],
-      "employer": "Clay",
-      "employer_id": "clay",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "early career",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "1970393556989020",
       "requisition_id": null,
       "title": "Software Engineer- CoreAI",
@@ -1423,7 +1397,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-08T14:36:57-04:00",
+      "employer_updated_at": "2026-10-09T02:36:40-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1683,7 +1657,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-08T14:40:37-04:00",
+      "employer_updated_at": "2026-10-09T02:39:40-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2561,6 +2535,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "16778e12-31cb-4ca1-a321-7f629a7cf273",
+      "requisition_id": null,
+      "title": "Early Career Software Engineer",
+      "location": "New York",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-01T12:40:29.510+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273"
+      ],
+      "employer": "Clay",
+      "employer_id": "clay",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "25999",
@@ -8616,5 +8618,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-09T03:09:30+00:00"
+  "snapshot_at": "2026-10-09T10:33:02+00:00"
 }

@@ -1423,7 +1423,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-09T14:36:56-04:00",
+      "employer_updated_at": "2026-10-10T14:36:06-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1683,7 +1683,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-09T16:49:11-04:00",
+      "employer_updated_at": "2026-10-10T14:38:46-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2563,34 +2563,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "13613cf7d3b81001628eac750c750000",
-      "requisition_id": "R10254990",
-      "title": "2027 - Associate Cyber Software Engineer - Cincinnati OH",
-      "location": "United States-Ohio-Cincinnati",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-07",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-07T20:06:13+00:00",
-      "tracker_published_at": "2026-10-07T20:06:13+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2746,6 +2718,34 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "13613cf7d3b81001628eac750c750000",
+      "requisition_id": "R10254990",
+      "title": "2027 - Associate Cyber Software Engineer - Cincinnati OH",
+      "location": "United States-Ohio-Cincinnati",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-07",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-07T20:06:13+00:00",
+      "tracker_published_at": "2026-10-07T20:06:13+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -8672,5 +8672,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-10T13:51:28+00:00"
+  "snapshot_at": "2026-10-10T21:40:40+00:00"
 }

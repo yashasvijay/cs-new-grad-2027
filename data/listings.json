@@ -27,6 +27,32 @@
       "secondary_reasons": []
     },
     {
+      "id": "7ec12bdf4bc81044b5c8ef9377b60000",
+      "requisition_id": "JR2027431",
+      "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "employment_type": "Full time",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-09",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+      ],
+      "employer": "Nvidia",
+      "employer_id": "nvidia",
+      "first_seen_at": "2026-10-10T01:17:33+00:00",
+      "tracker_published_at": "2026-10-10T01:17:33+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "c++ software engineer, infrastructure tools - new college grad 2027",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
+    },
+    {
       "id": "8879673002",
       "requisition_id": "R9303",
       "title": "Software Engineer I",
@@ -8644,5 +8670,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-09T21:41:20+00:00"
+  "snapshot_at": "2026-10-10T01:17:33+00:00"
 }

@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-10-10T07:17:23+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|
@@ -9,7 +9,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Abbott Laboratories | planned | not checked | True |
 | AbbVie | planned | not checked | True |
 | Accenture | planned | not checked | True |
-| Adobe Inc. | monitored | healthy | False |
+| Adobe Inc. | monitored | failed | True |
 | Advanced Micro Devices | planned | not checked | True |
 | AES Corporation | planned | not checked | True |
 | Aflac | planned | not checked | True |
@@ -37,7 +37,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Ametek | planned | not checked | True |
 | Amgen | planned | not checked | True |
 | Amphenol | planned | not checked | True |
-| Analog Devices | monitored | healthy | False |
+| Analog Devices | monitored | failed | True |
 | Anduril | monitored | healthy | False |
 | Anthropic | monitored | healthy | False |
 | Aon plc | planned | not checked | True |
@@ -46,7 +46,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Appian | monitored | healthy | False |
 | Apple Inc. | planned | not checked | True |
 | Applied Intuition | monitored | healthy | False |
-| Applied Materials | monitored | healthy | False |
+| Applied Materials | monitored | failed | True |
 | AppLovin | planned | not checked | True |
 | Aptiv | planned | not checked | True |
 | Arch Capital Group | planned | not checked | True |
@@ -76,7 +76,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Block, Inc. | planned | not checked | True |
 | Bloom Energy | planned | not checked | True |
 | BNY Mellon | planned | not checked | True |
-| Boeing | monitored | healthy | False |
+| Boeing | monitored | failed | True |
 | Booking Holdings | planned | not checked | True |
 | Boston Scientific | planned | not checked | True |
 | Bristol Myers Squibb | planned | not checked | True |
@@ -112,7 +112,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Chipotle Mexican Grill | planned | not checked | True |
 | Chubb Limited | planned | not checked | True |
 | Church & Dwight | planned | not checked | True |
-| Ciena | monitored | healthy | False |
+| Ciena | monitored | failed | True |
 | Cigna | planned | not checked | True |
 | Cincinnati Financial | planned | not checked | True |
 | Cintas | planned | not checked | True |
@@ -235,7 +235,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Generac | planned | not checked | True |
 | General Dynamics | planned | not checked | True |
 | General Mills | planned | not checked | True |
-| General Motors | monitored | healthy | False |
+| General Motors | monitored | failed | True |
 | Genuine Parts Company | planned | not checked | True |
 | Gilead Sciences | planned | not checked | True |
 | Global Payments | planned | not checked | True |
@@ -281,7 +281,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Intuitive Surgical | planned | not checked | True |
 | Invesco | planned | not checked | True |
 | Invitation Homes | planned | not checked | True |
-| IQVIA | monitored | healthy | False |
+| IQVIA | monitored | failed | True |
 | Iron Mountain | planned | not checked | True |
 | IXL Learning | monitored | healthy | False |
 | J.B. Hunt | planned | not checked | True |
@@ -307,7 +307,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Labcorp | planned | not checked | True |
 | Lam Research | planned | not checked | True |
 | Las Vegas Sands | planned | not checked | True |
-| Leidos | monitored | healthy | False |
+| Leidos | monitored | failed | True |
 | Lennar | planned | not checked | True |
 | Lennox International | planned | not checked | True |
 | Lilly (Eli) | planned | not checked | True |
@@ -326,7 +326,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Martin Marietta Materials | planned | not checked | True |
 | Marvell Technology | planned | not checked | True |
 | Masco | planned | not checked | True |
-| Mastercard | monitored | healthy | False |
+| Mastercard | monitored | failed | True |
 | McCormick & Company | planned | not checked | True |
 | McDonald's | planned | not checked | True |
 | McKesson Corporation | planned | not checked | True |
@@ -364,13 +364,13 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Nordson Corporation | planned | not checked | True |
 | Norfolk Southern | planned | not checked | True |
 | Northern Trust | planned | not checked | True |
-| Northrop Grumman | monitored | healthy | False |
+| Northrop Grumman | monitored | failed | True |
 | Norwegian Cruise Line Holdings | planned | not checked | True |
 | Notion | monitored | healthy | False |
 | NRG Energy | planned | not checked | True |
 | Nucor | planned | not checked | True |
 | Nuro | monitored | healthy | False |
-| Nvidia | monitored | healthy | False |
+| Nvidia | monitored | failed | True |
 | NVR, Inc. | planned | not checked | True |
 | NXP Semiconductors | planned | not checked | True |
 | O'Reilly Automotive | planned | not checked | True |
@@ -436,7 +436,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Roper Technologies | planned | not checked | True |
 | Ross Stores | planned | not checked | True |
 | Royal Caribbean Group | planned | not checked | True |
-| RTX Corporation | monitored | healthy | False |
+| RTX Corporation | monitored | failed | True |
 | S&P Global | planned | not checked | True |
 | Salesforce | planned | not checked | True |
 | Sandisk | planned | not checked | True |
@@ -461,7 +461,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Southwest Airlines | planned | not checked | True |
 | Stanley Black & Decker | planned | not checked | True |
 | Starbucks | planned | not checked | True |
-| State Street Corporation | monitored | healthy | False |
+| State Street Corporation | monitored | failed | True |
 | Steel Dynamics | planned | not checked | True |
 | Steris | planned | not checked | True |
 | Stripe | monitored | healthy | False |
@@ -519,7 +519,7 @@ Snapshot: 2026-10-10T01:17:33+00:00. Planned employers are not monitored. Curren
 | Vertiv | planned | not checked | True |
 | Viatris | planned | not checked | True |
 | Vici Properties | planned | not checked | True |
-| Visa Inc. | monitored | healthy | False |
+| Visa Inc. | monitored | failed | True |
 | Vistra Corp. | planned | not checked | True |
 | Vivmark Residential | planned | not checked | True |
 | Vulcan Materials Company | planned | not checked | True |

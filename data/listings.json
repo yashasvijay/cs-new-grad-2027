@@ -27,6 +27,32 @@
       "secondary_reasons": []
     },
     {
+      "id": "d7c48e10e81b1036797856cbbcbb0000",
+      "requisition_id": "JR2027083",
+      "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
+      "location": "US, CA, Santa Clara; US, CA, Remote",
+      "employment_type": "Full time",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-12",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083"
+      ],
+      "employer": "Nvidia",
+      "employer_id": "nvidia",
+      "first_seen_at": "2026-10-12T23:14:34+00:00",
+      "tracker_published_at": "2026-10-12T23:14:34+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "deep learning software engineer, tensorrt performance - new college grad 2027",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
+    },
+    {
       "id": "93a4316fc85e10454e5f039d0ae70000",
       "requisition_id": "JR2027337",
       "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
@@ -230,6 +256,32 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "8011095003",
+      "requisition_id": "1825",
+      "title": "Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-05T16:42:09-04:00",
+      "employer_updated_at": "2026-10-12T14:30:23-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/idme/jobs/8011095003"
+      ],
+      "employer": "ID.me",
+      "employer_id": "id-me",
+      "first_seen_at": "2026-10-05T20:44:26+00:00",
+      "tracker_published_at": "2026-10-05T20:44:26+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "general_early_career",
       "secondary_reasons": []
@@ -505,32 +557,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "cbd9078c4151100163be7e664bff0000",
-      "requisition_id": "R-285985",
-      "title": "Data Engineer I, Launch Program 2027 – Arlington, VA, US",
-      "location": "Arlington, Virginia",
-      "employment_type": "Full time",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-30",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"
-      ],
-      "employer": "Mastercard",
-      "employer_id": "mastercard",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "data engineer i, launch program 2027 – arlington, va, us",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
       "requisition_id": null,
       "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
@@ -635,32 +661,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "d5922f8f173b1001b544bf6399dc0000",
-      "requisition_id": "R-287642",
-      "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
-      "location": "O'Fallon, Missouri",
-      "employment_type": "Full time",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-24",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
-      ],
-      "employer": "Mastercard",
-      "employer_id": "mastercard",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "site reliability engineer i, launch program 2027 – st. louis, mo, us",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "8227548",
       "requisition_id": null,
       "title": "Software Engineer - New Grad",
@@ -721,7 +721,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-23T13:55:35-04:00",
-      "employer_updated_at": "2026-10-06T18:37:39-04:00",
+      "employer_updated_at": "2026-10-12T17:06:11-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
@@ -1085,7 +1085,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T11:59:59-04:00",
-      "employer_updated_at": "2026-10-06T18:37:39-04:00",
+      "employer_updated_at": "2026-10-12T17:06:11-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
@@ -1449,7 +1449,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-12T02:36:38-04:00",
+      "employer_updated_at": "2026-10-12T14:36:54-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1709,7 +1709,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-12T02:39:30-04:00",
+      "employer_updated_at": "2026-10-12T18:50:28-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2617,6 +2617,62 @@
       ]
     },
     {
+      "id": "cbd9078c4151100163be7e664bff0000",
+      "requisition_id": "R-285985",
+      "title": "Data Engineer I, Launch Program 2027 – Arlington, VA, US",
+      "location": "Arlington, Virginia",
+      "employment_type": "Full time",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-30",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"
+      ],
+      "employer": "Mastercard",
+      "employer_id": "mastercard",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "data engineer i, launch program 2027 – arlington, va, us",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "d5922f8f173b1001b544bf6399dc0000",
+      "requisition_id": "R-287642",
+      "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
+      "location": "O'Fallon, Missouri",
+      "employment_type": "Full time",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-24",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
+      ],
+      "employer": "Mastercard",
+      "employer_id": "mastercard",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "site reliability engineer i, launch program 2027 – st. louis, mo, us",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2820,34 +2876,6 @@
       "employer_id": "id-me",
       "first_seen_at": "2026-10-05T23:29:37+00:00",
       "tracker_published_at": "2026-10-05T23:29:37+00:00",
-      "status": "closed",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "closed"
-      ]
-    },
-    {
-      "id": "8011095003",
-      "requisition_id": "1825",
-      "title": "Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)",
-      "location": "Mountain View, California, United States",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-05T16:42:09-04:00",
-      "employer_updated_at": "2026-10-05T16:42:09-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/idme/jobs/8011095003"
-      ],
-      "employer": "ID.me",
-      "employer_id": "id-me",
-      "first_seen_at": "2026-10-05T20:44:26+00:00",
-      "tracker_published_at": "2026-10-05T20:44:26+00:00",
       "status": "closed",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
@@ -8726,5 +8754,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-12T16:40:40+00:00"
+  "snapshot_at": "2026-10-12T23:14:34+00:00"
 }

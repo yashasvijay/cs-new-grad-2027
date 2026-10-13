@@ -817,32 +817,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "5211582007",
-      "requisition_id": "294",
-      "title": "Software Engineer, New Grad (2027)",
-      "location": "San Francisco",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-18T11:45:25-04:00",
-      "employer_updated_at": "2026-09-23T12:49:24-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/togetherai/jobs/5211582007"
-      ],
-      "employer": "Together AI",
-      "employer_id": "together-ai",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, new grad (2027)",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "1ec29cec-d18f-417d-adc6-31adda87c687",
       "requisition_id": null,
       "title": "2027 New Graduate - Software Engineer",
@@ -1423,7 +1397,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-12T14:36:54-04:00",
+      "employer_updated_at": "2026-10-13T02:37:15-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1683,7 +1657,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-12T18:50:28-04:00",
+      "employer_updated_at": "2026-10-13T02:40:14-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2591,55 +2565,27 @@
       ]
     },
     {
-      "id": "cbd9078c4151100163be7e664bff0000",
-      "requisition_id": "R-285985",
-      "title": "Data Engineer I, Launch Program 2027 – Arlington, VA, US",
-      "location": "Arlington, Virginia",
-      "employment_type": "Full time",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-      "source": "workday",
+      "id": "5211582007",
+      "requisition_id": "294",
+      "title": "Software Engineer, New Grad (2027)",
+      "location": "San Francisco",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
       "employer_posted_at": null,
-      "employer_published_at": "2026-09-30",
-      "employer_updated_at": null,
+      "employer_published_at": "2026-09-18T11:45:25-04:00",
+      "employer_updated_at": "2026-09-23T12:49:24-04:00",
+      "source": "greenhouse",
       "source_links": [
-        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"
+        "https://job-boards.greenhouse.io/togetherai/jobs/5211582007"
       ],
-      "employer": "Mastercard",
-      "employer_id": "mastercard",
+      "employer": "Together AI",
+      "employer_id": "together-ai",
       "first_seen_at": "2026-10-05T19:51:59+00:00",
       "tracker_published_at": "2026-10-05T19:51:59+00:00",
       "status": "missing — verification pending",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "data engineer i, launch program 2027 – arlington, va, us",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "d5922f8f173b1001b544bf6399dc0000",
-      "requisition_id": "R-287642",
-      "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
-      "location": "O'Fallon, Missouri",
-      "employment_type": "Full time",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-24",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
-      ],
-      "employer": "Mastercard",
-      "employer_id": "mastercard",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "site reliability engineer i, launch program 2027 – st. louis, mo, us",
+      "evidence": "software engineer, new grad (2027)",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -2917,6 +2863,34 @@
       ]
     },
     {
+      "id": "cbd9078c4151100163be7e664bff0000",
+      "requisition_id": "R-285985",
+      "title": "Data Engineer I, Launch Program 2027 – Arlington, VA, US",
+      "location": "Arlington, Virginia",
+      "employment_type": "Full time",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-30",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"
+      ],
+      "employer": "Mastercard",
+      "employer_id": "mastercard",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "data engineer i, launch program 2027 – arlington, va, us",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
       "id": "5236296007",
       "requisition_id": "14203",
       "title": "Systems Engineer, Space Emerging Talent",
@@ -2938,6 +2912,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "early career",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "d5922f8f173b1001b544bf6399dc0000",
+      "requisition_id": "R-287642",
+      "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
+      "location": "O'Fallon, Missouri",
+      "employment_type": "Full time",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-24",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
+      ],
+      "employer": "Mastercard",
+      "employer_id": "mastercard",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "site reliability engineer i, launch program 2027 – st. louis, mo, us",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8756,5 +8758,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-13T03:37:35+00:00"
+  "snapshot_at": "2026-10-13T11:06:09+00:00"
 }

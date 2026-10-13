@@ -209,32 +209,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "9fde8d03-9f47-44ac-bd14-53829722c06d",
-      "requisition_id": null,
-      "title": "Software Engineer | Early Careers, 2027 Start",
-      "location": "New York City",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-07T21:25:01.579+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
-      ],
-      "employer": "Arch",
-      "employer_id": "arch",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "graduating between december 2026 and august 2027",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "5257769007",
       "requisition_id": "1018",
       "title": "Software Engineer I to III, Digital Engineering ",
@@ -2589,27 +2563,27 @@
       "secondary_reasons": []
     },
     {
-      "id": "c734969e4317102c5a92d84557820000",
-      "requisition_id": "01872447",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
-      "employment_type": "Full time",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447",
-      "source": "workday",
+      "id": "9fde8d03-9f47-44ac-bd14-53829722c06d",
+      "requisition_id": null,
+      "title": "Software Engineer | Early Careers, 2027 Start",
+      "location": "New York City",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
       "employer_posted_at": null,
-      "employer_published_at": "2026-10-06",
+      "employer_published_at": "2026-10-07T21:25:01.579+00:00",
       "employer_updated_at": null,
+      "source": "ashby",
       "source_links": [
-        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447"
+        "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
       ],
-      "employer": "RTX Corporation",
-      "employer_id": "rtx-corporation",
+      "employer": "Arch",
+      "employer_id": "arch",
       "first_seen_at": "2026-10-05T19:51:59+00:00",
       "tracker_published_at": "2026-10-05T19:51:59+00:00",
       "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
+      "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "engineer i",
+      "evidence": "graduating between december 2026 and august 2027",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -2852,6 +2826,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "c734969e4317102c5a92d84557820000",
+      "requisition_id": "01872447",
+      "title": "Software Engineer I  (Onsite)",
+      "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
+      "employment_type": "Full time",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-06",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447"
+      ],
+      "employer": "RTX Corporation",
+      "employer_id": "rtx-corporation",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8754,5 +8756,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-12T23:14:34+00:00"
+  "snapshot_at": "2026-10-13T03:37:35+00:00"
 }

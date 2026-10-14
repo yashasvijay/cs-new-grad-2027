@@ -1423,7 +1423,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-13T20:05:20-04:00",
+      "employer_updated_at": "2026-10-14T02:36:29-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1683,7 +1683,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-13T20:05:20-04:00",
+      "employer_updated_at": "2026-10-14T02:39:11-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2563,34 +2563,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "c98beb10e67d10006d1d873643100000",
-      "requisition_id": "R2625914",
-      "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
-      "location": "Gloucester,MA",
-      "employment_type": "Full time",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-20",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
-      ],
-      "employer": "Applied Materials",
-      "employer_id": "applied-materials",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "2027 software engineer new college grad (bachelor's) - gloucester, ma",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2979,6 +2951,34 @@
       "eligibility": "2027 start — graduation by December 2026",
       "employment": "full-time",
       "evidence": "Explicitly requested February 2027 cohort; employer graduation cutoff December 2026",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "c98beb10e67d10006d1d873643100000",
+      "requisition_id": "R2625914",
+      "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
+      "location": "Gloucester,MA",
+      "employment_type": "Full time",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-20",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
+      ],
+      "employer": "Applied Materials",
+      "employer_id": "applied-materials",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 software engineer new college grad (bachelor's) - gloucester, ma",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8784,5 +8784,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-14T01:35:04+00:00"
+  "snapshot_at": "2026-10-14T06:41:18+00:00"
 }

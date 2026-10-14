@@ -87,6 +87,7 @@ General new-grad and early-career postings; 2027 eligibility is unconfirmed.
 <table>
 <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Notes</th><th width="100">Apply</th><th>Released</th></tr></thead>
 <tbody>
+<tr><td><strong>Twitch</strong></td><td>Software Engineer I ⚠️ </td><td>San Francisco, CA</td><td></td><td width=100 nowrap><a href="https://job-boards.greenhouse.io/twitch/jobs/8887222002"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td><span title="Released: 2026-10-14">Released today</span></td></tr>
 <tr><td><strong>Twitch</strong></td><td>Software Engineer I ⚠️ </td><td>San Francisco, CA</td><td></td><td width=100 nowrap><a href="https://job-boards.greenhouse.io/twitch/jobs/8879673002"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td><span title="Released: 2026-10-08">Released 6 days ago</span></td></tr>
 <tr><td><strong>IXL Learning</strong></td><td>Software Engineer, New Grad </td><td>Raleigh, NC</td><td></td><td width=100 nowrap><a href="https://www.ixl.com/company/jobs?gh_jid=8862049002"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td><span title="Released: 2026-10-07">Released 7 days ago</span></td></tr>
 <tr><td><strong>IXL Learning</strong></td><td>Software Engineer, New Grad </td><td>San Mateo, CA</td><td></td><td width=100 nowrap><a href="https://www.ixl.com/company/jobs?gh_jid=8862043002"><img src="assets/apply.svg" width="100" height="32" alt="Apply"></a><br><sub>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</sub></td><td><span title="Released: 2026-10-07">Released 7 days ago</span></td></tr>
@@ -211,7 +212,7 @@ Jobs refresh on a best-effort five-minute GitHub Actions schedule; events are ma
 
 📝 Manual checks expire after 48 hours. ⚠️ Full-time status is unverified. See the methodology for closure and eligibility rules.
 
-Listing snapshot: **2026-10-14 06:41 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a>.
+Listing snapshot: **2026-10-14 17:28 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a>.
 
 [![Update jobs](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml/badge.svg)](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml)
 

@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "8887222002",
+      "requisition_id": "R9304",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-14T12:31:18-04:00",
+      "employer_updated_at": "2026-10-14T12:31:18-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-10-14T17:28:44+00:00",
+      "tracker_published_at": "2026-10-14T17:28:44+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "d7c48e10e81b1036d58c9ab8bc740000",
       "requisition_id": "JR2026744",
       "title": "SoC Software Engineer - New College Grad 2027",
@@ -8784,5 +8810,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-14T06:41:18+00:00"
+  "snapshot_at": "2026-10-14T17:28:44+00:00"
 }

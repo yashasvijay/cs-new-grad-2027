@@ -157,32 +157,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "7ec12bdf4bc81044b5c8ef9377b60000",
-      "requisition_id": "JR2027431",
-      "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "employment_type": "Full time",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-09",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
-      ],
-      "employer": "Nvidia",
-      "employer_id": "nvidia",
-      "first_seen_at": "2026-10-10T01:17:33+00:00",
-      "tracker_published_at": "2026-10-10T01:17:33+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "c++ software engineer, infrastructure tools - new college grad 2027",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "8879673002",
       "requisition_id": "R9303",
       "title": "Software Engineer I",
@@ -295,7 +269,7 @@
       "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-05T19:12:37-04:00",
-      "employer_updated_at": "2026-10-14T14:48:27-04:00",
+      "employer_updated_at": "2026-10-14T18:50:05-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/idme/jobs/8011089003"
@@ -321,7 +295,7 @@
       "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-05T16:42:09-04:00",
-      "employer_updated_at": "2026-10-14T14:48:27-04:00",
+      "employer_updated_at": "2026-10-14T18:50:05-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/idme/jobs/8011095003"
@@ -947,32 +921,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "b5e81eae-06f9-4798-8988-2d06ca936dbc",
-      "requisition_id": null,
-      "title": "Software Engineer - New Grad (2027)",
-      "location": "Foster City, CA",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-09T18:23:24.396+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
-      ],
-      "employer": "Replit",
-      "employer_id": "replit",
-      "first_seen_at": "2026-10-05T17:48:27+00:00",
-      "tracker_published_at": "2026-10-05T17:48:27+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer - new grad (2027)",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "requisition_id": null,
       "title": "Software Engineer, New Grad 2027",
@@ -1033,7 +981,7 @@
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-08T09:45:10-04:00",
-      "employer_updated_at": "2026-10-14T14:48:26-04:00",
+      "employer_updated_at": "2026-10-14T18:50:05-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003"
@@ -1059,7 +1007,7 @@
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T16:04:15-04:00",
-      "employer_updated_at": "2026-10-14T14:48:26-04:00",
+      "employer_updated_at": "2026-10-14T18:50:05-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
@@ -2561,6 +2509,62 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "7ec12bdf4bc81044b5c8ef9377b60000",
+      "requisition_id": "JR2027431",
+      "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "employment_type": "Full time",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-09",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+      ],
+      "employer": "Nvidia",
+      "employer_id": "nvidia",
+      "first_seen_at": "2026-10-10T01:17:33+00:00",
+      "tracker_published_at": "2026-10-10T01:17:33+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "c++ software engineer, infrastructure tools - new college grad 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "requisition_id": null,
+      "title": "Software Engineer - New Grad (2027)",
+      "location": "Foster City, CA",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-09T18:23:24.396+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
+      ],
+      "employer": "Replit",
+      "employer_id": "replit",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer - new grad (2027)",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "8095181",
@@ -8812,5 +8816,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-14T20:55:22+00:00"
+  "snapshot_at": "2026-10-14T23:44:20+00:00"
 }

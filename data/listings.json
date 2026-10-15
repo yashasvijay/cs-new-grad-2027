@@ -139,7 +139,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-09T12:28:14-04:00",
-      "employer_updated_at": "2026-10-09T12:28:14-04:00",
+      "employer_updated_at": "2026-10-15T17:16:32-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
@@ -333,32 +333,6 @@
       "status": "open",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
-      "id": "744000153279380",
-      "requisition_id": "JB0076058",
-      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
-      "location": "Mountain View, California, United States",
-      "employment_type": "Full-time",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
-      "source": "smartrecruiters",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-02T22:41:42.731Z",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true"
-      ],
-      "employer": "ServiceNow",
-      "employer_id": "servicenow",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
       "evidence": "new grad",
       "review_required": true,
       "listing_section": "general_early_career",
@@ -773,7 +747,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-22T14:27:15-04:00",
-      "employer_updated_at": "2026-10-05T19:17:56-04:00",
+      "employer_updated_at": "2026-10-15T17:06:48-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
@@ -1085,7 +1059,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-02T15:33:53-04:00",
-      "employer_updated_at": "2026-10-05T19:17:56-04:00",
+      "employer_updated_at": "2026-10-15T17:07:36-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -1371,7 +1345,7 @@
       "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-19T18:58:18-04:00",
-      "employer_updated_at": "2026-10-15T16:24:24-04:00",
+      "employer_updated_at": "2026-10-15T16:46:16-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"
@@ -1921,7 +1895,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "employer_posted_at": null,
       "employer_published_at": "2026-06-11T12:31:23-04:00",
-      "employer_updated_at": "2026-10-05T19:17:56-04:00",
+      "employer_updated_at": "2026-10-15T17:15:18-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
@@ -2511,27 +2485,27 @@
       "secondary_reasons": []
     },
     {
-      "id": "8887222002",
-      "requisition_id": "R9304",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "id": "744000153279380",
+      "requisition_id": "JB0076058",
+      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "Full-time",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
+      "source": "smartrecruiters",
       "employer_posted_at": null,
-      "employer_published_at": "2026-10-14T12:31:18-04:00",
-      "employer_updated_at": "2026-10-14T12:31:18-04:00",
-      "source": "greenhouse",
+      "employer_published_at": "2026-10-02T22:41:42.731Z",
+      "employer_updated_at": null,
       "source_links": [
-        "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
+        "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true"
       ],
-      "employer": "Twitch",
-      "employer_id": "twitch",
-      "first_seen_at": "2026-10-14T17:28:44+00:00",
-      "tracker_published_at": "2026-10-14T17:28:44+00:00",
+      "employer": "ServiceNow",
+      "employer_id": "servicenow",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
       "status": "missing — verification pending",
       "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -2694,6 +2668,34 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "8887222002",
+      "requisition_id": "R9304",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-14T12:31:18-04:00",
+      "employer_updated_at": "2026-10-14T12:31:18-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-10-14T17:28:44+00:00",
+      "tracker_published_at": "2026-10-14T17:28:44+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -8844,5 +8846,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-15T20:24:22+00:00"
+  "snapshot_at": "2026-10-15T23:10:53+00:00"
 }

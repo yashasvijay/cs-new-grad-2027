@@ -1397,7 +1397,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-14T14:37:38-04:00",
+      "employer_updated_at": "2026-10-15T02:36:26-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1657,7 +1657,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-14T14:40:42-04:00",
+      "employer_updated_at": "2026-10-15T02:39:10-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2511,62 +2511,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "7ec12bdf4bc81044b5c8ef9377b60000",
-      "requisition_id": "JR2027431",
-      "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "employment_type": "Full time",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-09",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
-      ],
-      "employer": "Nvidia",
-      "employer_id": "nvidia",
-      "first_seen_at": "2026-10-10T01:17:33+00:00",
-      "tracker_published_at": "2026-10-10T01:17:33+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "c++ software engineer, infrastructure tools - new college grad 2027",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "b5e81eae-06f9-4798-8988-2d06ca936dbc",
-      "requisition_id": null,
-      "title": "Software Engineer - New Grad (2027)",
-      "location": "Foster City, CA",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-09T18:23:24.396+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
-      ],
-      "employer": "Replit",
-      "employer_id": "replit",
-      "first_seen_at": "2026-10-05T17:48:27+00:00",
-      "tracker_published_at": "2026-10-05T17:48:27+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer - new grad (2027)",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2722,6 +2666,34 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "7ec12bdf4bc81044b5c8ef9377b60000",
+      "requisition_id": "JR2027431",
+      "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "employment_type": "Full time",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-09",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+      ],
+      "employer": "Nvidia",
+      "employer_id": "nvidia",
+      "first_seen_at": "2026-10-10T01:17:33+00:00",
+      "tracker_published_at": "2026-10-10T01:17:33+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "c++ software engineer, infrastructure tools - new college grad 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -3043,6 +3015,34 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 full-time software engineer rotational new graduate",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "requisition_id": null,
+      "title": "Software Engineer - New Grad (2027)",
+      "location": "Foster City, CA",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-09T18:23:24.396+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
+      ],
+      "employer": "Replit",
+      "employer_id": "replit",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer - new grad (2027)",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8816,5 +8816,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-15T01:53:24+00:00"
+  "snapshot_at": "2026-10-15T06:54:10+00:00"
 }

@@ -2567,34 +2567,6 @@
       ]
     },
     {
-      "id": "8095181",
-      "requisition_id": "2067",
-      "title": "Software Engineer I- User Systems",
-      "location": "Boston, MA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-03T16:36:17-04:00",
-      "employer_updated_at": "2026-08-03T16:37:05-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
-      ],
-      "employer": "SimpliSafe",
-      "employer_id": "simplisafe",
-      "first_seen_at": "2026-10-05T17:48:27+00:00",
-      "tracker_published_at": "2026-10-05T17:48:27+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -3211,6 +3183,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8095181",
+      "requisition_id": "2067",
+      "title": "Software Engineer I- User Systems",
+      "location": "Boston, MA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-03T16:36:17-04:00",
+      "employer_updated_at": "2026-08-03T16:37:05-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
+      ],
+      "employer": "SimpliSafe",
+      "employer_id": "simplisafe",
+      "first_seen_at": "2026-10-05T17:48:27+00:00",
+      "tracker_published_at": "2026-10-05T17:48:27+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8816,5 +8816,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-14T23:44:20+00:00"
+  "snapshot_at": "2026-10-15T01:53:24+00:00"
 }

@@ -1,27 +1,27 @@
 {
   "jobs": [
     {
-      "id": "8887222002",
-      "requisition_id": "R9304",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "id": "40659fe7-545e-4b08-b6d7-2567b18b9ed3",
+      "requisition_id": null,
+      "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
+      "location": "Remote - Multiple Locations; United States; Canada",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3",
       "employer_posted_at": null,
-      "employer_published_at": "2026-10-14T12:31:18-04:00",
-      "employer_updated_at": "2026-10-14T12:31:18-04:00",
-      "source": "greenhouse",
+      "employer_published_at": "2026-10-15T16:18:53.230+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
       "source_links": [
-        "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
+        "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3"
       ],
-      "employer": "Twitch",
-      "employer_id": "twitch",
-      "first_seen_at": "2026-10-14T17:28:44+00:00",
-      "tracker_published_at": "2026-10-14T17:28:44+00:00",
+      "employer": "Quora",
+      "employer_id": "quora",
+      "first_seen_at": "2026-10-15T17:17:16+00:00",
+      "tracker_published_at": "2026-10-15T17:17:16+00:00",
       "status": "open",
       "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "general_early_career",
       "secondary_reasons": []
@@ -2509,6 +2509,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "8887222002",
+      "requisition_id": "R9304",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-14T12:31:18-04:00",
+      "employer_updated_at": "2026-10-14T12:31:18-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-10-14T17:28:44+00:00",
+      "tracker_published_at": "2026-10-14T17:28:44+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "25999",
@@ -8816,5 +8844,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-15T06:54:10+00:00"
+  "snapshot_at": "2026-10-15T17:17:16+00:00"
 }

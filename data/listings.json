@@ -27,6 +27,32 @@
       "secondary_reasons": []
     },
     {
+      "id": "eca8e26c5a071001f9472b03db250000",
+      "requisition_id": "R10256411",
+      "title": "2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD",
+      "location": "United States-Maryland-Baltimore",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-16",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-16T18:54:28+00:00",
+      "tracker_published_at": "2026-10-16T18:54:28+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "40659fe7-545e-4b08-b6d7-2567b18b9ed3",
       "requisition_id": null,
       "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
@@ -1397,7 +1423,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-16T02:36:55-04:00",
+      "employer_updated_at": "2026-10-16T14:37:13-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1709,7 +1735,7 @@
       "url": "https://job-boards.greenhouse.io/appian/jobs/8035372",
       "employer_posted_at": null,
       "employer_published_at": "2026-07-23T14:36:38-04:00",
-      "employer_updated_at": "2026-09-29T09:25:21-04:00",
+      "employer_updated_at": "2026-10-16T14:24:40-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/appian/jobs/8035372"
@@ -1947,7 +1973,7 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
       "employer_posted_at": null,
       "employer_published_at": "2026-05-13T08:21:01-04:00",
-      "employer_updated_at": "2026-10-06T06:26:33-04:00",
+      "employer_updated_at": "2026-10-16T12:03:14-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
@@ -8872,5 +8898,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-16T11:14:45+00:00"
+  "snapshot_at": "2026-10-16T18:54:28+00:00"
 }

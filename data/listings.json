@@ -53,6 +53,32 @@
       "secondary_reasons": []
     },
     {
+      "id": "af71bf44182810020771f340f7580000",
+      "requisition_id": "R10256499",
+      "title": "2027 Associate/Software Engineer Pathways Dulles VA",
+      "location": "United States-Virginia-Dulles",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-16",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-16T21:55:09+00:00",
+      "tracker_published_at": "2026-10-16T21:55:09+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "40659fe7-545e-4b08-b6d7-2567b18b9ed3",
       "requisition_id": null,
       "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
@@ -8898,5 +8924,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-16T18:54:28+00:00"
+  "snapshot_at": "2026-10-16T21:55:09+00:00"
 }

@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "5238471007",
+      "requisition_id": "327",
+      "title": "Hardware Security Engineer, New Grad (2027)",
+      "location": "San Francisco",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-16T00:32:37-04:00",
+      "employer_updated_at": "2026-10-16T00:32:37-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/togetherai/jobs/5238471007"
+      ],
+      "employer": "Together AI",
+      "employer_id": "together-ai",
+      "first_seen_at": "2026-10-16T06:03:11+00:00",
+      "tracker_published_at": "2026-10-16T06:03:11+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "hardware security engineer, new grad (2027)",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
+    },
+    {
       "id": "40659fe7-545e-4b08-b6d7-2567b18b9ed3",
       "requisition_id": null,
       "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
@@ -2485,34 +2511,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "744000153279380",
-      "requisition_id": "JB0076058",
-      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
-      "location": "Mountain View, California, United States",
-      "employment_type": "Full-time",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
-      "source": "smartrecruiters",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-02T22:41:42.731Z",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true"
-      ],
-      "employer": "ServiceNow",
-      "employer_id": "servicenow",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2804,6 +2802,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "744000153279380",
+      "requisition_id": "JB0076058",
+      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "Full-time",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
+      "source": "smartrecruiters",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-02T22:41:42.731Z",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true"
+      ],
+      "employer": "ServiceNow",
+      "employer_id": "servicenow",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8846,5 +8872,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-16T01:22:22+00:00"
+  "snapshot_at": "2026-10-16T06:03:11+00:00"
 }

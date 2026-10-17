@@ -3511,8 +3511,8 @@
       "id": "adobe-inc",
       "name": "Adobe Inc.",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "adobe.wd5.myworkdayjobs.com",
@@ -3524,7 +3524,7 @@
         "provenance": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
         "scope": "2027 keyword search on this board."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "advanced-micro-devices",
@@ -3773,8 +3773,8 @@
       "id": "analog-devices",
       "name": "Analog Devices",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "analogdevices.wd1.myworkdayjobs.com",
@@ -3786,7 +3786,7 @@
         "provenance": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "anduril",
@@ -3880,8 +3880,8 @@
       "id": "applied-materials",
       "name": "Applied Materials",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "amat.wd1.myworkdayjobs.com",
@@ -3893,7 +3893,7 @@
         "provenance": "https://amat.wd1.myworkdayjobs.com/External",
         "scope": "2027 keyword search on this board."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "applovin",
@@ -4160,8 +4160,8 @@
       "id": "boeing",
       "name": "Boeing",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "boeing.wd1.myworkdayjobs.com",
@@ -4173,7 +4173,7 @@
         "provenance": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "booking-holdings",
@@ -4287,8 +4287,8 @@
       "id": "capital-one",
       "name": "Capital One",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "capitalone.wd12.myworkdayjobs.com",
@@ -4302,7 +4302,7 @@
         "provenance": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
         "scope": "Configured keyword searches on this board; other boards and untagged postings may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "cardinal-health",
@@ -4514,8 +4514,8 @@
       "id": "ciena",
       "name": "Ciena",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "ciena.wd5.myworkdayjobs.com",
@@ -4527,7 +4527,7 @@
         "provenance": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "cigna",
@@ -5675,8 +5675,8 @@
       "id": "general-motors",
       "name": "General Motors",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "generalmotors.wd5.myworkdayjobs.com",
@@ -5688,7 +5688,7 @@
         "provenance": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "genuine-parts-company",
@@ -6118,8 +6118,8 @@
       "id": "iqvia",
       "name": "IQVIA",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "iqvia.wd1.myworkdayjobs.com",
@@ -6131,7 +6131,7 @@
         "provenance": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Atlanta-GA/MedTech-Field-Service-Software-Tech-Entry-level---Southeast-US_R1569834",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "iron-mountain",
@@ -6366,8 +6366,8 @@
       "id": "leidos",
       "name": "Leidos",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "leidos.wd5.myworkdayjobs.com",
@@ -6379,7 +6379,7 @@
         "provenance": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Jr-Software-Engineer_R-00175979",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "lennar",
@@ -6547,8 +6547,8 @@
       "id": "mastercard",
       "name": "Mastercard",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "mastercard.wd1.myworkdayjobs.com",
@@ -6560,7 +6560,7 @@
         "provenance": "https://mastercard.wd1.myworkdayjobs.com/Campus",
         "scope": "Configured keyword searches on this board; other boards and untagged postings may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "mccormick-company",
@@ -6940,8 +6940,8 @@
       "id": "northrop-grumman",
       "name": "Northrop Grumman",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "ngc.wd1.myworkdayjobs.com",
@@ -6953,7 +6953,7 @@
         "provenance": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "norwegian-cruise-line-holdings",
@@ -7012,8 +7012,8 @@
       "id": "nvidia",
       "name": "Nvidia",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "nvidia.wd5.myworkdayjobs.com",
@@ -7025,7 +7025,7 @@
         "provenance": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "nvr-inc",
@@ -7554,8 +7554,8 @@
       "id": "resmed",
       "name": "ResMed",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "resmed.wd3.myworkdayjobs.com",
@@ -7567,7 +7567,7 @@
         "provenance": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053889-1",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "revvity",
@@ -7662,8 +7662,8 @@
       "id": "rtx-corporation",
       "name": "RTX Corporation",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "globalhr.wd5.myworkdayjobs.com",
@@ -7675,7 +7675,7 @@
         "provenance": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "s-p-global",
@@ -7926,8 +7926,8 @@
       "id": "state-street-corporation",
       "name": "State Street Corporation",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "statestreet.wd1.myworkdayjobs.com",
@@ -7939,7 +7939,7 @@
         "provenance": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Software-Engineer_R-797359-2",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "steel-dynamics",
@@ -8478,8 +8478,8 @@
       "id": "visa-inc",
       "name": "Visa Inc.",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "visa.wd5.myworkdayjobs.com",
@@ -8493,7 +8493,7 @@
         "provenance": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers",
         "scope": "Configured keyword searches on this board; other boards and untagged postings may be missed."
       },
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": null
     },
     {
       "id": "vistra-corp",
@@ -8926,5 +8926,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-17T08:45:16+00:00"
+  "snapshot_at": "2026-10-17T12:28:31+00:00"
 }

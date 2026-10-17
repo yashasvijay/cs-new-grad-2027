@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-10-16T21:55:09+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-10-17T04:28:35+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|
@@ -89,7 +89,7 @@ Snapshot: 2026-10-16T21:55:09+00:00. Planned employers are not monitored. Curren
 | C.H. Robinson | planned | not checked | True |
 | Cadence Design Systems | planned | not checked | True |
 | Camden Property Trust | planned | not checked | True |
-| Capital One | monitored | healthy | False |
+| Capital One | monitored | failed | True |
 | Cardinal Health | planned | not checked | True |
 | Carnival Corporation | planned | not checked | True |
 | Carrier Global | planned | not checked | True |

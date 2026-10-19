@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "a012244e2f6b1000bcebd5c88de80000",
+      "requisition_id": "R10256623",
+      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
+      "location": "United States-Ohio-Beavercreek",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-19",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-19T19:49:15+00:00",
+      "tracker_published_at": "2026-10-19T19:49:15+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "af71bf44182810020771f340f7580000",
       "requisition_id": "R10256499",
       "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
@@ -1450,7 +1476,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-19T02:39:37-04:00",
+      "employer_updated_at": "2026-10-19T14:40:15-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1710,7 +1736,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-19T02:42:24-04:00",
+      "employer_updated_at": "2026-10-19T14:43:01-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -8925,5 +8951,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-19T14:01:57+00:00"
+  "snapshot_at": "2026-10-19T19:49:15+00:00"
 }

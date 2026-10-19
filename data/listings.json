@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "af71bf44182810020771f340f7580000",
+      "requisition_id": "R10256499",
+      "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+      "location": "United States-Maryland-Linthicum",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-19",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-16T21:55:09+00:00",
+      "tracker_published_at": "2026-10-16T21:55:09+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "5238471007",
       "requisition_id": "327",
       "title": "Hardware Security Engineer, New Grad (2027)",
@@ -2692,34 +2719,6 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
-      ]
-    },
-    {
-      "id": "af71bf44182810020771f340f7580000",
-      "requisition_id": "R10256499",
-      "title": "2027 Associate/Software Engineer Pathways Dulles VA",
-      "location": "United States-Virginia-Dulles",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-16",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-16T21:55:09+00:00",
-      "tracker_published_at": "2026-10-16T21:55:09+00:00",
-      "status": "closed",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "closed"
       ]
     },
     {
@@ -8926,5 +8925,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-19T06:44:01+00:00"
+  "snapshot_at": "2026-10-19T14:01:57+00:00"
 }

@@ -2512,6 +2512,32 @@
       ]
     },
     {
+      "id": "90329118-d9b7-4b96-acdf-13377e3196ac",
+      "requisition_id": null,
+      "title": "Software Engineer, New Grad - Query Engines",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"
+      ],
+      "employer": "Palantir Technologies",
+      "employer_id": "palantir-technologies",
+      "first_seen_at": "2026-10-20T01:50:03+00:00",
+      "tracker_published_at": "2026-10-20T01:50:03+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08",
       "requisition_id": null,
       "title": "Software Engineer (2027 start dates, in person)",
@@ -8951,5 +8977,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-19T19:49:15+00:00"
+  "snapshot_at": "2026-10-20T01:50:03+00:00"
 }

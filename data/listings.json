@@ -80,32 +80,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "eca8e26c5a071001f9472b03db250000",
-      "requisition_id": "R10256411",
-      "title": "2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD",
-      "location": "United States-Maryland-Baltimore",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-16",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-16T18:54:28+00:00",
-      "tracker_published_at": "2026-10-16T18:54:28+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "40659fe7-545e-4b08-b6d7-2567b18b9ed3",
       "requisition_id": null,
       "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
@@ -1476,7 +1450,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-19T14:40:15-04:00",
+      "employer_updated_at": "2026-10-20T02:39:59-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1736,7 +1710,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-19T14:43:01-04:00",
+      "employer_updated_at": "2026-10-20T02:42:40-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2614,6 +2588,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "eca8e26c5a071001f9472b03db250000",
+      "requisition_id": "R10256411",
+      "title": "2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD",
+      "location": "United States-Maryland-Baltimore",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-16",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-16T18:54:28+00:00",
+      "tracker_published_at": "2026-10-16T18:54:28+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "25999",
@@ -8977,5 +8979,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-20T01:50:03+00:00"
+  "snapshot_at": "2026-10-20T06:45:25+00:00"
 }

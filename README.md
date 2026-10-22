@@ -219,7 +219,7 @@ Jobs refresh on a best-effort five-minute GitHub Actions schedule; events are ma
 
 📝 Manual checks expire after 48 hours. ⚠️ Full-time status is unverified. See the methodology for closure and eligibility rules.
 
-Listing snapshot: **2026-10-22 04:45 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a>.
+Listing snapshot: **2026-10-22 09:41 UTC**. <a href="https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Latest%20source%20checks-334155?style=for-the-badge" alt="Latest source checks"></a>.
 
 [![Update jobs](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml/badge.svg)](https://github.com/yashasvijay/cs-new-grad-2027/actions/workflows/update.yml)
 

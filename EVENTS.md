@@ -8,7 +8,6 @@ Public virtual and in-person events for companies in the tracker. Manually curat
 
 | Company | Event | Dates | Format | Location | Cost | Link |
 |---|---|---|---|---|---|:---:|
-| NVIDIA | GTC Berlin keynote livestream | 2026-10-21 – 2026-10-21 | Virtual | Online | Free virtual viewing; no registration required | <a href="https://www.nvidia.com/en-eu/gtc/"><img src="assets/event.svg" width="118" alt="View event / registration"></a> |
 | Microsoft | Microsoft Ignite 2026 | 2026-11-17 – 2026-11-20 | Hybrid | Moscone Center, San Francisco, CA + virtual | Check organizer; format-dependent | <a href="https://ignite.microsoft.com/en-US/home"><img src="assets/event.svg" width="118" alt="View event / registration"></a> |
 | Amazon Web Services | AWS re:Invent 2026 | 2026-11-30 – 2026-12-04 | Hybrid | Las Vegas, NV (multiple venues) + virtual livestream | Virtual keynotes/select programming free; in-person paid | <a href="https://aws.amazon.com/events/reinvent/"><img src="assets/event.svg" width="118" alt="View event / registration"></a> |
 
@@ -16,6 +15,7 @@ Public virtual and in-person events for companies in the tracker. Manually curat
 
 | Company | Event | Dates | Format | Location | Cost | Link |
 |---|---|---|---|---|---|:---:|
+| NVIDIA | GTC Berlin keynote livestream | 2026-10-21 – 2026-10-21 | Virtual | Online | Free virtual viewing; no registration required | <a href="https://www.nvidia.com/en-eu/gtc/"><img src="assets/event.svg" width="118" alt="View event / registration"></a> |
 
 ## Add an event
 

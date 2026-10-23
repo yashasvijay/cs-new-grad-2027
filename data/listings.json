@@ -2486,34 +2486,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8248317",
-      "requisition_id": "M-2078",
-      "title": "New Grad Software Engineer, Product Engineering",
-      "location": "Mountain View, California (HQ)",
-      "employment_type": "unknown",
-      "url": "https://nuro.ai/careersitem?gh_jid=8248317",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-05T15:14:38-04:00",
-      "employer_updated_at": "2026-10-09T11:02:43-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://nuro.ai/careersitem?gh_jid=8248317"
-      ],
-      "employer": "Nuro",
-      "employer_id": "nuro",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2917,6 +2889,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8248317",
+      "requisition_id": "M-2078",
+      "title": "New Grad Software Engineer, Product Engineering",
+      "location": "Mountain View, California (HQ)",
+      "employment_type": "unknown",
+      "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-05T15:14:38-04:00",
+      "employer_updated_at": "2026-10-09T11:02:43-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://nuro.ai/careersitem?gh_jid=8248317"
+      ],
+      "employer": "Nuro",
+      "employer_id": "nuro",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9099,5 +9099,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-22T22:01:29+00:00"
+  "snapshot_at": "2026-10-23T00:34:43+00:00"
 }

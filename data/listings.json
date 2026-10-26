@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "8917377002",
+      "requisition_id": "R9312",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-26T13:09:20-04:00",
+      "employer_updated_at": "2026-10-26T13:09:20-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8917377002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-10-26T20:44:18+00:00",
+      "tracker_published_at": "2026-10-26T20:44:18+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "721783244525100077ab6f73aee00000",
       "requisition_id": "R10257541",
       "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
@@ -243,7 +269,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-09T12:28:14-04:00",
-      "employer_updated_at": "2026-10-23T19:21:47-04:00",
+      "employer_updated_at": "2026-10-26T12:17:25-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
@@ -799,7 +825,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-22T14:27:15-04:00",
-      "employer_updated_at": "2026-10-23T19:21:47-04:00",
+      "employer_updated_at": "2026-10-26T12:17:25-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
@@ -981,7 +1007,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T06:21:45-04:00",
-      "employer_updated_at": "2026-10-12T09:42:31-04:00",
+      "employer_updated_at": "2026-10-26T16:34:48-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
@@ -1007,7 +1033,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-02T15:33:53-04:00",
-      "employer_updated_at": "2026-10-23T19:21:47-04:00",
+      "employer_updated_at": "2026-10-26T12:17:25-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -1319,7 +1345,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-26T02:38:59-04:00",
+      "employer_updated_at": "2026-10-26T14:42:07-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1579,7 +1605,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-26T02:41:30-04:00",
+      "employer_updated_at": "2026-10-26T14:44:33-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -1843,7 +1869,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "employer_posted_at": null,
       "employer_published_at": "2026-06-11T12:31:23-04:00",
-      "employer_updated_at": "2026-10-23T19:21:47-04:00",
+      "employer_updated_at": "2026-10-26T12:17:25-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
@@ -2485,35 +2511,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "af71bf44182810020771f340f7580000",
-      "requisition_id": "R10256499",
-      "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
-      "location": "United States-Maryland-Linthicum",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-19",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-16T21:55:09+00:00",
-      "tracker_published_at": "2026-10-16T21:55:09+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2689,6 +2686,35 @@
       "employer_id": "northrop-grumman",
       "first_seen_at": "2026-10-19T19:49:15+00:00",
       "tracker_published_at": "2026-10-19T19:49:15+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "af71bf44182810020771f340f7580000",
+      "requisition_id": "R10256499",
+      "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+      "location": "United States-Maryland-Linthicum",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-19",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-16T21:55:09+00:00",
+      "tracker_published_at": "2026-10-16T21:55:09+00:00",
       "status": "closed",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
@@ -3439,6 +3465,9 @@
       "employer_published_at": "2026-09-08T23:51:35.588+00:00",
       "employer_updated_at": null,
       "source": "ashby",
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "Posting link returns HTTP 404",
       "source_links": [
         "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
       ],
@@ -3447,9 +3476,6 @@
       "first_seen_at": "2026-10-05T19:51:59+00:00",
       "tracker_published_at": "2026-10-05T19:51:59+00:00",
       "status": "closed",
-      "link_closed": true,
-      "link_review_required": false,
-      "closure_reason": "Posting link returns HTTP 404",
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad 2027",
@@ -7999,15 +8025,15 @@
       "id": "servicenow",
       "name": "ServiceNow",
       "coverage": "monitored",
-      "health": "healthy",
-      "verification_overdue": false,
+      "health": "failed",
+      "verification_overdue": true,
       "source": {
         "adapter": "smartrecruiters",
         "board": "ServiceNow",
         "provenance": "https://careers.smartrecruiters.com/ServiceNow",
         "scope": "public postings with early-career title signals"
       },
-      "error": null
+      "error": "Incomplete or inconsistent pagination"
     },
     {
       "id": "sherwin-williams",
@@ -9142,5 +9168,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-26T15:34:03+00:00"
+  "snapshot_at": "2026-10-26T20:44:18+00:00"
 }

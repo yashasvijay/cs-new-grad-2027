@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-10-26T15:34:03+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-10-26T20:44:18+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|
@@ -447,7 +447,7 @@ Snapshot: 2026-10-26T15:34:03+00:00. Planned employers are not monitored. Curren
 | SeatGeek | monitored | healthy | False |
 | Sempra | planned | not checked | True |
 | Sentry | monitored | healthy | False |
-| ServiceNow | monitored | healthy | False |
+| ServiceNow | monitored | failed | True |
 | Sherwin-Williams | planned | not checked | True |
 | Sierra | monitored | healthy | False |
 | Simon Property Group | planned | not checked | True |

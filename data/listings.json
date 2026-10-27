@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "438c986e7fee1000fb8e15b3fd2c0000",
+      "requisition_id": "R10257768",
+      "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
+      "location": "United States-Colorado-Colorado Springs",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-27",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-27T15:56:18+00:00",
+      "tracker_published_at": "2026-10-27T15:56:18+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "8917377002",
       "requisition_id": "R9312",
       "title": "Software Engineer I",
@@ -269,7 +295,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-09T12:28:14-04:00",
-      "employer_updated_at": "2026-10-26T12:17:25-04:00",
+      "employer_updated_at": "2026-10-27T11:37:19-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
@@ -825,7 +851,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-22T14:27:15-04:00",
-      "employer_updated_at": "2026-10-26T12:17:25-04:00",
+      "employer_updated_at": "2026-10-27T11:37:19-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
@@ -1033,7 +1059,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-02T15:33:53-04:00",
-      "employer_updated_at": "2026-10-26T12:17:25-04:00",
+      "employer_updated_at": "2026-10-27T11:37:19-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -1869,7 +1895,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "employer_posted_at": null,
       "employer_published_at": "2026-06-11T12:31:23-04:00",
-      "employer_updated_at": "2026-10-26T12:17:25-04:00",
+      "employer_updated_at": "2026-10-27T11:37:19-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
@@ -9168,5 +9194,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-27T10:21:17+00:00"
+  "snapshot_at": "2026-10-27T15:56:18+00:00"
 }

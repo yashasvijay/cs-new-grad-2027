@@ -1345,7 +1345,7 @@
       "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-26T14:42:07-04:00",
+      "employer_updated_at": "2026-10-27T02:39:05-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
@@ -1605,7 +1605,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-26T14:44:33-04:00",
+      "employer_updated_at": "2026-10-27T02:41:30-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -8025,15 +8025,15 @@
       "id": "servicenow",
       "name": "ServiceNow",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "smartrecruiters",
         "board": "ServiceNow",
         "provenance": "https://careers.smartrecruiters.com/ServiceNow",
         "scope": "public postings with early-career title signals"
       },
-      "error": "Incomplete or inconsistent pagination"
+      "error": null
     },
     {
       "id": "sherwin-williams",
@@ -9168,5 +9168,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-27T04:57:41+00:00"
+  "snapshot_at": "2026-10-27T10:21:17+00:00"
 }

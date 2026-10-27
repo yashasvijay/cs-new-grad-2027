@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "721783244525100115064e7961700000",
+      "requisition_id": "R10257890",
+      "title": "2027 Associate Software Engineer - Azusa CA",
+      "location": "United States-California-Azusa",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-27",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-27T20:30:26+00:00",
+      "tracker_published_at": "2026-10-27T20:30:26+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "438c986e7fee100117801d7606b70000",
+      "requisition_id": "R10257908",
+      "title": "2027 Associate Software Engineer - Boulder CO",
+      "location": "United States-Colorado-Boulder",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-27",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-27T20:30:26+00:00",
+      "tracker_published_at": "2026-10-27T20:30:26+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "438c986e7fee1000fb8e15b3fd2c0000",
       "requisition_id": "R10257768",
       "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
@@ -235,32 +287,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "d7c48e10e81b1036d58c9ab8bc740000",
-      "requisition_id": "JR2026744",
-      "title": "SoC Software Engineer - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "employment_type": "Full time",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-13",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744"
-      ],
-      "employer": "Nvidia",
-      "employer_id": "nvidia",
-      "first_seen_at": "2026-10-13T22:53:52+00:00",
-      "tracker_published_at": "2026-10-13T22:53:52+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "soc software engineer - new college grad 2027",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "50212acf956f1000b98203ea277a0000",
       "requisition_id": "JR-202621769",
       "title": "Entry-Level – AI and Machine Learning for Automation Researcher",
@@ -295,7 +321,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-09T12:28:14-04:00",
-      "employer_updated_at": "2026-10-27T11:37:19-04:00",
+      "employer_updated_at": "2026-10-27T15:22:59-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
@@ -561,7 +587,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-01T13:03:43-04:00",
-      "employer_updated_at": "2026-10-02T10:25:17-04:00",
+      "employer_updated_at": "2026-10-27T13:52:23-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://www.pinterestcareers.com/jobs/?gh_jid=7838591"
@@ -851,7 +877,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-22T14:27:15-04:00",
-      "employer_updated_at": "2026-10-27T11:37:19-04:00",
+      "employer_updated_at": "2026-10-27T15:22:59-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
@@ -1059,7 +1085,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-02T15:33:53-04:00",
-      "employer_updated_at": "2026-10-27T11:37:19-04:00",
+      "employer_updated_at": "2026-10-27T15:22:59-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -1363,32 +1389,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8123004",
-      "requisition_id": "40503",
-      "title": "Software Engineer, Foundation AI",
-      "location": "San Mateo, CA, United States",
-      "employment_type": "unknown",
-      "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-17T16:14:00-04:00",
-      "employer_updated_at": "2026-10-27T02:39:05-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
-      ],
-      "employer": "Roblox",
-      "employer_id": "roblox",
-      "first_seen_at": "2026-10-06T19:07:58+00:00",
-      "tracker_published_at": "2026-10-06T19:07:58+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "recent grad",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "45fc41cd-8280-4010-ba1f-def6114b3e39",
       "requisition_id": null,
       "title": "Research Engineer - New Grad (2027)",
@@ -1631,7 +1631,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-27T02:41:30-04:00",
+      "employer_updated_at": "2026-10-27T14:47:15-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -1895,7 +1895,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "employer_posted_at": null,
       "employer_published_at": "2026-06-11T12:31:23-04:00",
-      "employer_updated_at": "2026-10-27T11:37:19-04:00",
+      "employer_updated_at": "2026-10-27T15:22:59-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
@@ -2535,6 +2535,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "d7c48e10e81b1036d58c9ab8bc740000",
+      "requisition_id": "JR2026744",
+      "title": "SoC Software Engineer - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "employment_type": "Full time",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-13",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744"
+      ],
+      "employer": "Nvidia",
+      "employer_id": "nvidia",
+      "first_seen_at": "2026-10-13T22:53:52+00:00",
+      "tracker_published_at": "2026-10-13T22:53:52+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "soc software engineer - new college grad 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "25999",
@@ -9194,5 +9222,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-27T15:56:18+00:00"
+  "snapshot_at": "2026-10-27T20:30:26+00:00"
 }

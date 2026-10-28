@@ -877,7 +877,7 @@
       "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-23T16:43:35-04:00",
-      "employer_updated_at": "2026-09-23T16:43:35-04:00",
+      "employer_updated_at": "2026-10-28T17:28:57-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://seatgeek.com/jobs/8227548?gh_jid=8227548"
@@ -1657,7 +1657,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-28T02:46:42-04:00",
+      "employer_updated_at": "2026-10-28T14:46:38-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -1807,7 +1807,7 @@
     {
       "id": "297b4ece-765f-4eea-b1b8-46057cb6501f",
       "requisition_id": null,
-      "title": "Software Engineer, Early Career",
+      "title": "Software Engineer, Growth (Early Career)",
       "location": "San Francisco, California",
       "employment_type": "FullTime",
       "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
@@ -9276,5 +9276,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-28T17:14:47+00:00"
+  "snapshot_at": "2026-10-28T21:43:07+00:00"
 }

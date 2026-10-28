@@ -1947,7 +1947,7 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
       "employer_posted_at": null,
       "employer_published_at": "2026-05-13T08:21:01-04:00",
-      "employer_updated_at": "2026-10-20T06:33:25-04:00",
+      "employer_updated_at": "2026-10-28T11:47:25-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
@@ -2561,34 +2561,6 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
-    },
-    {
-      "id": "5223279007",
-      "requisition_id": "925",
-      "title": "Data Engineer I",
-      "location": "Denver, CO; Long Beach, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-26T19:28:11-04:00",
-      "employer_updated_at": "2026-10-08T20:06:53-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007"
-      ],
-      "employer": "True Anomaly",
-      "employer_id": "true-anomaly",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
     },
     {
       "id": "25999",
@@ -3643,6 +3615,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "5223279007",
+      "requisition_id": "925",
+      "title": "Data Engineer I",
+      "location": "Denver, CO; Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-26T19:28:11-04:00",
+      "employer_updated_at": "2026-10-08T20:06:53-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9276,5 +9276,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-28T11:24:10+00:00"
+  "snapshot_at": "2026-10-28T17:14:47+00:00"
 }

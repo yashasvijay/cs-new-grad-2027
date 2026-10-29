@@ -157,32 +157,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "721783244525100077ab6f73aee00000",
-      "requisition_id": "R10257541",
-      "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
-      "location": "United States-North Carolina-Morrisville",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-25",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-25T21:55:25+00:00",
-      "tracker_published_at": "2026-10-25T21:55:25+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "c98beb10e67d10006d1d873643100000",
       "requisition_id": "R2625914",
       "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
@@ -1657,7 +1631,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-28T14:46:38-04:00",
+      "employer_updated_at": "2026-10-29T02:41:35-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2561,6 +2535,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "721783244525100077ab6f73aee00000",
+      "requisition_id": "R10257541",
+      "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
+      "location": "United States-North Carolina-Morrisville",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-25",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-25T21:55:25+00:00",
+      "tracker_published_at": "2026-10-25T21:55:25+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "25999",
@@ -9276,5 +9278,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-28T21:43:07+00:00"
+  "snapshot_at": "2026-10-29T07:14:09+00:00"
 }

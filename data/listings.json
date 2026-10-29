@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "a012244e2f6b1000bcebd5c88de80000",
+      "requisition_id": "R10256623",
+      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
+      "location": "United States-Ohio-Beavercreek",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-29",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-19T19:49:15+00:00",
+      "tracker_published_at": "2026-10-19T19:49:15+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "72178324452510014489f581ae5f0000",
       "requisition_id": "R10257986",
       "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
@@ -2720,34 +2746,6 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
-      ]
-    },
-    {
-      "id": "a012244e2f6b1000bcebd5c88de80000",
-      "requisition_id": "R10256623",
-      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
-      "location": "United States-Ohio-Beavercreek",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-19",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-19T19:49:15+00:00",
-      "tracker_published_at": "2026-10-19T19:49:15+00:00",
-      "status": "closed",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "closed"
       ]
     },
     {
@@ -9278,5 +9276,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-29T07:14:09+00:00"
+  "snapshot_at": "2026-10-29T14:26:38+00:00"
 }

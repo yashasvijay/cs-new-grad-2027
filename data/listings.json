@@ -2537,34 +2537,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "5221970007",
-      "requisition_id": "924",
-      "title": "Software Engineer I, Perception (New Grad)",
-      "location": "Denver, CO; Long Beach, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-25T18:01:01-04:00",
-      "employer_updated_at": "2026-10-13T18:19:51-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007"
-      ],
-      "employer": "True Anomaly",
-      "employer_id": "true-anomaly",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "5221560007",
       "requisition_id": "921",
       "title": " Software Engineer I, Data Science (New Grad)",
@@ -3664,6 +3636,34 @@
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "5221970007",
+      "requisition_id": "924",
+      "title": "Software Engineer I, Perception (New Grad)",
+      "location": "Denver, CO; Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-25T18:01:01-04:00",
+      "employer_updated_at": "2026-10-13T18:19:51-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007"
       ],
       "employer": "True Anomaly",
       "employer_id": "true-anomaly",
@@ -9306,5 +9306,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-29T23:38:51+00:00"
+  "snapshot_at": "2026-10-30T02:58:23+00:00"
 }

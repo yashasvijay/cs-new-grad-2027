@@ -1293,7 +1293,7 @@
       "url": "https://job-boards.greenhouse.io/appian/jobs/8156557",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T11:07:10-04:00",
-      "employer_updated_at": "2026-10-15T14:19:19-04:00",
+      "employer_updated_at": "2026-10-30T08:58:42-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/appian/jobs/8156557"
@@ -1631,7 +1631,7 @@
       "url": "https://job-boards.greenhouse.io/appian/jobs/8035372",
       "employer_posted_at": null,
       "employer_published_at": "2026-07-23T14:36:38-04:00",
-      "employer_updated_at": "2026-10-16T14:24:40-04:00",
+      "employer_updated_at": "2026-10-30T08:50:35-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/appian/jobs/8035372"
@@ -8046,8 +8046,8 @@
       "id": "rtx-corporation",
       "name": "RTX Corporation",
       "coverage": "monitored",
-      "health": "healthy",
-      "verification_overdue": false,
+      "health": "failed",
+      "verification_overdue": true,
       "source": {
         "adapter": "workday",
         "host": "globalhr.wd5.myworkdayjobs.com",
@@ -8059,7 +8059,7 @@
         "provenance": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": null
+      "error": "Incomplete or inconsistent Workday pagination"
     },
     {
       "id": "s-p-global",
@@ -9310,5 +9310,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-30T09:51:35+00:00"
+  "snapshot_at": "2026-10-30T16:23:00+00:00"
 }

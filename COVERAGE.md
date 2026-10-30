@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-10-30T16:23:00+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-10-30T20:57:36+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|
@@ -436,7 +436,7 @@ Snapshot: 2026-10-30T16:23:00+00:00. Planned employers are not monitored. Curren
 | Roper Technologies | planned | not checked | True |
 | Ross Stores | planned | not checked | True |
 | Royal Caribbean Group | planned | not checked | True |
-| RTX Corporation | monitored | failed | True |
+| RTX Corporation | monitored | healthy | False |
 | S&P Global | planned | not checked | True |
 | Salesforce | planned | not checked | True |
 | Sandisk | planned | not checked | True |
@@ -556,7 +556,7 @@ Snapshot: 2026-10-30T16:23:00+00:00. Planned employers are not monitored. Curren
 | Commure | monitored | healthy | False |
 | SEP | monitored | healthy | False |
 | Cursor / Anysphere | monitored | healthy | False |
-| Arch | monitored | healthy | False |
+| Arch | monitored | failed | True |
 | Solace | monitored | healthy | False |
 | Zip | monitored | healthy | False |
 | Freeform | monitored | healthy | False |

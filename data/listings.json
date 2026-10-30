@@ -347,7 +347,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-09T12:28:14-04:00",
-      "employer_updated_at": "2026-10-27T20:18:11-04:00",
+      "employer_updated_at": "2026-10-30T15:51:46-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
@@ -903,7 +903,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-22T14:27:15-04:00",
-      "employer_updated_at": "2026-10-27T20:17:41-04:00",
+      "employer_updated_at": "2026-10-30T15:51:46-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
@@ -1085,7 +1085,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T06:21:45-04:00",
-      "employer_updated_at": "2026-10-26T16:34:48-04:00",
+      "employer_updated_at": "2026-10-30T14:07:13-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
@@ -1111,7 +1111,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-02T15:33:53-04:00",
-      "employer_updated_at": "2026-10-27T20:17:12-04:00",
+      "employer_updated_at": "2026-10-30T15:51:46-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -1176,32 +1176,6 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, agent (new grad 2027)",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "77ca492c-4142-4931-beeb-e85d9d0ac443",
-      "requisition_id": null,
-      "title": "Associate Data Scientist (College Grad 2027)",
-      "location": "Redwood City, CA",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-08-28T15:00:35.390+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443"
-      ],
-      "employer": "Solace",
-      "employer_id": "solace",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "graduating between december 2026 and june 2027",
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
@@ -1579,7 +1553,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-30T02:42:08-04:00",
+      "employer_updated_at": "2026-10-30T14:45:40-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -1843,7 +1817,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "employer_posted_at": null,
       "employer_published_at": "2026-06-11T12:31:23-04:00",
-      "employer_updated_at": "2026-10-27T20:15:05-04:00",
+      "employer_updated_at": "2026-10-30T15:51:46-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
@@ -2485,62 +2459,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "721783244525100115064e7961700000",
-      "requisition_id": "R10257890",
-      "title": "2027 Associate Software Engineer - Azusa CA",
-      "location": "United States-California-Azusa",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-27",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-27T20:30:26+00:00",
-      "tracker_published_at": "2026-10-27T20:30:26+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "438c986e7fee1000fb8e15b3fd2c0000",
-      "requisition_id": "R10257768",
-      "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
-      "location": "United States-Colorado-Colorado Springs",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-27",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-27T15:56:18+00:00",
-      "tracker_published_at": "2026-10-27T15:56:18+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2696,6 +2614,62 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "721783244525100115064e7961700000",
+      "requisition_id": "R10257890",
+      "title": "2027 Associate Software Engineer - Azusa CA",
+      "location": "United States-California-Azusa",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-27",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-27T20:30:26+00:00",
+      "tracker_published_at": "2026-10-27T20:30:26+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "438c986e7fee1000fb8e15b3fd2c0000",
+      "requisition_id": "R10257768",
+      "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
+      "location": "United States-Colorado-Colorado Springs",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-27",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-27T15:56:18+00:00",
+      "tracker_published_at": "2026-10-27T15:56:18+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -3593,6 +3567,37 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "77ca492c-4142-4931-beeb-e85d9d0ac443",
+      "requisition_id": null,
+      "title": "Associate Data Scientist (College Grad 2027)",
+      "location": "Redwood City, CA",
+      "employment_type": "FullTime",
+      "url": "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-08-28T15:00:35.390+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443"
+      ],
+      "employer": "Solace",
+      "employer_id": "solace",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "Posting link returns HTTP 404",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating between december 2026 and june 2027",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -8046,8 +8051,8 @@
       "id": "rtx-corporation",
       "name": "RTX Corporation",
       "coverage": "monitored",
-      "health": "failed",
-      "verification_overdue": true,
+      "health": "healthy",
+      "verification_overdue": false,
       "source": {
         "adapter": "workday",
         "host": "globalhr.wd5.myworkdayjobs.com",
@@ -8059,7 +8064,7 @@
         "provenance": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495",
         "scope": "2027 keyword search on this board; untagged roles may be missed."
       },
-      "error": "Incomplete or inconsistent Workday pagination"
+      "error": null
     },
     {
       "id": "s-p-global",
@@ -9239,14 +9244,14 @@
       "id": "arch",
       "name": "Arch",
       "coverage": "monitored",
-      "health": "healthy",
-      "verification_overdue": false,
+      "health": "failed",
+      "verification_overdue": true,
       "source": {
         "adapter": "ashby",
         "board": "arch.co",
         "provenance": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
       },
-      "error": null
+      "error": "curl: (22) The requested URL returned error: 404\n"
     },
     {
       "id": "solace",
@@ -9310,5 +9315,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-30T16:23:00+00:00"
+  "snapshot_at": "2026-10-30T20:57:36+00:00"
 }

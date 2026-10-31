@@ -1527,7 +1527,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-10-30T17:34:42-04:00",
+      "employer_updated_at": "2026-10-31T14:41:36-04:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2433,34 +2433,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "72178324452510014489f581ae5f0000",
-      "requisition_id": "R10257986",
-      "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
-      "location": "United States-Alabama-Huntsville",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-28",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-28T11:24:10+00:00",
-      "tracker_published_at": "2026-10-28T11:24:10+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2616,6 +2588,34 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "72178324452510014489f581ae5f0000",
+      "requisition_id": "R10257986",
+      "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
+      "location": "United States-Alabama-Huntsville",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-28",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-28T11:24:10+00:00",
+      "tracker_published_at": "2026-10-28T11:24:10+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -9317,5 +9317,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-10-31T12:48:28+00:00"
+  "snapshot_at": "2026-10-31T20:33:51+00:00"
 }

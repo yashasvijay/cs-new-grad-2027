@@ -2,7 +2,7 @@
 
 Automated candidate listings. Every listing requires review of the employer’s requirements.
 
-Listing snapshot: 2026-11-01T09:43:59+00:00. See <a href="COVERAGE.md"><img src="https://img.shields.io/badge/coverage-334155?style=for-the-badge" alt="coverage"></a> and the latest Actions run for live check timestamps.
+Listing snapshot: 2026-11-01T20:44:11+00:00. See <a href="COVERAGE.md"><img src="https://img.shields.io/badge/coverage-334155?style=for-the-badge" alt="coverage"></a> and the latest Actions run for live check timestamps.
 
 | Employer | Role | Location | Eligibility | Employment | Status | First seen | Employer published | Tracker published | Apply |
 |---|---|---|---|---|---|---|---|---|---|

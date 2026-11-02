@@ -27,32 +27,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "438c986e7fee100117801d7606b70000",
-      "requisition_id": "R10257908",
-      "title": "2027 Associate Software Engineer - Boulder CO",
-      "location": "United States-Colorado-Boulder",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-27",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-27T20:30:26+00:00",
-      "tracker_published_at": "2026-10-27T20:30:26+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "27b4c175b59b104a2b24efcf64920000",
       "requisition_id": "01884645",
       "title": "Software Engineer I - (Onsite)",
@@ -1501,7 +1475,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-11-01T14:41:24-05:00",
+      "employer_updated_at": "2026-11-02T02:45:25-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2424,6 +2398,34 @@
       "employer_id": "northrop-grumman",
       "first_seen_at": "2026-10-19T19:49:15+00:00",
       "tracker_published_at": "2026-10-19T19:49:15+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "438c986e7fee100117801d7606b70000",
+      "requisition_id": "R10257908",
+      "title": "2027 Associate Software Engineer - Boulder CO",
+      "location": "United States-Colorado-Boulder",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-27",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-27T20:30:26+00:00",
+      "tracker_published_at": "2026-10-27T20:30:26+00:00",
       "status": "missing — verification pending",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
@@ -9319,5 +9321,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-02T05:00:33+00:00"
+  "snapshot_at": "2026-11-02T13:22:56+00:00"
 }

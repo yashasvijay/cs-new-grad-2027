@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "a012244e2f6b1000bcebd5c88de80000",
+      "requisition_id": "R10256623",
+      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
+      "location": "United States-Ohio-Beavercreek",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-02",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-19T19:49:15+00:00",
+      "tracker_published_at": "2026-10-19T19:49:15+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "3efe9394dfec1001a57d712de9ce0000",
       "requisition_id": "R10258279",
       "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
@@ -269,7 +295,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-09T12:28:14-04:00",
-      "employer_updated_at": "2026-10-30T21:04:22-04:00",
+      "employer_updated_at": "2026-11-02T16:27:19-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
@@ -308,32 +334,6 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
-      "id": "8862049002",
-      "requisition_id": "3723",
-      "title": "Software Engineer, New Grad",
-      "location": "Raleigh, NC",
-      "employment_type": "unknown",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8862049002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-07T17:43:03-04:00",
-      "employer_updated_at": "2026-10-13T19:38:40-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://www.ixl.com/company/jobs?gh_jid=8862049002"
-      ],
-      "employer": "IXL Learning",
-      "employer_id": "ixl-learning",
-      "first_seen_at": "2026-10-08T00:10:12+00:00",
-      "tracker_published_at": "2026-10-08T00:10:12+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
       "review_required": true,
       "listing_section": "general_early_career",
       "secondary_reasons": []
@@ -825,7 +825,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-22T14:27:15-04:00",
-      "employer_updated_at": "2026-10-30T21:04:22-04:00",
+      "employer_updated_at": "2026-11-02T16:27:19-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
@@ -1033,7 +1033,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-02T15:33:53-04:00",
-      "employer_updated_at": "2026-10-30T21:04:22-04:00",
+      "employer_updated_at": "2026-11-02T16:27:19-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -1475,7 +1475,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-11-02T02:45:25-05:00",
+      "employer_updated_at": "2026-11-02T14:43:18-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -1739,7 +1739,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "employer_posted_at": null,
       "employer_published_at": "2026-06-11T12:31:23-04:00",
-      "employer_updated_at": "2026-10-30T21:04:22-04:00",
+      "employer_updated_at": "2026-11-02T16:27:19-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
@@ -2381,34 +2381,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "a012244e2f6b1000bcebd5c88de80000",
-      "requisition_id": "R10256623",
-      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
-      "location": "United States-Ohio-Beavercreek",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-29",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-19T19:49:15+00:00",
-      "tracker_published_at": "2026-10-19T19:49:15+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "438c986e7fee100117801d7606b70000",
       "requisition_id": "R10257908",
       "title": "2027 Associate Software Engineer - Boulder CO",
@@ -2430,6 +2402,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "8862049002",
+      "requisition_id": "3723",
+      "title": "Software Engineer, New Grad",
+      "location": "Raleigh, NC",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8862049002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-07T17:43:03-04:00",
+      "employer_updated_at": "2026-10-13T19:38:40-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8862049002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-08T00:10:12+00:00",
+      "tracker_published_at": "2026-10-08T00:10:12+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9321,5 +9321,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-02T13:22:56+00:00"
+  "snapshot_at": "2026-11-02T22:23:52+00:00"
 }

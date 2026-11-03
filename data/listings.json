@@ -1007,7 +1007,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T06:21:45-04:00",
-      "employer_updated_at": "2026-10-30T14:07:13-04:00",
+      "employer_updated_at": "2026-11-03T09:27:38-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
@@ -9321,5 +9321,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-03T11:18:29+00:00"
+  "snapshot_at": "2026-11-03T18:29:43+00:00"
 }

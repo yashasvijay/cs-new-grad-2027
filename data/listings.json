@@ -1475,7 +1475,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-11-02T14:43:18-05:00",
+      "employer_updated_at": "2026-11-03T02:45:15-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2381,34 +2381,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8862049002",
-      "requisition_id": "3723",
-      "title": "Software Engineer, New Grad",
-      "location": "Raleigh, NC",
-      "employment_type": "unknown",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8862049002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-07T17:43:03-04:00",
-      "employer_updated_at": "2026-10-13T19:38:40-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://www.ixl.com/company/jobs?gh_jid=8862049002"
-      ],
-      "employer": "IXL Learning",
-      "employer_id": "ixl-learning",
-      "first_seen_at": "2026-10-08T00:10:12+00:00",
-      "tracker_published_at": "2026-10-08T00:10:12+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2897,6 +2869,34 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "c++ software engineer, infrastructure tools - new college grad 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8862049002",
+      "requisition_id": "3723",
+      "title": "Software Engineer, New Grad",
+      "location": "Raleigh, NC",
+      "employment_type": "unknown",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8862049002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-07T17:43:03-04:00",
+      "employer_updated_at": "2026-10-13T19:38:40-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://www.ixl.com/company/jobs?gh_jid=8862049002"
+      ],
+      "employer": "IXL Learning",
+      "employer_id": "ixl-learning",
+      "first_seen_at": "2026-10-08T00:10:12+00:00",
+      "tracker_published_at": "2026-10-08T00:10:12+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9321,5 +9321,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-03T03:34:20+00:00"
+  "snapshot_at": "2026-11-03T11:18:29+00:00"
 }

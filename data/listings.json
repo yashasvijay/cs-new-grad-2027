@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "8929545002",
+      "requisition_id": "R9319",
+      "title": "Software Dev Engineer I - Security Platform",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-04T18:49:55-05:00",
+      "employer_updated_at": "2026-11-04T18:49:55-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
+        "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+        "https://job-boards.greenhouse.io/twitch/jobs/8931345002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-11-04T23:55:33+00:00",
+      "tracker_published_at": "2026-11-04T23:55:33+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "9c4e921236d81001140838b52a080000",
       "requisition_id": "R10259061",
       "title": "2027 Associate Flight Software Engineer - Manhattan Beach CA",
@@ -206,32 +234,6 @@
       "evidence": "new grad",
       "review_required": true,
       "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
-      "id": "5238471007",
-      "requisition_id": "327",
-      "title": "Hardware Security Engineer, New Grad (2027)",
-      "location": "San Francisco",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-16T00:32:37-04:00",
-      "employer_updated_at": "2026-11-02T18:51:59-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/togetherai/jobs/5238471007"
-      ],
-      "employer": "Together AI",
-      "employer_id": "together-ai",
-      "first_seen_at": "2026-10-16T06:03:11+00:00",
-      "tracker_published_at": "2026-10-16T06:03:11+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "hardware security engineer, new grad (2027)",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
       "secondary_reasons": []
     },
     {
@@ -1007,7 +1009,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T06:21:45-04:00",
-      "employer_updated_at": "2026-11-03T09:27:38-05:00",
+      "employer_updated_at": "2026-11-04T16:15:15-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
@@ -2381,27 +2383,27 @@
       "secondary_reasons": []
     },
     {
-      "id": "3efe9394dfec1001a57d712de9ce0000",
-      "requisition_id": "R10258279",
-      "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
-      "location": "United States-Colorado-Aurora",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
-      "source": "workday",
+      "id": "5238471007",
+      "requisition_id": "327",
+      "title": "Hardware Security Engineer, New Grad (2027)",
+      "location": "San Francisco",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
       "employer_posted_at": null,
-      "employer_published_at": "2026-10-29",
-      "employer_updated_at": null,
+      "employer_published_at": "2026-10-16T00:32:37-04:00",
+      "employer_updated_at": "2026-11-02T18:51:59-05:00",
+      "source": "greenhouse",
       "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279"
+        "https://job-boards.greenhouse.io/togetherai/jobs/5238471007"
       ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-29T19:46:30+00:00",
-      "tracker_published_at": "2026-10-29T19:46:30+00:00",
+      "employer": "Together AI",
+      "employer_id": "together-ai",
+      "first_seen_at": "2026-10-16T06:03:11+00:00",
+      "tracker_published_at": "2026-10-16T06:03:11+00:00",
       "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
+      "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
-      "evidence": "entry level",
+      "evidence": "hardware security engineer, new grad (2027)",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -2564,6 +2566,34 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "3efe9394dfec1001a57d712de9ce0000",
+      "requisition_id": "R10258279",
+      "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
+      "location": "United States-Colorado-Aurora",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-29",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-29T19:46:30+00:00",
+      "tracker_published_at": "2026-10-29T19:46:30+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -3524,7 +3554,7 @@
       "id": "d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "requisition_id": null,
       "title": "Software Engineer, New Grad 2027",
-      "location": "San Francisco; New York; Palo Alto, CA",
+      "location": "San Francisco, CA; New York, NY; Palo Alto, CA",
       "employment_type": "FullTime",
       "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "employer_posted_at": null,
@@ -9349,5 +9379,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-04T18:37:59+00:00"
+  "snapshot_at": "2026-11-04T23:55:33+00:00"
 }

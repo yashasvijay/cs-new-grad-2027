@@ -53,32 +53,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "3efe9394dfec1001a57d712de9ce0000",
-      "requisition_id": "R10258279",
-      "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
-      "location": "United States-Colorado-Aurora",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-29",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-29T19:46:30+00:00",
-      "tracker_published_at": "2026-10-29T19:46:30+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "27b4c175b59b104a2b24efcf64920000",
       "requisition_id": "01884645",
       "title": "Software Engineer I - (Onsite)",
@@ -1501,7 +1475,7 @@
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-05T12:03:38-04:00",
-      "employer_updated_at": "2026-11-03T15:04:33-05:00",
+      "employer_updated_at": "2026-11-04T02:45:27-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -2405,6 +2379,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "3efe9394dfec1001a57d712de9ce0000",
+      "requisition_id": "R10258279",
+      "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
+      "location": "United States-Colorado-Aurora",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-29",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-29T19:46:30+00:00",
+      "tracker_published_at": "2026-10-29T19:46:30+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "25999",
@@ -9347,5 +9349,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-03T23:36:38+00:00"
+  "snapshot_at": "2026-11-04T11:07:45+00:00"
 }

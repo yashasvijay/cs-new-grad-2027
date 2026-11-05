@@ -1,15 +1,15 @@
 {
   "jobs": [
     {
-      "id": "8929545002",
+      "id": "8931343002",
       "requisition_id": "R9319",
       "title": "Software Dev Engineer I - Security Platform",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
       "employer_posted_at": null,
-      "employer_published_at": "2026-11-04T18:49:55-05:00",
-      "employer_updated_at": "2026-11-04T18:49:55-05:00",
+      "employer_published_at": "2026-11-04T18:49:58-05:00",
+      "employer_updated_at": "2026-11-04T18:49:58-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
@@ -9379,5 +9379,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-04T23:55:33+00:00"
+  "snapshot_at": "2026-11-05T05:37:38+00:00"
 }

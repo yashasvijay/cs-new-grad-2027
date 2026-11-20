@@ -9,7 +9,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
       "employer_posted_at": null,
       "employer_published_at": "2026-11-20T11:42:31-05:00",
-      "employer_updated_at": "2026-11-20T11:42:31-05:00",
+      "employer_updated_at": "2026-11-20T17:12:58-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007",
@@ -26,6 +26,32 @@
       "evidence": "early career",
       "review_required": true,
       "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "93a4316fc85e10454e5f039d0ae70000",
+      "requisition_id": "JR2027337",
+      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "employment_type": "Full time",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-20",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
+      ],
+      "employer": "Nvidia",
+      "employer_id": "nvidia",
+      "first_seen_at": "2026-10-12T00:55:02+00:00",
+      "tracker_published_at": "2026-10-12T00:55:02+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, dl kernel libraries - new college grad 2027",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
       "secondary_reasons": []
     },
     {
@@ -90,7 +116,7 @@
       "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
       "employer_posted_at": null,
       "employer_published_at": "2026-11-16T18:30:43-05:00",
-      "employer_updated_at": "2026-11-19T14:36:27-05:00",
+      "employer_updated_at": "2026-11-20T14:36:34-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8384186?gh_jid=8384186"
@@ -188,15 +214,15 @@
       "secondary_reasons": []
     },
     {
-      "id": "8929545002",
+      "id": "8931343002",
       "requisition_id": "R9319",
       "title": "Software Dev Engineer I - Security Platform",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
       "employer_posted_at": null,
-      "employer_published_at": "2026-11-04T18:49:55-05:00",
-      "employer_updated_at": "2026-11-04T18:49:55-05:00",
+      "employer_published_at": "2026-11-04T18:49:58-05:00",
+      "employer_updated_at": "2026-11-04T18:49:58-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
@@ -954,32 +980,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "5232802007",
-      "requisition_id": "940",
-      "title": "Software Engineer I, Elixir (New Grad)",
-      "location": "Denver, CO; Long Beach, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-08T16:58:36-04:00",
-      "employer_updated_at": "2026-11-12T17:21:07-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
-      ],
-      "employer": "True Anomaly",
-      "employer_id": "true-anomaly",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "7986505003",
       "requisition_id": "1805",
       "title": "Summer 2027 - Data Scientist (New Grad) ",
@@ -1192,12 +1192,12 @@
       "id": "5221572007",
       "requisition_id": "922",
       "title": "Flight Software Engineer I (Temp-to-hire)",
-      "location": "Denver, CO; Long Beach, CA",
+      "location": "Denver, CO; Long Beach, CA; Washington, DC",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T14:31:43-04:00",
-      "employer_updated_at": "2026-11-12T17:21:07-05:00",
+      "employer_updated_at": "2026-11-20T14:12:08-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
@@ -2363,167 +2363,27 @@
       "secondary_reasons": []
     },
     {
-      "id": "9c4e921236d81001140838b52a080000",
-      "requisition_id": "R10259061",
-      "title": "2027 Associate Flight Software Engineer - Manhattan Beach CA",
-      "location": "United States-California-Manhattan Beach",
-      "employment_type": "unknown",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-03",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-11-03T23:36:38+00:00",
-      "tracker_published_at": "2026-11-03T23:36:38+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "a012244e2f6b1000bcebd5c88de80000",
-      "requisition_id": "R10256623",
-      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
-      "location": "United States-Ohio-Beavercreek",
-      "employment_type": "unknown",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-02",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-19T19:49:15+00:00",
-      "tracker_published_at": "2026-10-19T19:49:15+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "5273017007",
-      "requisition_id": "1064",
-      "title": "Software Engineer I, QA (New Grad)",
+      "id": "5232802007",
+      "requisition_id": "940",
+      "title": "Software Engineer I, Elixir (New Grad)",
       "location": "Denver, CO; Long Beach, CA",
       "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
       "employer_posted_at": null,
-      "employer_published_at": "2026-10-22T17:32:19-04:00",
-      "employer_updated_at": "2026-10-22T17:32:19-04:00",
+      "employer_published_at": "2026-09-08T16:58:36-04:00",
+      "employer_updated_at": "2026-11-12T17:21:07-05:00",
       "source": "greenhouse",
       "source_links": [
-        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007"
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
       ],
       "employer": "True Anomaly",
       "employer_id": "true-anomaly",
-      "first_seen_at": "2026-10-22T22:01:29+00:00",
-      "tracker_published_at": "2026-10-22T22:01:29+00:00",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
       "status": "missing — verification pending",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "50212acf956f1000b98203ea277a0000",
-      "requisition_id": "JR-202621769",
-      "title": "Entry-Level – AI and Machine Learning for Automation Researcher",
-      "location": "Warren, Michigan, United States of America",
-      "employment_type": "unknown",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-12",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769"
-      ],
-      "employer": "General Motors",
-      "employer_id": "general-motors",
-      "first_seen_at": "2026-10-12T16:40:40+00:00",
-      "tracker_published_at": "2026-10-12T16:40:40+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "graduating between august 2026 - june 2027",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "8011089003",
-      "requisition_id": "1824",
-      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
-      "location": "Mountain View, California, United States",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-05T19:12:37-04:00",
-      "employer_updated_at": "2026-11-03T15:52:05-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
-      ],
-      "employer": "ID.me",
-      "employer_id": "id-me",
-      "first_seen_at": "2026-10-05T23:29:37+00:00",
-      "tracker_published_at": "2026-10-05T23:29:37+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "7980382003",
-      "requisition_id": "1795",
-      "title": "Summer 2027- Software Development Engineer - New Grad ",
-      "location": "Mountain View, CA ",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-04T16:04:15-04:00",
-      "employer_updated_at": "2026-11-03T15:52:06-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
-      ],
-      "employer": "ID.me",
-      "employer_id": "id-me",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "summer 2027- software development engineer - new grad ",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -2686,6 +2546,62 @@
       "listing_section": "secondary",
       "secondary_reasons": [
         "verification_pending"
+      ]
+    },
+    {
+      "id": "9c4e921236d81001140838b52a080000",
+      "requisition_id": "R10259061",
+      "title": "2027 Associate Flight Software Engineer - Manhattan Beach CA",
+      "location": "United States-California-Manhattan Beach",
+      "employment_type": "unknown",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-03",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-11-03T23:36:38+00:00",
+      "tracker_published_at": "2026-11-03T23:36:38+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "a012244e2f6b1000bcebd5c88de80000",
+      "requisition_id": "R10256623",
+      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
+      "location": "United States-Ohio-Beavercreek",
+      "employment_type": "unknown",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-02",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-19T19:49:15+00:00",
+      "tracker_published_at": "2026-10-19T19:49:15+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
       ]
     },
     {
@@ -2857,6 +2773,34 @@
       ]
     },
     {
+      "id": "5273017007",
+      "requisition_id": "1064",
+      "title": "Software Engineer I, QA (New Grad)",
+      "location": "Denver, CO; Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-22T17:32:19-04:00",
+      "employer_updated_at": "2026-10-22T17:32:19-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-22T22:01:29+00:00",
+      "tracker_published_at": "2026-10-22T22:01:29+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
       "id": "af71bf44182810020771f340f7580000",
       "requisition_id": "R10256499",
       "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
@@ -2998,6 +2942,34 @@
       ]
     },
     {
+      "id": "50212acf956f1000b98203ea277a0000",
+      "requisition_id": "JR-202621769",
+      "title": "Entry-Level – AI and Machine Learning for Automation Researcher",
+      "location": "Warren, Michigan, United States of America",
+      "employment_type": "unknown",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-12",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769"
+      ],
+      "employer": "General Motors",
+      "employer_id": "general-motors",
+      "first_seen_at": "2026-10-12T16:40:40+00:00",
+      "tracker_published_at": "2026-10-12T16:40:40+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating between august 2026 - june 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
       "id": "d7c48e10e81b1036797856cbbcbb0000",
       "requisition_id": "JR2027083",
       "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
@@ -3019,34 +2991,6 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "deep learning software engineer, tensorrt performance - new college grad 2027",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "closed"
-      ]
-    },
-    {
-      "id": "93a4316fc85e10454e5f039d0ae70000",
-      "requisition_id": "JR2027337",
-      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "employment_type": "unknown",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-11",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
-      ],
-      "employer": "Nvidia",
-      "employer_id": "nvidia",
-      "first_seen_at": "2026-10-12T00:55:02+00:00",
-      "tracker_published_at": "2026-10-12T00:55:02+00:00",
-      "status": "closed",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, dl kernel libraries - new college grad 2027",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -3190,6 +3134,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8011089003",
+      "requisition_id": "1824",
+      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-05T19:12:37-04:00",
+      "employer_updated_at": "2026-11-03T15:52:05-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
+      ],
+      "employer": "ID.me",
+      "employer_id": "id-me",
+      "first_seen_at": "2026-10-05T23:29:37+00:00",
+      "tracker_published_at": "2026-10-05T23:29:37+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -3723,6 +3695,34 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new grad 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "7980382003",
+      "requisition_id": "1795",
+      "title": "Summer 2027- Software Development Engineer - New Grad ",
+      "location": "Mountain View, CA ",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-04T16:04:15-04:00",
+      "employer_updated_at": "2026-11-03T15:52:06-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
+      ],
+      "employer": "ID.me",
+      "employer_id": "id-me",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "summer 2027- software development engineer - new grad ",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9589,5 +9589,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-20T16:59:37+00:00"
+  "snapshot_at": "2026-11-20T23:01:44+00:00"
 }

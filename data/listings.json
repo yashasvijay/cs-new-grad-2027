@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "5303550007",
+      "requisition_id": "17207",
+      "title": "RF Integration Systems Engineer, Early Career",
+      "location": "Costa Mesa, California, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-20T11:42:31-05:00",
+      "employer_updated_at": "2026-11-20T11:42:31-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007",
+        "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
+        "https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-11-20T16:59:37+00:00",
+      "tracker_published_at": "2026-11-20T16:59:37+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "early career",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "2719c3abd6e2100142d59e5415dc0000",
       "requisition_id": "R10261310",
       "title": "2027 Associate Software Digital Engineer - Rolling Meadows IL  - Rolling Meadows IL",
@@ -22,6 +50,33 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "8949388002",
+      "requisition_id": "R9323",
+      "title": "Software Engineer I, Commerce",
+      "location": "Seattle, WA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-17T19:30:12-05:00",
+      "employer_updated_at": "2026-11-17T19:30:12-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+        "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "general_early_career",
       "secondary_reasons": []
@@ -107,33 +162,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8934067002",
-      "requisition_id": "R9323",
-      "title": "Software Engineer I, Commerce",
-      "location": "San Francisco, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-11T13:39:50-05:00",
-      "employer_updated_at": "2026-11-11T13:39:50-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
-        "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
-      ],
-      "employer": "Twitch",
-      "employer_id": "twitch",
-      "first_seen_at": "2026-11-20T08:12:42+00:00",
-      "tracker_published_at": "2026-11-20T08:12:42+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "5270839007",
       "requisition_id": "16741",
       "title": "2027 New Grad Information Security Engineer",
@@ -160,15 +188,15 @@
       "secondary_reasons": []
     },
     {
-      "id": "8931343002",
+      "id": "8929545002",
       "requisition_id": "R9319",
       "title": "Software Dev Engineer I - Security Platform",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
       "employer_posted_at": null,
-      "employer_published_at": "2026-11-04T18:49:58-05:00",
-      "employer_updated_at": "2026-11-04T18:49:58-05:00",
+      "employer_published_at": "2026-11-04T18:49:55-05:00",
+      "employer_updated_at": "2026-11-04T18:49:55-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
@@ -9561,5 +9589,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-20T08:12:42+00:00"
+  "snapshot_at": "2026-11-20T16:59:37+00:00"
 }

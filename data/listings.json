@@ -1,6 +1,165 @@
 {
   "jobs": [
     {
+      "id": "2719c3abd6e2100142d59e5415dc0000",
+      "requisition_id": "R10261310",
+      "title": "2027 Associate Software Digital Engineer - Rolling Meadows IL  - Rolling Meadows IL",
+      "location": "United States-Illinois-Rolling Meadows",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Software-Digital-Engineer---Rolling-Meadows-IL----Rolling-Meadows-IL_R10261310",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-19",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Software-Digital-Engineer---Rolling-Meadows-IL----Rolling-Meadows-IL_R10261310"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "8384186",
+      "requisition_id": "48577",
+      "title": "[2027] Data Scientist - PhD Early Career - Safety",
+      "location": "San Mateo, CA, United States",
+      "employment_type": "unknown",
+      "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-16T18:30:43-05:00",
+      "employer_updated_at": "2026-11-19T14:36:27-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://careers.roblox.com/jobs/8384186?gh_jid=8384186"
+      ],
+      "employer": "Roblox",
+      "employer_id": "roblox",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "[2027] data scientist - phd early career - safety",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "phd_only"
+      ]
+    },
+    {
+      "id": "8943553002",
+      "requisition_id": "R9327",
+      "title": "Software Engineer I, Payments",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-13T18:16:21-05:00",
+      "employer_updated_at": "2026-11-13T18:16:21-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "8360415",
+      "requisition_id": "M-2079",
+      "title": "Systems Engineering, New Grad 2027",
+      "location": "Mountain View, California (HQ)",
+      "employment_type": "unknown",
+      "url": "https://nuro.ai/careersitem?gh_jid=8360415",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-12T14:34:27-05:00",
+      "employer_updated_at": "2026-11-12T14:34:27-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://nuro.ai/careersitem?gh_jid=8360415"
+      ],
+      "employer": "Nuro",
+      "employer_id": "nuro",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time unverified — review",
+      "evidence": "systems engineering, new grad 2027",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
+    },
+    {
+      "id": "8934067002",
+      "requisition_id": "R9323",
+      "title": "Software Engineer I, Commerce",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-11T13:39:50-05:00",
+      "employer_updated_at": "2026-11-11T13:39:50-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+        "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "5270839007",
+      "requisition_id": "16741",
+      "title": "2027 New Grad Information Security Engineer",
+      "location": "Costa Mesa, California, United States",
+      "employment_type": "unknown",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-10T15:51:37-05:00",
+      "employer_updated_at": "2026-11-16T21:23:01-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007"
+      ],
+      "employer": "Anduril",
+      "employer_id": "anduril",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "2027 new grad information security engineer",
+      "review_required": true,
+      "listing_section": "new_grad_2027",
+      "secondary_reasons": []
+    },
+    {
       "id": "8931343002",
       "requisition_id": "R9319",
       "title": "Software Dev Engineer I - Security Platform",
@@ -24,58 +183,6 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
-      "id": "9c4e921236d81001140838b52a080000",
-      "requisition_id": "R10259061",
-      "title": "2027 Associate Flight Software Engineer - Manhattan Beach CA",
-      "location": "United States-California-Manhattan Beach",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-03",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-11-03T23:36:38+00:00",
-      "tracker_published_at": "2026-11-03T23:36:38+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
-      "id": "a012244e2f6b1000bcebd5c88de80000",
-      "requisition_id": "R10256623",
-      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
-      "location": "United States-Ohio-Beavercreek",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-02",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-19T19:49:15+00:00",
-      "tracker_published_at": "2026-10-19T19:49:15+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
       "review_required": true,
       "listing_section": "general_early_career",
       "secondary_reasons": []
@@ -109,13 +216,13 @@
     {
       "id": "8917377002",
       "requisition_id": "R9312",
-      "title": "Software Engineer I",
+      "title": "Software Engineer I - Engagement Growth",
       "location": "San Francisco, CA",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-26T13:09:20-04:00",
-      "employer_updated_at": "2026-10-26T13:09:20-04:00",
+      "employer_updated_at": "2026-11-06T00:03:56-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8917377002"
@@ -159,41 +266,15 @@
       "secondary_reasons": []
     },
     {
-      "id": "5273017007",
-      "requisition_id": "1064",
-      "title": "Software Engineer I, QA (New Grad)",
-      "location": "Denver, CO; Long Beach, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-22T17:32:19-04:00",
-      "employer_updated_at": "2026-10-22T17:32:19-04:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007"
-      ],
-      "employer": "True Anomaly",
-      "employer_id": "true-anomaly",
-      "first_seen_at": "2026-10-22T22:01:29+00:00",
-      "tracker_published_at": "2026-10-22T22:01:29+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "8906750002",
       "requisition_id": "R9308",
-      "title": "Software Engineer I",
+      "title": "Software Engineer I - Engagement Growth",
       "location": "Seattle, WA",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-21T16:56:21-04:00",
-      "employer_updated_at": "2026-10-21T16:56:21-04:00",
+      "employer_updated_at": "2026-11-06T00:02:59-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8906750002"
@@ -263,32 +344,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "50212acf956f1000b98203ea277a0000",
-      "requisition_id": "JR-202621769",
-      "title": "Entry-Level – AI and Machine Learning for Automation Researcher",
-      "location": "Warren, Michigan, United States of America",
-      "employment_type": "Full time",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-12",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769"
-      ],
-      "employer": "General Motors",
-      "employer_id": "general-motors",
-      "first_seen_at": "2026-10-12T16:40:40+00:00",
-      "tracker_published_at": "2026-10-12T16:40:40+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "graduating between august 2026 - june 2027",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "5262340007",
       "requisition_id": "15392",
       "title": "2027 Early Career Systems Engineer",
@@ -297,7 +352,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-09T12:28:14-04:00",
-      "employer_updated_at": "2026-11-02T16:27:19-05:00",
+      "employer_updated_at": "2026-11-16T21:23:01-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
@@ -317,13 +372,13 @@
     {
       "id": "8879673002",
       "requisition_id": "R9303",
-      "title": "Software Engineer I",
+      "title": "Software Engineer I - Community Growth",
       "location": "San Francisco, CA",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-08T14:09:39-04:00",
-      "employer_updated_at": "2026-10-08T14:09:39-04:00",
+      "employer_updated_at": "2026-11-06T00:01:56-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
@@ -349,7 +404,7 @@
       "url": "https://www.ixl.com/company/jobs?gh_jid=8862043002",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-07T17:42:42-04:00",
-      "employer_updated_at": "2026-10-13T19:33:01-04:00",
+      "employer_updated_at": "2026-11-06T17:33:06-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://www.ixl.com/company/jobs?gh_jid=8862043002"
@@ -375,7 +430,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-06T11:13:46-04:00",
-      "employer_updated_at": "2026-11-03T17:47:55-05:00",
+      "employer_updated_at": "2026-11-12T17:21:07-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
@@ -393,32 +448,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8011089003",
-      "requisition_id": "1824",
-      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
-      "location": "Mountain View, California, United States",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-05T19:12:37-04:00",
-      "employer_updated_at": "2026-11-03T15:52:05-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
-      ],
-      "employer": "ID.me",
-      "employer_id": "id-me",
-      "first_seen_at": "2026-10-05T23:29:37+00:00",
-      "tracker_published_at": "2026-10-05T23:29:37+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "new grad",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "8011095003",
       "requisition_id": "1825",
       "title": "Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)",
@@ -427,7 +456,7 @@
       "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-05T16:42:09-04:00",
-      "employer_updated_at": "2026-11-03T15:52:05-05:00",
+      "employer_updated_at": "2026-11-06T10:55:47-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/idme/jobs/8011095003"
@@ -449,7 +478,7 @@
       "requisition_id": null,
       "title": "Software Engineer Intune",
       "location": "Redmond, WA,US",
-      "employment_type": "FULLTIME",
+      "employment_type": "unknown",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
       "source": "employer JSON-LD",
       "employer_posted_at": null,
@@ -477,7 +506,7 @@
       "requisition_id": null,
       "title": "Software Engineer",
       "location": "Redmond, WA,US",
-      "employment_type": "FULLTIME",
+      "employment_type": "unknown",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
       "source": "employer JSON-LD",
       "employer_posted_at": null,
@@ -505,7 +534,7 @@
       "requisition_id": null,
       "title": "Software Engineer - Forward Deployed Engineer",
       "location": "Redmond, WA,US",
-      "employment_type": "FULLTIME",
+      "employment_type": "unknown",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
       "source": "employer JSON-LD",
       "employer_posted_at": null,
@@ -537,7 +566,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-01T13:03:43-04:00",
-      "employer_updated_at": "2026-10-27T18:38:51-04:00",
+      "employer_updated_at": "2026-11-06T16:55:09-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://www.pinterestcareers.com/jobs/?gh_jid=7838591"
@@ -563,7 +592,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-01T13:00:43-04:00",
-      "employer_updated_at": "2026-10-27T18:38:52-04:00",
+      "employer_updated_at": "2026-11-06T16:55:11-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://www.pinterestcareers.com/jobs/?gh_jid=8140219"
@@ -589,7 +618,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-01T13:00:35-04:00",
-      "employer_updated_at": "2026-10-27T18:38:52-04:00",
+      "employer_updated_at": "2026-11-06T16:55:11-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://www.pinterestcareers.com/jobs/?gh_jid=8140363"
@@ -617,7 +646,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-01T13:00:27-04:00",
-      "employer_updated_at": "2026-10-27T18:38:52-04:00",
+      "employer_updated_at": "2026-11-06T16:55:11-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://www.pinterestcareers.com/jobs/?gh_jid=8140389"
@@ -639,7 +668,7 @@
       "requisition_id": null,
       "title": "Software Engineer- CoreAI",
       "location": "Redmond, WA,US",
-      "employment_type": "FULLTIME",
+      "employment_type": "unknown",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
       "source": "employer JSON-LD",
       "employer_posted_at": null,
@@ -801,7 +830,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-23T13:55:35-04:00",
-      "employer_updated_at": "2026-10-22T14:10:38-04:00",
+      "employer_updated_at": "2026-11-18T19:40:55-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
@@ -827,7 +856,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-22T14:27:15-04:00",
-      "employer_updated_at": "2026-11-02T16:27:19-05:00",
+      "employer_updated_at": "2026-11-16T21:23:01-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
@@ -905,7 +934,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-08T16:58:36-04:00",
-      "employer_updated_at": "2026-10-09T22:55:38-04:00",
+      "employer_updated_at": "2026-11-12T17:21:07-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
@@ -931,7 +960,7 @@
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-08T09:45:10-04:00",
-      "employer_updated_at": "2026-11-03T15:52:06-05:00",
+      "employer_updated_at": "2026-11-06T11:29:06-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003"
@@ -949,32 +978,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "7980382003",
-      "requisition_id": "1795",
-      "title": "Summer 2027- Software Development Engineer - New Grad ",
-      "location": "Mountain View, CA ",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-09-04T16:04:15-04:00",
-      "employer_updated_at": "2026-11-03T15:52:06-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
-      ],
-      "employer": "ID.me",
-      "employer_id": "id-me",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "summer 2027- software development engineer - new grad ",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "4730836005",
       "requisition_id": "UR-2027-NG",
       "title": "Software Engineer - New Grad",
@@ -983,7 +986,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-04T11:59:59-04:00",
-      "employer_updated_at": "2026-10-22T14:10:38-04:00",
+      "employer_updated_at": "2026-11-18T19:40:55-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
@@ -1035,7 +1038,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-02T15:33:53-04:00",
-      "employer_updated_at": "2026-11-02T16:27:19-05:00",
+      "employer_updated_at": "2026-11-16T21:23:01-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -1110,12 +1113,13 @@
       "title": "Associate Software Engineer (College Grad 2027)",
       "location": "Redwood City, CA",
       "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+      "url": "https://jobs.ashbyhq.com/Solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T19:19:11.319+00:00",
       "employer_updated_at": null,
       "source": "ashby",
       "source_links": [
+        "https://jobs.ashbyhq.com/Solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
         "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f"
       ],
       "employer": "Solace",
@@ -1139,7 +1143,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T14:33:07-04:00",
-      "employer_updated_at": "2026-10-13T18:59:02-04:00",
+      "employer_updated_at": "2026-11-12T17:21:07-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"
@@ -1165,7 +1169,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T14:31:43-04:00",
-      "employer_updated_at": "2026-10-13T18:53:47-04:00",
+      "employer_updated_at": "2026-11-12T17:21:07-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
@@ -1191,7 +1195,7 @@
       "url": "https://job-boards.greenhouse.io/appian/jobs/8156557",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T11:07:10-04:00",
-      "employer_updated_at": "2026-10-30T08:58:42-04:00",
+      "employer_updated_at": "2026-11-13T11:45:23-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/appian/jobs/8156557"
@@ -1529,7 +1533,7 @@
       "url": "https://job-boards.greenhouse.io/appian/jobs/8035372",
       "employer_posted_at": null,
       "employer_published_at": "2026-07-23T14:36:38-04:00",
-      "employer_updated_at": "2026-10-30T08:50:35-04:00",
+      "employer_updated_at": "2026-11-13T11:45:23-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/appian/jobs/8035372"
@@ -1542,58 +1546,6 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "2027 graduates",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
-      "requisition_id": null,
-      "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
-      "location": "San Francisco",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-07-16T02:39:55.735+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
-      ],
-      "employer": "Netic",
-      "employer_id": "netic",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer (agent platform) - new grad - 2026-2027",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
-      "requisition_id": null,
-      "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
-      "location": "San Francisco",
-      "employment_type": "FullTime",
-      "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-07-16T00:04:22.320+00:00",
-      "employer_updated_at": null,
-      "source": "ashby",
-      "source_links": [
-        "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3"
-      ],
-      "employer": "Netic",
-      "employer_id": "netic",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "full-stack software engineer (product) - new grad - 2026-2027",
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
@@ -1741,7 +1693,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "employer_posted_at": null,
       "employer_published_at": "2026-06-11T12:31:23-04:00",
-      "employer_updated_at": "2026-11-02T16:27:19-05:00",
+      "employer_updated_at": "2026-11-16T21:23:01-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
@@ -1767,7 +1719,7 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
       "employer_posted_at": null,
       "employer_published_at": "2026-05-13T08:21:01-04:00",
-      "employer_updated_at": "2026-11-04T09:56:32-05:00",
+      "employer_updated_at": "2026-11-19T16:47:39-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
@@ -1793,7 +1745,7 @@
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
       "employer_posted_at": null,
       "employer_published_at": "2026-03-27T14:34:33-04:00",
-      "employer_updated_at": "2026-10-09T22:56:12-04:00",
+      "employer_updated_at": "2026-11-12T17:21:07-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007"
@@ -2383,13 +2335,181 @@
       "secondary_reasons": []
     },
     {
+      "id": "9c4e921236d81001140838b52a080000",
+      "requisition_id": "R10259061",
+      "title": "2027 Associate Flight Software Engineer - Manhattan Beach CA",
+      "location": "United States-California-Manhattan Beach",
+      "employment_type": "unknown",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-03",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-11-03T23:36:38+00:00",
+      "tracker_published_at": "2026-11-03T23:36:38+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "a012244e2f6b1000bcebd5c88de80000",
+      "requisition_id": "R10256623",
+      "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
+      "location": "United States-Ohio-Beavercreek",
+      "employment_type": "unknown",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-02",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-19T19:49:15+00:00",
+      "tracker_published_at": "2026-10-19T19:49:15+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "5273017007",
+      "requisition_id": "1064",
+      "title": "Software Engineer I, QA (New Grad)",
+      "location": "Denver, CO; Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-22T17:32:19-04:00",
+      "employer_updated_at": "2026-10-22T17:32:19-04:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-22T22:01:29+00:00",
+      "tracker_published_at": "2026-10-22T22:01:29+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "50212acf956f1000b98203ea277a0000",
+      "requisition_id": "JR-202621769",
+      "title": "Entry-Level – AI and Machine Learning for Automation Researcher",
+      "location": "Warren, Michigan, United States of America",
+      "employment_type": "unknown",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-12",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769"
+      ],
+      "employer": "General Motors",
+      "employer_id": "general-motors",
+      "first_seen_at": "2026-10-12T16:40:40+00:00",
+      "tracker_published_at": "2026-10-12T16:40:40+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduating between august 2026 - june 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "8011089003",
+      "requisition_id": "1824",
+      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+      "location": "Mountain View, California, United States",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-05T19:12:37-04:00",
+      "employer_updated_at": "2026-11-03T15:52:05-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/idme/jobs/8011089003"
+      ],
+      "employer": "ID.me",
+      "employer_id": "id-me",
+      "first_seen_at": "2026-10-05T23:29:37+00:00",
+      "tracker_published_at": "2026-10-05T23:29:37+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "new grad",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
+      "id": "7980382003",
+      "requisition_id": "1795",
+      "title": "Summer 2027- Software Development Engineer - New Grad ",
+      "location": "Mountain View, CA ",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-09-04T16:04:15-04:00",
+      "employer_updated_at": "2026-11-03T15:52:06-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
+      ],
+      "employer": "ID.me",
+      "employer_id": "id-me",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "summer 2027- software development engineer - new grad ",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
+    },
+    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
       "employer_id": "atlassian",
       "title": "Machine Learning Engineer, 2027 Graduate U.S.",
       "location": "Seattle, WA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://www.atlassian.com/company/careers/details/25999",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -2420,7 +2540,7 @@
       "employer_id": "atlassian",
       "title": "Software Engineer, 2027 Graduate U.S.",
       "location": "Seattle, WA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://www.atlassian.com/company/careers/details/25813",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -2451,7 +2571,7 @@
       "employer_id": "alphabet-inc",
       "title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
       "location": "Multiple U.S. locations",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -2484,7 +2604,7 @@
       "employer_id": "alphabet-inc",
       "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
       "location": "Multiple U.S. locations",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -2517,7 +2637,7 @@
       "employer_id": "whatnot",
       "title": "Software Engineer, 2027 New Grad",
       "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -2545,7 +2665,7 @@
       "requisition_id": "R10258279",
       "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
       "location": "United States-Colorado-Aurora",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
       "source": "workday",
       "employer_posted_at": null,
@@ -2573,7 +2693,7 @@
       "requisition_id": "R10257986",
       "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
       "location": "United States-Alabama-Huntsville",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
       "source": "workday",
       "employer_posted_at": null,
@@ -2601,7 +2721,7 @@
       "requisition_id": "R10257890",
       "title": "2027 Associate Software Engineer - Azusa CA",
       "location": "United States-California-Azusa",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
       "source": "workday",
       "employer_posted_at": null,
@@ -2629,7 +2749,7 @@
       "requisition_id": "R10257908",
       "title": "2027 Associate Software Engineer - Boulder CO",
       "location": "United States-Colorado-Boulder",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
       "source": "workday",
       "employer_posted_at": null,
@@ -2657,7 +2777,7 @@
       "requisition_id": "R10257768",
       "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
       "location": "United States-Colorado-Colorado Springs",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
       "source": "workday",
       "employer_posted_at": null,
@@ -2685,7 +2805,7 @@
       "requisition_id": "R10257541",
       "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
       "location": "United States-North Carolina-Morrisville",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
       "source": "workday",
       "employer_posted_at": null,
@@ -2713,7 +2833,7 @@
       "requisition_id": "R10256499",
       "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
       "location": "United States-Maryland-Linthicum",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
       "source": "workday",
       "employer_posted_at": null,
@@ -2770,7 +2890,7 @@
       "requisition_id": "R10256411",
       "title": "2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD",
       "location": "United States-Maryland-Baltimore",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
       "source": "workday",
       "employer_posted_at": null,
@@ -2826,7 +2946,7 @@
       "requisition_id": "JR2026744",
       "title": "SoC Software Engineer - New College Grad 2027",
       "location": "US, CA, Santa Clara",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
       "source": "workday",
       "employer_posted_at": null,
@@ -2854,7 +2974,7 @@
       "requisition_id": "JR2027083",
       "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
       "location": "US, CA, Santa Clara; US, CA, Remote",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
       "source": "workday",
       "employer_posted_at": null,
@@ -2882,7 +3002,7 @@
       "requisition_id": "JR2027337",
       "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
       "location": "US, CA, Santa Clara",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
       "source": "workday",
       "employer_posted_at": null,
@@ -2910,7 +3030,7 @@
       "requisition_id": "JR2027431",
       "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
       "location": "US, CA, Santa Clara",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
       "source": "workday",
       "employer_posted_at": null,
@@ -2966,7 +3086,7 @@
       "requisition_id": null,
       "title": "Software Engineer | Early Careers, 2027 Start",
       "location": "New York City",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-07T21:25:01.579+00:00",
@@ -2997,7 +3117,7 @@
       "requisition_id": "R10254990",
       "title": "2027 - Associate Cyber Software Engineer - Cincinnati OH",
       "location": "United States-Ohio-Cincinnati",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1",
       "source": "workday",
       "employer_posted_at": null,
@@ -3025,7 +3145,7 @@
       "requisition_id": "01872447",
       "title": "Software Engineer I  (Onsite)",
       "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447",
       "source": "workday",
       "employer_posted_at": null,
@@ -3081,7 +3201,7 @@
       "requisition_id": "JB0076058",
       "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
       "location": "Mountain View, California, United States",
-      "employment_type": "Full-time",
+      "employment_type": "unknown",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
       "source": "smartrecruiters",
       "employer_posted_at": null,
@@ -3109,7 +3229,7 @@
       "requisition_id": null,
       "title": "Early Career Software Engineer",
       "location": "New York",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273",
       "employer_posted_at": null,
       "employer_published_at": "2026-10-01T12:40:29.510+00:00",
@@ -3140,7 +3260,7 @@
       "requisition_id": "R-285985",
       "title": "Data Engineer I, Launch Program 2027 – Arlington, VA, US",
       "location": "Arlington, Virginia",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
       "source": "workday",
       "employer_posted_at": null,
@@ -3196,7 +3316,7 @@
       "requisition_id": "R-287642",
       "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
       "location": "O'Fallon, Missouri",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
       "source": "workday",
       "employer_posted_at": null,
@@ -3310,7 +3430,7 @@
       "employer_id": "capital-one",
       "title": "Technology Development Program Associate - February 2027",
       "location": "McLean, VA; Richmond, VA; Plano, TX",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-february-2027/31238/99973065696",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -3377,7 +3497,7 @@
       "requisition_id": null,
       "title": "2027 New Graduate - Software Engineer",
       "location": "El Segundo, CA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-17T21:17:04.753+00:00",
@@ -3410,7 +3530,7 @@
       "employer_id": "capital-one",
       "title": "Technology Development Program Associate - August 2027",
       "location": "Richmond, VA; Plano, TX",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Development-Program-Associate---August-2027_R244385-1",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -3440,7 +3560,7 @@
       "requisition_id": null,
       "title": "Software Engineer - New Grad (2027)",
       "location": "Foster City, CA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-09T18:23:24.396+00:00",
@@ -3471,7 +3591,7 @@
       "requisition_id": "01872451",
       "title": "Software Engineer I  (Onsite)",
       "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872451",
       "source": "workday",
       "employer_posted_at": null,
@@ -3499,7 +3619,7 @@
       "requisition_id": "01872452",
       "title": "Software Engineer I  (Onsite)",
       "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452",
       "source": "workday",
       "employer_posted_at": null,
@@ -3527,7 +3647,7 @@
       "requisition_id": "01872445",
       "title": "Software Engineer I  (Onsite)",
       "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
-      "employment_type": "Full time",
+      "employment_type": "unknown",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445",
       "source": "workday",
       "employer_posted_at": null,
@@ -3555,7 +3675,7 @@
       "requisition_id": null,
       "title": "Software Engineer, New Grad 2027",
       "location": "San Francisco, CA; New York, NY; Palo Alto, CA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "employer_posted_at": null,
       "employer_published_at": "2026-09-08T23:51:35.588+00:00",
@@ -3642,7 +3762,7 @@
       "requisition_id": null,
       "title": "Associate Data Scientist (College Grad 2027)",
       "location": "Redwood City, CA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-28T15:00:35.390+00:00",
@@ -3781,6 +3901,68 @@
       ]
     },
     {
+      "id": "d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+      "requisition_id": null,
+      "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+      "location": "San Francisco",
+      "employment_type": "unknown",
+      "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-16T02:39:55.735+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
+      ],
+      "employer": "Netic",
+      "employer_id": "netic",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer (agent platform) - new grad - 2026-2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ],
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "Posting link returns HTTP 404"
+    },
+    {
+      "id": "bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+      "requisition_id": null,
+      "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
+      "location": "San Francisco",
+      "employment_type": "unknown",
+      "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-07-16T00:04:22.320+00:00",
+      "employer_updated_at": null,
+      "source": "ashby",
+      "source_links": [
+        "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3"
+      ],
+      "employer": "Netic",
+      "employer_id": "netic",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "full-stack software engineer (product) - new grad - 2026-2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ],
+      "link_closed": true,
+      "link_review_required": false,
+      "closure_reason": "Posting link returns HTTP 404"
+    },
+    {
       "id": "8049515",
       "requisition_id": "2044",
       "title": "Software Engineer I - Device Control ",
@@ -3815,7 +3997,7 @@
       "employer_id": "visa-inc",
       "title": "Software Engineer, New College Grad — 2027 — Austin",
       "location": "Austin, TX",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -3850,7 +4032,7 @@
       "employer_id": "visa-inc",
       "title": "Software Engineer, New College Grad — 2027 — Bellevue",
       "location": "Bellevue, WA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -3885,7 +4067,7 @@
       "employer_id": "visa-inc",
       "title": "Software Engineer, New College Grad — 2027 — Foster City",
       "location": "Foster City, CA",
-      "employment_type": "FullTime",
+      "employment_type": "unknown",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
       "source": "employer page — manual review",
       "employer_posted_at": null,
@@ -7126,7 +7308,7 @@
     {
       "id": "microsoft",
       "name": "Microsoft",
-      "coverage": "monitored",
+      "coverage": "configured",
       "health": "failed",
       "verification_overdue": true,
       "source": {
@@ -9307,7 +9489,7 @@
     {
       "id": "arch",
       "name": "Arch",
-      "coverage": "monitored",
+      "coverage": "configured",
       "health": "failed",
       "verification_overdue": true,
       "source": {
@@ -9379,5 +9561,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-05T13:30:08+00:00"
+  "snapshot_at": "2026-11-20T08:12:42+00:00"
 }

@@ -1,6 +1,6 @@
 # Employer coverage
 
-Snapshot: 2026-11-05T13:30:08+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
+Snapshot: 2026-11-20T08:12:42+00:00. Planned employers are not monitored. Current check timestamps are in the latest Actions health artifact.
 
 | Employer | Coverage | Source health | Overdue at snapshot |
 |---|---|---|---|
@@ -339,7 +339,7 @@ Snapshot: 2026-11-05T13:30:08+00:00. Planned employers are not monitored. Curren
 | MGM Resorts | planned | not checked | True |
 | Microchip Technology | planned | not checked | True |
 | Micron Technology | planned | not checked | True |
-| Microsoft | monitored | failed | True |
+| Microsoft | configured | failed | True |
 | Mid-America Apartment Communities | planned | not checked | True |
 | Moderna | planned | not checked | True |
 | Mondelez International | planned | not checked | True |
@@ -556,7 +556,7 @@ Snapshot: 2026-11-05T13:30:08+00:00. Planned employers are not monitored. Curren
 | Commure | monitored | healthy | False |
 | SEP | monitored | healthy | False |
 | Cursor / Anysphere | monitored | healthy | False |
-| Arch | monitored | failed | True |
+| Arch | configured | failed | True |
 | Solace | monitored | healthy | False |
 | Zip | monitored | healthy | False |
 | Freeform | monitored | healthy | False |

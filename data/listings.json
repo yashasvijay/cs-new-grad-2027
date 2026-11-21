@@ -214,15 +214,15 @@
       "secondary_reasons": []
     },
     {
-      "id": "8931343002",
+      "id": "8929545002",
       "requisition_id": "R9319",
       "title": "Software Dev Engineer I - Security Platform",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
       "employer_posted_at": null,
-      "employer_published_at": "2026-11-04T18:49:58-05:00",
-      "employer_updated_at": "2026-11-04T18:49:58-05:00",
+      "employer_published_at": "2026-11-04T18:49:55-05:00",
+      "employer_updated_at": "2026-11-04T18:49:55-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
@@ -1192,12 +1192,12 @@
       "id": "5221572007",
       "requisition_id": "922",
       "title": "Flight Software Engineer I (Temp-to-hire)",
-      "location": "Denver, CO; Long Beach, CA; Washington, DC",
+      "location": "Denver, CO; Long Beach, CA",
       "employment_type": "unknown",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
       "employer_posted_at": null,
       "employer_published_at": "2026-08-25T14:31:43-04:00",
-      "employer_updated_at": "2026-11-20T14:12:08-05:00",
+      "employer_updated_at": "2026-11-20T18:26:20-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
@@ -9589,5 +9589,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-20T23:01:44+00:00"
+  "snapshot_at": "2026-11-21T03:54:08+00:00"
 }

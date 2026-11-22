@@ -55,32 +55,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "2719c3abd6e2100142d59e5415dc0000",
-      "requisition_id": "R10261310",
-      "title": "2027 Associate Software Digital Engineer - Rolling Meadows IL  - Rolling Meadows IL",
-      "location": "United States-Illinois-Rolling Meadows",
-      "employment_type": "Full time",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Software-Digital-Engineer---Rolling-Meadows-IL----Rolling-Meadows-IL_R10261310",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-19",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Software-Digital-Engineer---Rolling-Meadows-IL----Rolling-Meadows-IL_R10261310"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-11-20T08:12:42+00:00",
-      "tracker_published_at": "2026-11-20T08:12:42+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
-      "review_required": true,
-      "listing_section": "general_early_career",
-      "secondary_reasons": []
-    },
-    {
       "id": "8949388002",
       "requisition_id": "R9323",
       "title": "Software Engineer I, Commerce",
@@ -116,7 +90,7 @@
       "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
       "employer_posted_at": null,
       "employer_published_at": "2026-11-16T18:30:43-05:00",
-      "employer_updated_at": "2026-11-21T14:37:31-05:00",
+      "employer_updated_at": "2026-11-22T02:36:24-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8384186?gh_jid=8384186"
@@ -214,15 +188,15 @@
       "secondary_reasons": []
     },
     {
-      "id": "8931343002",
+      "id": "8929545002",
       "requisition_id": "R9319",
       "title": "Software Dev Engineer I - Security Platform",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
       "employer_posted_at": null,
-      "employer_published_at": "2026-11-04T18:49:58-05:00",
-      "employer_updated_at": "2026-11-04T18:49:58-05:00",
+      "employer_published_at": "2026-11-04T18:49:55-05:00",
+      "employer_updated_at": "2026-11-04T18:49:55-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
@@ -2361,6 +2335,34 @@
       "review_required": true,
       "listing_section": "new_grad_2027",
       "secondary_reasons": []
+    },
+    {
+      "id": "2719c3abd6e2100142d59e5415dc0000",
+      "requisition_id": "R10261310",
+      "title": "2027 Associate Software Digital Engineer - Rolling Meadows IL  - Rolling Meadows IL",
+      "location": "United States-Illinois-Rolling Meadows",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Software-Digital-Engineer---Rolling-Meadows-IL----Rolling-Meadows-IL_R10261310",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-19",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Software-Digital-Engineer---Rolling-Meadows-IL----Rolling-Meadows-IL_R10261310"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "missing — verification pending",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "verification_pending"
+      ]
     },
     {
       "id": "25999",
@@ -9589,5 +9591,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-21T23:47:44+00:00"
+  "snapshot_at": "2026-11-22T11:56:17+00:00"
 }

@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "83ebcac1705110015423706503970000",
+      "requisition_id": "R10260171",
+      "title": "2027 Associate Software Engineer - Pathways - Boulder CO",
+      "location": "United States-Colorado-Boulder",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-23",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-11-23T19:58:24+00:00",
+      "tracker_published_at": "2026-11-23T19:58:24+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "5bde3eb80c331001a5c1ede4b5ec0000",
       "requisition_id": "R10261637",
       "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
@@ -18,6 +44,33 @@
       "employer_id": "northrop-grumman",
       "first_seen_at": "2026-11-23T07:56:39+00:00",
       "tracker_published_at": "2026-11-23T07:56:39+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time",
+      "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
+      "id": "af71bf44182810020771f340f7580000",
+      "requisition_id": "R10256499",
+      "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+      "location": "United States-Maryland-Linthicum",
+      "employment_type": "Full time",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "source": "workday",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-23",
+      "employer_updated_at": null,
+      "source_links": [
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
+      ],
+      "employer": "Northrop Grumman",
+      "employer_id": "northrop-grumman",
+      "first_seen_at": "2026-10-16T21:55:09+00:00",
+      "tracker_published_at": "2026-10-16T21:55:09+00:00",
       "status": "open",
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
@@ -116,7 +169,7 @@
       "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
       "employer_posted_at": null,
       "employer_published_at": "2026-11-16T18:30:43-05:00",
-      "employer_updated_at": "2026-11-23T02:36:12-05:00",
+      "employer_updated_at": "2026-11-23T14:37:50-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8384186?gh_jid=8384186"
@@ -214,15 +267,15 @@
       "secondary_reasons": []
     },
     {
-      "id": "8931343002",
+      "id": "8929545002",
       "requisition_id": "R9319",
       "title": "Software Dev Engineer I - Security Platform",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
       "employer_posted_at": null,
-      "employer_published_at": "2026-11-04T18:49:58-05:00",
-      "employer_updated_at": "2026-11-04T18:49:58-05:00",
+      "employer_published_at": "2026-11-04T18:49:55-05:00",
+      "employer_updated_at": "2026-11-04T18:49:55-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
@@ -2794,35 +2847,6 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time unverified — review",
       "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "closed"
-      ]
-    },
-    {
-      "id": "af71bf44182810020771f340f7580000",
-      "requisition_id": "R10256499",
-      "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
-      "location": "United States-Maryland-Linthicum",
-      "employment_type": "unknown",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-10-19",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
-      ],
-      "employer": "Northrop Grumman",
-      "employer_id": "northrop-grumman",
-      "first_seen_at": "2026-10-16T21:55:09+00:00",
-      "tracker_published_at": "2026-10-16T21:55:09+00:00",
-      "status": "closed",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time",
-      "evidence": "entry level",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9617,5 +9641,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-23T07:56:39+00:00"
+  "snapshot_at": "2026-11-23T19:58:24+00:00"
 }

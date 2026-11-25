@@ -108,32 +108,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "93a4316fc85e10454e5f039d0ae70000",
-      "requisition_id": "JR2027337",
-      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "employment_type": "Full time",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
-      "source": "workday",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-20",
-      "employer_updated_at": null,
-      "source_links": [
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
-      ],
-      "employer": "Nvidia",
-      "employer_id": "nvidia",
-      "first_seen_at": "2026-10-12T00:55:02+00:00",
-      "tracker_published_at": "2026-10-12T00:55:02+00:00",
-      "status": "open",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "software engineer, dl kernel libraries - new college grad 2027",
-      "review_required": true,
-      "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
       "id": "8949388002",
       "requisition_id": "R9323",
       "title": "Software Engineer I, Commerce",
@@ -2338,27 +2312,27 @@
       "secondary_reasons": []
     },
     {
-      "id": "5257769007",
-      "requisition_id": "1018",
-      "title": "Software Engineer I to III, Digital Engineering ",
-      "location": "Denver, CO; Long Beach, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
+      "id": "93a4316fc85e10454e5f039d0ae70000",
+      "requisition_id": "JR2027337",
+      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "employment_type": "Full time",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+      "source": "workday",
       "employer_posted_at": null,
-      "employer_published_at": "2026-10-06T11:13:46-04:00",
-      "employer_updated_at": "2026-11-12T17:21:07-05:00",
-      "source": "greenhouse",
+      "employer_published_at": "2026-11-20",
+      "employer_updated_at": null,
       "source_links": [
-        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
       ],
-      "employer": "True Anomaly",
-      "employer_id": "true-anomaly",
-      "first_seen_at": "2026-10-06T16:55:02+00:00",
-      "tracker_published_at": "2026-10-06T16:55:02+00:00",
+      "employer": "Nvidia",
+      "employer_id": "nvidia",
+      "first_seen_at": "2026-10-12T00:55:02+00:00",
+      "tracker_published_at": "2026-10-12T00:55:02+00:00",
       "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "software engineer, dl kernel libraries - new college grad 2027",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -2491,62 +2465,6 @@
       "secondary_reasons": [
         "verification_pending",
         "phd_only"
-      ]
-    },
-    {
-      "id": "5cde0d09-ba2d-408d-947e-4a42028cd4f7",
-      "requisition_id": null,
-      "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
-      "location": "San Jose, CA",
-      "employment_type": "Full-time",
-      "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "source": "lever",
-      "source_links": [
-        "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
-      ],
-      "employer": "WeRide",
-      "employer_id": "weride",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "graduation date between december 2026 and june 2027",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
-      "id": "5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
-      "requisition_id": null,
-      "title": "New Grads 2027 - Software Engineer, Algorithm",
-      "location": "San Jose, CA",
-      "employment_type": "Full-time",
-      "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
-      "employer_posted_at": null,
-      "employer_published_at": null,
-      "employer_updated_at": null,
-      "source": "lever",
-      "source_links": [
-        "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
-      ],
-      "employer": "WeRide",
-      "employer_id": "weride",
-      "first_seen_at": "2026-10-05T19:51:59+00:00",
-      "tracker_published_at": "2026-10-05T19:51:59+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "2027 mentioned — review requirements",
-      "employment": "full-time",
-      "evidence": "graduation date between december 2026 and june 2027",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
       ]
     },
     {
@@ -3136,6 +3054,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "5257769007",
+      "requisition_id": "1018",
+      "title": "Software Engineer I to III, Digital Engineering ",
+      "location": "Denver, CO; Long Beach, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-10-06T11:13:46-04:00",
+      "employer_updated_at": "2026-11-12T17:21:07-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
+      ],
+      "employer": "True Anomaly",
+      "employer_id": "true-anomaly",
+      "first_seen_at": "2026-10-06T16:55:02+00:00",
+      "tracker_published_at": "2026-10-06T16:55:02+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -4175,6 +4121,62 @@
       "eligibility": "2027 mentioned — review requirements",
       "employment": "full-time",
       "evidence": "software engineer, new college grad — 2027 — foster city",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "5cde0d09-ba2d-408d-947e-4a42028cd4f7",
+      "requisition_id": null,
+      "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+      "location": "San Jose, CA",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
+      ],
+      "employer": "WeRide",
+      "employer_id": "weride",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduation date between december 2026 and june 2027",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
+      "requisition_id": null,
+      "title": "New Grads 2027 - Software Engineer, Algorithm",
+      "location": "San Jose, CA",
+      "employment_type": "Full-time",
+      "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
+      "employer_posted_at": null,
+      "employer_published_at": null,
+      "employer_updated_at": null,
+      "source": "lever",
+      "source_links": [
+        "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
+      ],
+      "employer": "WeRide",
+      "employer_id": "weride",
+      "first_seen_at": "2026-10-05T19:51:59+00:00",
+      "tracker_published_at": "2026-10-05T19:51:59+00:00",
+      "status": "closed",
+      "eligibility": "2027 mentioned — review requirements",
+      "employment": "full-time",
+      "evidence": "graduation date between december 2026 and june 2027",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9647,5 +9649,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-25T08:12:33+00:00"
+  "snapshot_at": "2026-11-25T18:40:01+00:00"
 }

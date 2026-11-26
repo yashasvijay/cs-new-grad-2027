@@ -134,6 +134,33 @@
       "secondary_reasons": []
     },
     {
+      "id": "8949388002",
+      "requisition_id": "R9323",
+      "title": "Software Engineer I, Commerce",
+      "location": "Seattle, WA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-17T19:30:12-05:00",
+      "employer_updated_at": "2026-11-17T19:30:12-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+        "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "open",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
+      "review_required": true,
+      "listing_section": "general_early_career",
+      "secondary_reasons": []
+    },
+    {
       "id": "8384186",
       "requisition_id": "48577",
       "title": "[2027] Data Scientist - PhD Early Career - Safety",
@@ -142,7 +169,7 @@
       "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
       "employer_posted_at": null,
       "employer_published_at": "2026-11-16T18:30:43-05:00",
-      "employer_updated_at": "2026-11-26T02:36:26-05:00",
+      "employer_updated_at": "2026-11-26T14:38:03-05:00",
       "source": "greenhouse",
       "source_links": [
         "https://careers.roblox.com/jobs/8384186?gh_jid=8384186"
@@ -185,33 +212,6 @@
       "evidence": "systems engineering, new grad 2027",
       "review_required": true,
       "listing_section": "new_grad_2027",
-      "secondary_reasons": []
-    },
-    {
-      "id": "8934067002",
-      "requisition_id": "R9323",
-      "title": "Software Engineer I, Commerce",
-      "location": "San Francisco, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-11T13:39:50-05:00",
-      "employer_updated_at": "2026-11-11T13:39:50-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
-        "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
-      ],
-      "employer": "Twitch",
-      "employer_id": "twitch",
-      "first_seen_at": "2026-11-20T08:12:42+00:00",
-      "tracker_published_at": "2026-11-20T08:12:42+00:00",
-      "status": "open",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "general_early_career",
       "secondary_reasons": []
     },
     {
@@ -2312,34 +2312,6 @@
       "secondary_reasons": []
     },
     {
-      "id": "8943553002",
-      "requisition_id": "R9327",
-      "title": "Software Engineer I, Payments",
-      "location": "San Francisco, CA",
-      "employment_type": "unknown",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002",
-      "employer_posted_at": null,
-      "employer_published_at": "2026-11-13T18:16:21-05:00",
-      "employer_updated_at": "2026-11-13T18:16:21-05:00",
-      "source": "greenhouse",
-      "source_links": [
-        "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
-      ],
-      "employer": "Twitch",
-      "employer_id": "twitch",
-      "first_seen_at": "2026-11-20T08:12:42+00:00",
-      "tracker_published_at": "2026-11-20T08:12:42+00:00",
-      "status": "missing — verification pending",
-      "eligibility": "general entry-level — review 2027 eligibility",
-      "employment": "full-time unverified — review",
-      "evidence": "engineer i",
-      "review_required": true,
-      "listing_section": "secondary",
-      "secondary_reasons": [
-        "verification_pending"
-      ]
-    },
-    {
       "id": "25999",
       "requisition_id": "25999",
       "employer": "Atlassian",
@@ -2519,6 +2491,34 @@
       "eligibility": "general entry-level — review 2027 eligibility",
       "employment": "full-time",
       "evidence": "entry level",
+      "review_required": true,
+      "listing_section": "secondary",
+      "secondary_reasons": [
+        "closed"
+      ]
+    },
+    {
+      "id": "8943553002",
+      "requisition_id": "R9327",
+      "title": "Software Engineer I, Payments",
+      "location": "San Francisco, CA",
+      "employment_type": "unknown",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002",
+      "employer_posted_at": null,
+      "employer_published_at": "2026-11-13T18:16:21-05:00",
+      "employer_updated_at": "2026-11-13T18:16:21-05:00",
+      "source": "greenhouse",
+      "source_links": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
+      ],
+      "employer": "Twitch",
+      "employer_id": "twitch",
+      "first_seen_at": "2026-11-20T08:12:42+00:00",
+      "tracker_published_at": "2026-11-20T08:12:42+00:00",
+      "status": "closed",
+      "eligibility": "general entry-level — review 2027 eligibility",
+      "employment": "full-time unverified — review",
+      "evidence": "engineer i",
       "review_required": true,
       "listing_section": "secondary",
       "secondary_reasons": [
@@ -9649,5 +9649,5 @@
       "error": null
     }
   ],
-  "snapshot_at": "2026-11-26T10:39:57+00:00"
+  "snapshot_at": "2026-11-26T19:49:48+00:00"
 }
